@@ -1,0 +1,8970 @@
+[
+    {
+        "value": "Aargau",
+        "label": "Aargau"
+    },
+    {
+        "value": "Aberdeen City",
+        "label": "Aberdeen City"
+    },
+    {
+        "value": "Aberdeenshire",
+        "label": "Aberdeenshire"
+    },
+    {
+        "value": "Abia",
+        "label": "Abia"
+    },
+    {
+        "value": "Abra",
+        "label": "Abra"
+    },
+    {
+        "value": "Abruzzi",
+        "label": "Abruzzi"
+    },
+    {
+        "value": "Abseron",
+        "label": "Abseron"
+    },
+    {
+        "value": "Abu Dhabi",
+        "label": "Abu Dhabi"
+    },
+    {
+        "value": "Aceh",
+        "label": "Aceh"
+    },
+    {
+        "value": "Acre",
+        "label": "Acre"
+    },
+    {
+        "value": "Ad Dakhiliyah",
+        "label": "Ad Dakhiliyah"
+    },
+    {
+        "value": "Ad Daqahliyah",
+        "label": "Ad Daqahliyah"
+    },
+    {
+        "value": "Ad Dawhah",
+        "label": "Ad Dawhah"
+    },
+    {
+        "value": "Adamaoua",
+        "label": "Adamaoua"
+    },
+    {
+        "value": "Adamawa",
+        "label": "Adamawa"
+    },
+    {
+        "value": "Adana",
+        "label": "Adana"
+    },
+    {
+        "value": "Adis Abeba",
+        "label": "Adis Abeba"
+    },
+    {
+        "value": "Adygeya, Republic of",
+        "label": "Adygeya, Republic of"
+    },
+    {
+        "value": "Afyonkarahisar",
+        "label": "Afyonkarahisar"
+    },
+    {
+        "value": "Agri",
+        "label": "Agri"
+    },
+    {
+        "value": "Aguascalientes",
+        "label": "Aguascalientes"
+    },
+    {
+        "value": "Agusan del Norte",
+        "label": "Agusan del Norte"
+    },
+    {
+        "value": "Ahal",
+        "label": "Ahal"
+    },
+    {
+        "value": "Aichi",
+        "label": "Aichi"
+    },
+    {
+        "value": "Ain Defla",
+        "label": "Ain Defla"
+    },
+    {
+        "value": "Ain Temouchent",
+        "label": "Ain Temouchent"
+    },
+    {
+        "value": "Aisen del General Carlos Ibanez del Campo",
+        "label": "Aisen del General Carlos Ibanez del Campo"
+    },
+    {
+        "value": "Aitolia kai Akarnania",
+        "label": "Aitolia kai Akarnania"
+    },
+    {
+        "value": "Aizkraukles",
+        "label": "Aizkraukles"
+    },
+    {
+        "value": "Ajaria",
+        "label": "Ajaria"
+    },
+    {
+        "value": "Ajdovscina Commune",
+        "label": "Ajdovscina Commune"
+    },
+    {
+        "value": "Ajman",
+        "label": "Ajman"
+    },
+    {
+        "value": "Akershus",
+        "label": "Akershus"
+    },
+    {
+        "value": "Akhaia",
+        "label": "Akhaia"
+    },
+    {
+        "value": "Akita",
+        "label": "Akita"
+    },
+    {
+        "value": "Aklan",
+        "label": "Aklan"
+    },
+    {
+        "value": "Aksaray",
+        "label": "Aksaray"
+    },
+    {
+        "value": "Akwa Ibom",
+        "label": "Akwa Ibom"
+    },
+    {
+        "value": "Al Anbar",
+        "label": "Al Anbar"
+    },
+    {
+        "value": "Al Aqabah",
+        "label": "Al Aqabah"
+    },
+    {
+        "value": "Al Bahr al Ahmar",
+        "label": "Al Bahr al Ahmar"
+    },
+    {
+        "value": "Al Balqa'",
+        "label": "Al Balqa'"
+    },
+    {
+        "value": "Al Basrah",
+        "label": "Al Basrah"
+    },
+    {
+        "value": "Al Batinah",
+        "label": "Al Batinah"
+    },
+    {
+        "value": "Al Buhayrah",
+        "label": "Al Buhayrah"
+    },
+    {
+        "value": "Al Fayyum",
+        "label": "Al Fayyum"
+    },
+    {
+        "value": "Al Gharbiyah",
+        "label": "Al Gharbiyah"
+    },
+    {
+        "value": "Al Hadd",
+        "label": "Al Hadd"
+    },
+    {
+        "value": "Al Iskandariyah",
+        "label": "Al Iskandariyah"
+    },
+    {
+        "value": "Al Isma'iliyah",
+        "label": "Al Isma'iliyah"
+    },
+    {
+        "value": "Al Jahra",
+        "label": "Al Jahra"
+    },
+    {
+        "value": "Al Janub",
+        "label": "Al Janub"
+    },
+    {
+        "value": "Al Jizah",
+        "label": "Al Jizah"
+    },
+    {
+        "value": "Al Karak",
+        "label": "Al Karak"
+    },
+    {
+        "value": "Al Khartum",
+        "label": "Al Khartum"
+    },
+    {
+        "value": "Al Khawr",
+        "label": "Al Khawr"
+    },
+    {
+        "value": "Al Kuwayt",
+        "label": "Al Kuwayt"
+    },
+    {
+        "value": "Al Ladhiqiyah",
+        "label": "Al Ladhiqiyah"
+    },
+    {
+        "value": "Al Madinah",
+        "label": "Al Madinah"
+    },
+    {
+        "value": "Al Mahdia",
+        "label": "Al Mahdia"
+    },
+    {
+        "value": "Al Manamah",
+        "label": "Al Manamah"
+    },
+    {
+        "value": "Al Mintaqah al Gharbiyah",
+        "label": "Al Mintaqah al Gharbiyah"
+    },
+    {
+        "value": "Al Mintaqah al Wusta",
+        "label": "Al Mintaqah al Wusta"
+    },
+    {
+        "value": "Al Mintaqah ash Shamaliyah",
+        "label": "Al Mintaqah ash Shamaliyah"
+    },
+    {
+        "value": "Al Minufiyah",
+        "label": "Al Minufiyah"
+    },
+    {
+        "value": "Al Minya",
+        "label": "Al Minya"
+    },
+    {
+        "value": "Al Munastir",
+        "label": "Al Munastir"
+    },
+    {
+        "value": "Al Qadisiyah",
+        "label": "Al Qadisiyah"
+    },
+    {
+        "value": "Al Qahirah",
+        "label": "Al Qahirah"
+    },
+    {
+        "value": "Al Qalyubiyah",
+        "label": "Al Qalyubiyah"
+    },
+    {
+        "value": "Al Qasim",
+        "label": "Al Qasim"
+    },
+    {
+        "value": "Al Wakrah",
+        "label": "Al Wakrah"
+    },
+    {
+        "value": "Al Wusta",
+        "label": "Al Wusta"
+    },
+    {
+        "value": "Alabama",
+        "label": "Alabama"
+    },
+    {
+        "value": "Alagoas",
+        "label": "Alagoas"
+    },
+    {
+        "value": "Alajuela",
+        "label": "Alajuela"
+    },
+    {
+        "value": "Aland",
+        "label": "Aland"
+    },
+    {
+        "value": "Alaska",
+        "label": "Alaska"
+    },
+    {
+        "value": "Alba",
+        "label": "Alba"
+    },
+    {
+        "value": "Albay",
+        "label": "Albay"
+    },
+    {
+        "value": "Alberta",
+        "label": "Alberta"
+    },
+    {
+        "value": "Alborz",
+        "label": "Alborz"
+    },
+    {
+        "value": "Alger",
+        "label": "Alger"
+    },
+    {
+        "value": "Almaty",
+        "label": "Almaty"
+    },
+    {
+        "value": "Almaty City",
+        "label": "Almaty City"
+    },
+    {
+        "value": "Alsace",
+        "label": "Alsace"
+    },
+    {
+        "value": "Alta Verapaz",
+        "label": "Alta Verapaz"
+    },
+    {
+        "value": "Altaisky krai",
+        "label": "Altaisky krai"
+    },
+    {
+        "value": "Alto Parana",
+        "label": "Alto Parana"
+    },
+    {
+        "value": "Alytaus Apskritis",
+        "label": "Alytaus Apskritis"
+    },
+    {
+        "value": "Amapa",
+        "label": "Amapa"
+    },
+    {
+        "value": "Amara",
+        "label": "Amara"
+    },
+    {
+        "value": "Amasya",
+        "label": "Amasya"
+    },
+    {
+        "value": "Amazonas",
+        "label": "Amazonas"
+    },
+    {
+        "value": "Amman",
+        "label": "Amman"
+    },
+    {
+        "value": "Amur",
+        "label": "Amur"
+    },
+    {
+        "value": "An Najaf",
+        "label": "An Najaf"
+    },
+    {
+        "value": "Anambra",
+        "label": "Anambra"
+    },
+    {
+        "value": "Ancash",
+        "label": "Ancash"
+    },
+    {
+        "value": "Andalucia",
+        "label": "Andalucia"
+    },
+    {
+        "value": "Andaman and Nicobar Islands",
+        "label": "Andaman and Nicobar Islands"
+    },
+    {
+        "value": "Andhra Pradesh",
+        "label": "Andhra Pradesh"
+    },
+    {
+        "value": "Andorra la Vella",
+        "label": "Andorra la Vella"
+    },
+    {
+        "value": "Ang Thong",
+        "label": "Ang Thong"
+    },
+    {
+        "value": "Angeles",
+        "label": "Angeles"
+    },
+    {
+        "value": "Angus",
+        "label": "Angus"
+    },
+    {
+        "value": "Anhui",
+        "label": "Anhui"
+    },
+    {
+        "value": "Anjouan",
+        "label": "Anjouan"
+    },
+    {
+        "value": "Ankara",
+        "label": "Ankara"
+    },
+    {
+        "value": "Annaba",
+        "label": "Annaba"
+    },
+    {
+        "value": "Antalya",
+        "label": "Antalya"
+    },
+    {
+        "value": "Antananarivo",
+        "label": "Antananarivo"
+    },
+    {
+        "value": "Antioquia",
+        "label": "Antioquia"
+    },
+    {
+        "value": "Antofagasta",
+        "label": "Antofagasta"
+    },
+    {
+        "value": "Antrim",
+        "label": "Antrim"
+    },
+    {
+        "value": "Antsiranana",
+        "label": "Antsiranana"
+    },
+    {
+        "value": "Antwerpen",
+        "label": "Antwerpen"
+    },
+    {
+        "value": "Aomori",
+        "label": "Aomori"
+    },
+    {
+        "value": "Apurimac",
+        "label": "Apurimac"
+    },
+    {
+        "value": "Aqmola",
+        "label": "Aqmola"
+    },
+    {
+        "value": "Aquitaine",
+        "label": "Aquitaine"
+    },
+    {
+        "value": "Ar Rayyan",
+        "label": "Ar Rayyan"
+    },
+    {
+        "value": "Ar Rifa",
+        "label": "Ar Rifa"
+    },
+    {
+        "value": "Ar Riyad",
+        "label": "Ar Riyad"
+    },
+    {
+        "value": "Arad",
+        "label": "Arad"
+    },
+    {
+        "value": "Aragatsotn",
+        "label": "Aragatsotn"
+    },
+    {
+        "value": "Aragon",
+        "label": "Aragon"
+    },
+    {
+        "value": "Ararat",
+        "label": "Ararat"
+    },
+    {
+        "value": "Araucania",
+        "label": "Araucania"
+    },
+    {
+        "value": "Arbil",
+        "label": "Arbil"
+    },
+    {
+        "value": "Ardabil",
+        "label": "Ardabil"
+    },
+    {
+        "value": "Ards",
+        "label": "Ards"
+    },
+    {
+        "value": "Arequipa",
+        "label": "Arequipa"
+    },
+    {
+        "value": "Arges",
+        "label": "Arges"
+    },
+    {
+        "value": "Argolis",
+        "label": "Argolis"
+    },
+    {
+        "value": "Argyll and Bute",
+        "label": "Argyll and Bute"
+    },
+    {
+        "value": "Arica y Parinacota",
+        "label": "Arica y Parinacota"
+    },
+    {
+        "value": "Arima",
+        "label": "Arima"
+    },
+    {
+        "value": "Arizona",
+        "label": "Arizona"
+    },
+    {
+        "value": "Arkadhia",
+        "label": "Arkadhia"
+    },
+    {
+        "value": "Arkansas",
+        "label": "Arkansas"
+    },
+    {
+        "value": "Arkhangel'sk",
+        "label": "Arkhangel'sk"
+    },
+    {
+        "value": "Armagh",
+        "label": "Armagh"
+    },
+    {
+        "value": "Armed Forces Americas",
+        "label": "Armed Forces Americas"
+    },
+    {
+        "value": "Armed Forces Europe, Middle East, & Canada",
+        "label": "Armed Forces Europe, Middle East, & Canada"
+    },
+    {
+        "value": "Armed Forces Pacific",
+        "label": "Armed Forces Pacific"
+    },
+    {
+        "value": "Arnessysla",
+        "label": "Arnessysla"
+    },
+    {
+        "value": "Arta",
+        "label": "Arta"
+    },
+    {
+        "value": "Artibonite",
+        "label": "Artibonite"
+    },
+    {
+        "value": "Artvin",
+        "label": "Artvin"
+    },
+    {
+        "value": "Arunachal Pradesh",
+        "label": "Arunachal Pradesh"
+    },
+    {
+        "value": "Arusha",
+        "label": "Arusha"
+    },
+    {
+        "value": "As Sulaymaniyah",
+        "label": "As Sulaymaniyah"
+    },
+    {
+        "value": "As Suwayda'",
+        "label": "As Suwayda'"
+    },
+    {
+        "value": "As Suways",
+        "label": "As Suways"
+    },
+    {
+        "value": "Ash Sharqiyah",
+        "label": "Ash Sharqiyah"
+    },
+    {
+        "value": "Ashanti",
+        "label": "Ashanti"
+    },
+    {
+        "value": "Asir Province",
+        "label": "Asir Province"
+    },
+    {
+        "value": "Assam",
+        "label": "Assam"
+    },
+    {
+        "value": "Astana",
+        "label": "Astana"
+    },
+    {
+        "value": "Astrakhan'",
+        "label": "Astrakhan'"
+    },
+    {
+        "value": "Asturias",
+        "label": "Asturias"
+    },
+    {
+        "value": "Aswan",
+        "label": "Aswan"
+    },
+    {
+        "value": "Asyut",
+        "label": "Asyut"
+    },
+    {
+        "value": "Atacama",
+        "label": "Atacama"
+    },
+    {
+        "value": "Atlantico",
+        "label": "Atlantico"
+    },
+    {
+        "value": "Atlantida",
+        "label": "Atlantida"
+    },
+    {
+        "value": "Atlanyique",
+        "label": "Atlanyique"
+    },
+    {
+        "value": "Attiki",
+        "label": "Attiki"
+    },
+    {
+        "value": "Atyrau",
+        "label": "Atyrau"
+    },
+    {
+        "value": "Auckland",
+        "label": "Auckland"
+    },
+    {
+        "value": "Ausser-Rhoden",
+        "label": "Ausser-Rhoden"
+    },
+    {
+        "value": "Aust-Agder",
+        "label": "Aust-Agder"
+    },
+    {
+        "value": "Australian Capital Territory",
+        "label": "Australian Capital Territory"
+    },
+    {
+        "value": "Austur-Skaftafellssysla",
+        "label": "Austur-Skaftafellssysla"
+    },
+    {
+        "value": "Austurland",
+        "label": "Austurland"
+    },
+    {
+        "value": "Auvergne",
+        "label": "Auvergne"
+    },
+    {
+        "value": "Aveiro",
+        "label": "Aveiro"
+    },
+    {
+        "value": "Ayacucho",
+        "label": "Ayacucho"
+    },
+    {
+        "value": "Aydin",
+        "label": "Aydin"
+    },
+    {
+        "value": "Az Zahirah",
+        "label": "Az Zahirah"
+    },
+    {
+        "value": "Az Zawiyah",
+        "label": "Az Zawiyah"
+    },
+    {
+        "value": "Azad Kashmir",
+        "label": "Azad Kashmir"
+    },
+    {
+        "value": "Azarbayjan-e Bakhtari",
+        "label": "Azarbayjan-e Bakhtari"
+    },
+    {
+        "value": "Azores",
+        "label": "Azores"
+    },
+    {
+        "value": "Azuay",
+        "label": "Azuay"
+    },
+    {
+        "value": "Babil",
+        "label": "Babil"
+    },
+    {
+        "value": "Bacau",
+        "label": "Bacau"
+    },
+    {
+        "value": "Bacolod",
+        "label": "Bacolod"
+    },
+    {
+        "value": "Bacs-Kiskun",
+        "label": "Bacs-Kiskun"
+    },
+    {
+        "value": "Baden-Wurttemberg",
+        "label": "Baden-Wurttemberg"
+    },
+    {
+        "value": "Baghdad",
+        "label": "Baghdad"
+    },
+    {
+        "value": "Bagmati",
+        "label": "Bagmati"
+    },
+    {
+        "value": "Baguio",
+        "label": "Baguio"
+    },
+    {
+        "value": "Bahia",
+        "label": "Bahia"
+    },
+    {
+        "value": "Baja California",
+        "label": "Baja California"
+    },
+    {
+        "value": "Baja California Sur",
+        "label": "Baja California Sur"
+    },
+    {
+        "value": "Bajah",
+        "label": "Bajah"
+    },
+    {
+        "value": "Baki",
+        "label": "Baki"
+    },
+    {
+        "value": "Bali",
+        "label": "Bali"
+    },
+    {
+        "value": "Balikesir",
+        "label": "Balikesir"
+    },
+    {
+        "value": "Ballymena",
+        "label": "Ballymena"
+    },
+    {
+        "value": "Ballymoney",
+        "label": "Ballymoney"
+    },
+    {
+        "value": "Balochistan",
+        "label": "Balochistan"
+    },
+    {
+        "value": "Balzers",
+        "label": "Balzers"
+    },
+    {
+        "value": "Bamako",
+        "label": "Bamako"
+    },
+    {
+        "value": "Banaadir",
+        "label": "Banaadir"
+    },
+    {
+        "value": "Banbridge",
+        "label": "Banbridge"
+    },
+    {
+        "value": "Bandundu",
+        "label": "Bandundu"
+    },
+    {
+        "value": "Banghazi",
+        "label": "Banghazi"
+    },
+    {
+        "value": "Bangui",
+        "label": "Bangui"
+    },
+    {
+        "value": "Banjul",
+        "label": "Banjul"
+    },
+    {
+        "value": "Banska Bystrica",
+        "label": "Banska Bystrica"
+    },
+    {
+        "value": "Banten",
+        "label": "Banten"
+    },
+    {
+        "value": "Baranya",
+        "label": "Baranya"
+    },
+    {
+        "value": "Barbuda",
+        "label": "Barbuda"
+    },
+    {
+        "value": "Bari",
+        "label": "Bari"
+    },
+    {
+        "value": "Barisal",
+        "label": "Barisal"
+    },
+    {
+        "value": "Barking and Dagenham",
+        "label": "Barking and Dagenham"
+    },
+    {
+        "value": "Barnet",
+        "label": "Barnet"
+    },
+    {
+        "value": "Barnsley",
+        "label": "Barnsley"
+    },
+    {
+        "value": "Basel-Landschaft",
+        "label": "Basel-Landschaft"
+    },
+    {
+        "value": "Basel-Stadt",
+        "label": "Basel-Stadt"
+    },
+    {
+        "value": "Bashkortostan",
+        "label": "Bashkortostan"
+    },
+    {
+        "value": "Basilan",
+        "label": "Basilan"
+    },
+    {
+        "value": "Basilicata",
+        "label": "Basilicata"
+    },
+    {
+        "value": "Basse-Normandie",
+        "label": "Basse-Normandie"
+    },
+    {
+        "value": "Batangas",
+        "label": "Batangas"
+    },
+    {
+        "value": "Batangas City",
+        "label": "Batangas City"
+    },
+    {
+        "value": "Bath and North East Somerset",
+        "label": "Bath and North East Somerset"
+    },
+    {
+        "value": "Batman",
+        "label": "Batman"
+    },
+    {
+        "value": "Bauchi",
+        "label": "Bauchi"
+    },
+    {
+        "value": "Bauskas",
+        "label": "Bauskas"
+    },
+    {
+        "value": "Bay of Plenty",
+        "label": "Bay of Plenty"
+    },
+    {
+        "value": "Bayburt",
+        "label": "Bayburt"
+    },
+    {
+        "value": "Bayelsa",
+        "label": "Bayelsa"
+    },
+    {
+        "value": "Bayern",
+        "label": "Bayern"
+    },
+    {
+        "value": "Beau Vallon",
+        "label": "Beau Vallon"
+    },
+    {
+        "value": "Bedfordshire",
+        "label": "Bedfordshire"
+    },
+    {
+        "value": "Beijing",
+        "label": "Beijing"
+    },
+    {
+        "value": "Beja",
+        "label": "Beja"
+    },
+    {
+        "value": "Bejaia",
+        "label": "Bejaia"
+    },
+    {
+        "value": "Bekes",
+        "label": "Bekes"
+    },
+    {
+        "value": "Belfast",
+        "label": "Belfast"
+    },
+    {
+        "value": "Belgorod",
+        "label": "Belgorod"
+    },
+    {
+        "value": "Belize",
+        "label": "Belize"
+    },
+    {
+        "value": "Ben Arous",
+        "label": "Ben Arous"
+    },
+    {
+        "value": "Bengkulu",
+        "label": "Bengkulu"
+    },
+    {
+        "value": "Benguela",
+        "label": "Benguela"
+    },
+    {
+        "value": "Benguet",
+        "label": "Benguet"
+    },
+    {
+        "value": "Benue",
+        "label": "Benue"
+    },
+    {
+        "value": "Beqaa",
+        "label": "Beqaa"
+    },
+    {
+        "value": "Berlin",
+        "label": "Berlin"
+    },
+    {
+        "value": "Bern",
+        "label": "Bern"
+    },
+    {
+        "value": "Bexley",
+        "label": "Bexley"
+    },
+    {
+        "value": "Beyrouth",
+        "label": "Beyrouth"
+    },
+    {
+        "value": "Bihar",
+        "label": "Bihar"
+    },
+    {
+        "value": "Bihor",
+        "label": "Bihor"
+    },
+    {
+        "value": "Bilecik",
+        "label": "Bilecik"
+    },
+    {
+        "value": "Bio-Bio",
+        "label": "Bio-Bio"
+    },
+    {
+        "value": "Bioko Norte",
+        "label": "Bioko Norte"
+    },
+    {
+        "value": "Birmingham",
+        "label": "Birmingham"
+    },
+    {
+        "value": "Bishkek",
+        "label": "Bishkek"
+    },
+    {
+        "value": "Bissau",
+        "label": "Bissau"
+    },
+    {
+        "value": "Bistrita-Nasaud",
+        "label": "Bistrita-Nasaud"
+    },
+    {
+        "value": "Bitola",
+        "label": "Bitola"
+    },
+    {
+        "value": "Bizerte",
+        "label": "Bizerte"
+    },
+    {
+        "value": "Bjelovarsko-Bilogorska",
+        "label": "Bjelovarsko-Bilogorska"
+    },
+    {
+        "value": "Black River",
+        "label": "Black River"
+    },
+    {
+        "value": "Blackburn with Darwen",
+        "label": "Blackburn with Darwen"
+    },
+    {
+        "value": "Blackpool",
+        "label": "Blackpool"
+    },
+    {
+        "value": "Blaenau Gwent",
+        "label": "Blaenau Gwent"
+    },
+    {
+        "value": "Blagoevgrad",
+        "label": "Blagoevgrad"
+    },
+    {
+        "value": "Blantyre",
+        "label": "Blantyre"
+    },
+    {
+        "value": "Blekinge Lan",
+        "label": "Blekinge Lan"
+    },
+    {
+        "value": "Blida",
+        "label": "Blida"
+    },
+    {
+        "value": "Bocas del Toro",
+        "label": "Bocas del Toro"
+    },
+    {
+        "value": "Bohinj Commune",
+        "label": "Bohinj Commune"
+    },
+    {
+        "value": "Bohol",
+        "label": "Bohol"
+    },
+    {
+        "value": "Boke",
+        "label": "Boke"
+    },
+    {
+        "value": "Bolivar",
+        "label": "Bolivar"
+    },
+    {
+        "value": "Bolton",
+        "label": "Bolton"
+    },
+    {
+        "value": "Bolu",
+        "label": "Bolu"
+    },
+    {
+        "value": "Bordj Bou Arreridj",
+        "label": "Bordj Bou Arreridj"
+    },
+    {
+        "value": "Borgarfjardarsysla",
+        "label": "Borgarfjardarsysla"
+    },
+    {
+        "value": "Borjomis Raioni",
+        "label": "Borjomis Raioni"
+    },
+    {
+        "value": "Borno",
+        "label": "Borno"
+    },
+    {
+        "value": "Borovnica Commune",
+        "label": "Borovnica Commune"
+    },
+    {
+        "value": "Borsod-Abauj-Zemplen",
+        "label": "Borsod-Abauj-Zemplen"
+    },
+    {
+        "value": "Botosani",
+        "label": "Botosani"
+    },
+    {
+        "value": "Boumerdes",
+        "label": "Boumerdes"
+    },
+    {
+        "value": "Bourgogne",
+        "label": "Bourgogne"
+    },
+    {
+        "value": "Bournemouth",
+        "label": "Bournemouth"
+    },
+    {
+        "value": "Boyaca",
+        "label": "Boyaca"
+    },
+    {
+        "value": "Brabant Wallon",
+        "label": "Brabant Wallon"
+    },
+    {
+        "value": "Bracknell Forest",
+        "label": "Bracknell Forest"
+    },
+    {
+        "value": "Bradford",
+        "label": "Bradford"
+    },
+    {
+        "value": "Braga",
+        "label": "Braga"
+    },
+    {
+        "value": "Braganca",
+        "label": "Braganca"
+    },
+    {
+        "value": "Braila",
+        "label": "Braila"
+    },
+    {
+        "value": "Brandenburg",
+        "label": "Brandenburg"
+    },
+    {
+        "value": "Brasov",
+        "label": "Brasov"
+    },
+    {
+        "value": "Bratislava",
+        "label": "Bratislava"
+    },
+    {
+        "value": "Brazzaville",
+        "label": "Brazzaville"
+    },
+    {
+        "value": "Brcko District",
+        "label": "Brcko District"
+    },
+    {
+        "value": "Bremen",
+        "label": "Bremen"
+    },
+    {
+        "value": "Brent",
+        "label": "Brent"
+    },
+    {
+        "value": "Brestskaya Voblasts'",
+        "label": "Brestskaya Voblasts'"
+    },
+    {
+        "value": "Bretagne",
+        "label": "Bretagne"
+    },
+    {
+        "value": "Brezovica Commune",
+        "label": "Brezovica Commune"
+    },
+    {
+        "value": "Bridgend",
+        "label": "Bridgend"
+    },
+    {
+        "value": "Brighton and Hove",
+        "label": "Brighton and Hove"
+    },
+    {
+        "value": "Bristol, City of",
+        "label": "Bristol, City of"
+    },
+    {
+        "value": "British Columbia",
+        "label": "British Columbia"
+    },
+    {
+        "value": "Brodsko-Posavska",
+        "label": "Brodsko-Posavska"
+    },
+    {
+        "value": "Bromley",
+        "label": "Bromley"
+    },
+    {
+        "value": "Brong-Ahafo",
+        "label": "Brong-Ahafo"
+    },
+    {
+        "value": "Brunei and Muara",
+        "label": "Brunei and Muara"
+    },
+    {
+        "value": "Brussels Hoofdstedelijk Gewest",
+        "label": "Brussels Hoofdstedelijk Gewest"
+    },
+    {
+        "value": "Bryansk",
+        "label": "Bryansk"
+    },
+    {
+        "value": "Buckinghamshire",
+        "label": "Buckinghamshire"
+    },
+    {
+        "value": "Bucuresti",
+        "label": "Bucuresti"
+    },
+    {
+        "value": "Budapest",
+        "label": "Budapest"
+    },
+    {
+        "value": "Buenos Aires",
+        "label": "Buenos Aires"
+    },
+    {
+        "value": "Bujumbura",
+        "label": "Bujumbura"
+    },
+    {
+        "value": "Bukidnon",
+        "label": "Bukidnon"
+    },
+    {
+        "value": "Bulacan",
+        "label": "Bulacan"
+    },
+    {
+        "value": "Bumthang",
+        "label": "Bumthang"
+    },
+    {
+        "value": "Bur Sa'id",
+        "label": "Bur Sa'id"
+    },
+    {
+        "value": "Burdur",
+        "label": "Burdur"
+    },
+    {
+        "value": "Burgas",
+        "label": "Burgas"
+    },
+    {
+        "value": "Burgenland",
+        "label": "Burgenland"
+    },
+    {
+        "value": "Buriram",
+        "label": "Buriram"
+    },
+    {
+        "value": "Bursa",
+        "label": "Bursa"
+    },
+    {
+        "value": "Bury",
+        "label": "Bury"
+    },
+    {
+        "value": "Buryat",
+        "label": "Buryat"
+    },
+    {
+        "value": "Bushehr",
+        "label": "Bushehr"
+    },
+    {
+        "value": "Buskerud",
+        "label": "Buskerud"
+    },
+    {
+        "value": "Butare",
+        "label": "Butare"
+    },
+    {
+        "value": "Butuan",
+        "label": "Butuan"
+    },
+    {
+        "value": "Buzau",
+        "label": "Buzau"
+    },
+    {
+        "value": "Caaguazu",
+        "label": "Caaguazu"
+    },
+    {
+        "value": "Cabanatuan",
+        "label": "Cabanatuan"
+    },
+    {
+        "value": "Cabo Delgado",
+        "label": "Cabo Delgado"
+    },
+    {
+        "value": "Caerphilly",
+        "label": "Caerphilly"
+    },
+    {
+        "value": "Cagayan",
+        "label": "Cagayan"
+    },
+    {
+        "value": "Cagayan de Oro",
+        "label": "Cagayan de Oro"
+    },
+    {
+        "value": "Cajamarca",
+        "label": "Cajamarca"
+    },
+    {
+        "value": "Calabria",
+        "label": "Calabria"
+    },
+    {
+        "value": "Calarasi",
+        "label": "Calarasi"
+    },
+    {
+        "value": "Caldas",
+        "label": "Caldas"
+    },
+    {
+        "value": "Calderdale",
+        "label": "Calderdale"
+    },
+    {
+        "value": "California",
+        "label": "California"
+    },
+    {
+        "value": "Callao",
+        "label": "Callao"
+    },
+    {
+        "value": "Caloocan",
+        "label": "Caloocan"
+    },
+    {
+        "value": "Camarines Norte",
+        "label": "Camarines Norte"
+    },
+    {
+        "value": "Camarines Sur",
+        "label": "Camarines Sur"
+    },
+    {
+        "value": "Cambridgeshire",
+        "label": "Cambridgeshire"
+    },
+    {
+        "value": "Camden",
+        "label": "Camden"
+    },
+    {
+        "value": "Campania",
+        "label": "Campania"
+    },
+    {
+        "value": "Campeche",
+        "label": "Campeche"
+    },
+    {
+        "value": "Canakkale",
+        "label": "Canakkale"
+    },
+    {
+        "value": "Canarias",
+        "label": "Canarias"
+    },
+    {
+        "value": "Canillo",
+        "label": "Canillo"
+    },
+    {
+        "value": "Cantabria",
+        "label": "Cantabria"
+    },
+    {
+        "value": "Cantemir",
+        "label": "Cantemir"
+    },
+    {
+        "value": "Canterbury",
+        "label": "Canterbury"
+    },
+    {
+        "value": "Capiz",
+        "label": "Capiz"
+    },
+    {
+        "value": "Caqueta",
+        "label": "Caqueta"
+    },
+    {
+        "value": "Caras-Severin",
+        "label": "Caras-Severin"
+    },
+    {
+        "value": "Cardiff",
+        "label": "Cardiff"
+    },
+    {
+        "value": "Carlow",
+        "label": "Carlow"
+    },
+    {
+        "value": "Carmarthenshire",
+        "label": "Carmarthenshire"
+    },
+    {
+        "value": "Caroni",
+        "label": "Caroni"
+    },
+    {
+        "value": "Carrickfergus",
+        "label": "Carrickfergus"
+    },
+    {
+        "value": "Cartago",
+        "label": "Cartago"
+    },
+    {
+        "value": "Casanare",
+        "label": "Casanare"
+    },
+    {
+        "value": "Castelo Branco",
+        "label": "Castelo Branco"
+    },
+    {
+        "value": "Castilla y Leon",
+        "label": "Castilla y Leon"
+    },
+    {
+        "value": "Castilla-La Mancha",
+        "label": "Castilla-La Mancha"
+    },
+    {
+        "value": "Castlereagh",
+        "label": "Castlereagh"
+    },
+    {
+        "value": "Castries",
+        "label": "Castries"
+    },
+    {
+        "value": "Catalonia",
+        "label": "Catalonia"
+    },
+    {
+        "value": "Catamarca",
+        "label": "Catamarca"
+    },
+    {
+        "value": "Cauca",
+        "label": "Cauca"
+    },
+    {
+        "value": "Cavan",
+        "label": "Cavan"
+    },
+    {
+        "value": "Cavite",
+        "label": "Cavite"
+    },
+    {
+        "value": "Cavite City",
+        "label": "Cavite City"
+    },
+    {
+        "value": "Cayo",
+        "label": "Cayo"
+    },
+    {
+        "value": "Ceara",
+        "label": "Ceara"
+    },
+    {
+        "value": "Cebu",
+        "label": "Cebu"
+    },
+    {
+        "value": "Cebu City",
+        "label": "Cebu City"
+    },
+    {
+        "value": "Celje Commune",
+        "label": "Celje Commune"
+    },
+    {
+        "value": "Central",
+        "label": "Central"
+    },
+    {
+        "value": "Central Bedfordshire",
+        "label": "Central Bedfordshire"
+    },
+    {
+        "value": "Central Equatoria State",
+        "label": "Central Equatoria State"
+    },
+    {
+        "value": "Central Region",
+        "label": "Central Region"
+    },
+    {
+        "value": "Centre",
+        "label": "Centre"
+    },
+    {
+        "value": "Ceredigion",
+        "label": "Ceredigion"
+    },
+    {
+        "value": "Cerklje na Gorenjskem Commune",
+        "label": "Cerklje na Gorenjskem Commune"
+    },
+    {
+        "value": "Cerknica Commune",
+        "label": "Cerknica Commune"
+    },
+    {
+        "value": "Cesar",
+        "label": "Cesar"
+    },
+    {
+        "value": "Cesu",
+        "label": "Cesu"
+    },
+    {
+        "value": "Ch'ungch'ong-bukto",
+        "label": "Ch'ungch'ong-bukto"
+    },
+    {
+        "value": "Ch'ungch'ong-namdo",
+        "label": "Ch'ungch'ong-namdo"
+    },
+    {
+        "value": "Chachoengsao",
+        "label": "Chachoengsao"
+    },
+    {
+        "value": "Chaco",
+        "label": "Chaco"
+    },
+    {
+        "value": "Chahar Mahall va Bakhtiari",
+        "label": "Chahar Mahall va Bakhtiari"
+    },
+    {
+        "value": "Champagne-Ardenne",
+        "label": "Champagne-Ardenne"
+    },
+    {
+        "value": "Chandigarh",
+        "label": "Chandigarh"
+    },
+    {
+        "value": "Chaouia-Ouardigha",
+        "label": "Chaouia-Ouardigha"
+    },
+    {
+        "value": "Chari-Baguirmi",
+        "label": "Chari-Baguirmi"
+    },
+    {
+        "value": "Chatham Islands",
+        "label": "Chatham Islands"
+    },
+    {
+        "value": "Chechnya",
+        "label": "Chechnya"
+    },
+    {
+        "value": "Cheju-do",
+        "label": "Cheju-do"
+    },
+    {
+        "value": "Chelyabinsk",
+        "label": "Chelyabinsk"
+    },
+    {
+        "value": "Cherkas'ka Oblast'",
+        "label": "Cherkas'ka Oblast'"
+    },
+    {
+        "value": "Chernihivs'ka Oblast'",
+        "label": "Chernihivs'ka Oblast'"
+    },
+    {
+        "value": "Chernivets'ka Oblast'",
+        "label": "Chernivets'ka Oblast'"
+    },
+    {
+        "value": "Cheshire",
+        "label": "Cheshire"
+    },
+    {
+        "value": "Cheshire East",
+        "label": "Cheshire East"
+    },
+    {
+        "value": "Cheshire West and Chester",
+        "label": "Cheshire West and Chester"
+    },
+    {
+        "value": "Chhattisgarh",
+        "label": "Chhattisgarh"
+    },
+    {
+        "value": "Chiang Mai",
+        "label": "Chiang Mai"
+    },
+    {
+        "value": "Chiang Rai",
+        "label": "Chiang Rai"
+    },
+    {
+        "value": "Chiapas",
+        "label": "Chiapas"
+    },
+    {
+        "value": "Chiba",
+        "label": "Chiba"
+    },
+    {
+        "value": "Chihuahua",
+        "label": "Chihuahua"
+    },
+    {
+        "value": "Chimaltenango",
+        "label": "Chimaltenango"
+    },
+    {
+        "value": "Chimborazo",
+        "label": "Chimborazo"
+    },
+    {
+        "value": "Chiradzulu",
+        "label": "Chiradzulu"
+    },
+    {
+        "value": "Chiriqui",
+        "label": "Chiriqui"
+    },
+    {
+        "value": "Chisinau",
+        "label": "Chisinau"
+    },
+    {
+        "value": "Chita",
+        "label": "Chita"
+    },
+    {
+        "value": "Chittagong",
+        "label": "Chittagong"
+    },
+    {
+        "value": "Choco",
+        "label": "Choco"
+    },
+    {
+        "value": "Cholla-bukto",
+        "label": "Cholla-bukto"
+    },
+    {
+        "value": "Cholla-namdo",
+        "label": "Cholla-namdo"
+    },
+    {
+        "value": "Choluteca",
+        "label": "Choluteca"
+    },
+    {
+        "value": "Chon Buri",
+        "label": "Chon Buri"
+    },
+    {
+        "value": "Chongqing",
+        "label": "Chongqing"
+    },
+    {
+        "value": "Chontales",
+        "label": "Chontales"
+    },
+    {
+        "value": "Christ Church",
+        "label": "Christ Church"
+    },
+    {
+        "value": "Christ Church Nichola Town",
+        "label": "Christ Church Nichola Town"
+    },
+    {
+        "value": "Chubut",
+        "label": "Chubut"
+    },
+    {
+        "value": "Chukot",
+        "label": "Chukot"
+    },
+    {
+        "value": "Chumphon",
+        "label": "Chumphon"
+    },
+    {
+        "value": "Chuquisaca",
+        "label": "Chuquisaca"
+    },
+    {
+        "value": "Chuvashia",
+        "label": "Chuvashia"
+    },
+    {
+        "value": "Chuy",
+        "label": "Chuy"
+    },
+    {
+        "value": "Ciego de Avila",
+        "label": "Ciego de Avila"
+    },
+    {
+        "value": "Ciudad de la Habana",
+        "label": "Ciudad de la Habana"
+    },
+    {
+        "value": "Clackmannanshire",
+        "label": "Clackmannanshire"
+    },
+    {
+        "value": "Clare",
+        "label": "Clare"
+    },
+    {
+        "value": "Clarendon",
+        "label": "Clarendon"
+    },
+    {
+        "value": "Cluj",
+        "label": "Cluj"
+    },
+    {
+        "value": "Coahuila de Zaragoza",
+        "label": "Coahuila de Zaragoza"
+    },
+    {
+        "value": "Coast",
+        "label": "Coast"
+    },
+    {
+        "value": "Cochabamba",
+        "label": "Cochabamba"
+    },
+    {
+        "value": "Cocle",
+        "label": "Cocle"
+    },
+    {
+        "value": "Coimbra",
+        "label": "Coimbra"
+    },
+    {
+        "value": "Coleraine",
+        "label": "Coleraine"
+    },
+    {
+        "value": "Colima",
+        "label": "Colima"
+    },
+    {
+        "value": "Colon",
+        "label": "Colon"
+    },
+    {
+        "value": "Colorado",
+        "label": "Colorado"
+    },
+    {
+        "value": "Comunidad Valenciana",
+        "label": "Comunidad Valenciana"
+    },
+    {
+        "value": "Conakry",
+        "label": "Conakry"
+    },
+    {
+        "value": "Connecticut",
+        "label": "Connecticut"
+    },
+    {
+        "value": "Constanta",
+        "label": "Constanta"
+    },
+    {
+        "value": "Constantine",
+        "label": "Constantine"
+    },
+    {
+        "value": "Conwy",
+        "label": "Conwy"
+    },
+    {
+        "value": "Cookstown",
+        "label": "Cookstown"
+    },
+    {
+        "value": "Copan",
+        "label": "Copan"
+    },
+    {
+        "value": "Coquimbo",
+        "label": "Coquimbo"
+    },
+    {
+        "value": "Cordoba",
+        "label": "Cordoba"
+    },
+    {
+        "value": "Cork",
+        "label": "Cork"
+    },
+    {
+        "value": "Cornwall",
+        "label": "Cornwall"
+    },
+    {
+        "value": "Corrientes",
+        "label": "Corrientes"
+    },
+    {
+        "value": "Corse",
+        "label": "Corse"
+    },
+    {
+        "value": "Cortes",
+        "label": "Cortes"
+    },
+    {
+        "value": "Corum",
+        "label": "Corum"
+    },
+    {
+        "value": "Cotopaxi",
+        "label": "Cotopaxi"
+    },
+    {
+        "value": "Covasna",
+        "label": "Covasna"
+    },
+    {
+        "value": "Coventry",
+        "label": "Coventry"
+    },
+    {
+        "value": "Craigavon",
+        "label": "Craigavon"
+    },
+    {
+        "value": "Crensovci Commune",
+        "label": "Crensovci Commune"
+    },
+    {
+        "value": "Cross River",
+        "label": "Cross River"
+    },
+    {
+        "value": "Croydon",
+        "label": "Croydon"
+    },
+    {
+        "value": "Csongrad",
+        "label": "Csongrad"
+    },
+    {
+        "value": "Cumbria",
+        "label": "Cumbria"
+    },
+    {
+        "value": "Cundinamarca",
+        "label": "Cundinamarca"
+    },
+    {
+        "value": "Cuscatlan",
+        "label": "Cuscatlan"
+    },
+    {
+        "value": "Cusco",
+        "label": "Cusco"
+    },
+    {
+        "value": "Dadra and Nagar Haveli",
+        "label": "Dadra and Nagar Haveli"
+    },
+    {
+        "value": "Dagestan",
+        "label": "Dagestan"
+    },
+    {
+        "value": "Dagupan",
+        "label": "Dagupan"
+    },
+    {
+        "value": "Dahuk",
+        "label": "Dahuk"
+    },
+    {
+        "value": "Dajabon",
+        "label": "Dajabon"
+    },
+    {
+        "value": "Dakar",
+        "label": "Dakar"
+    },
+    {
+        "value": "Dalarnas Lan",
+        "label": "Dalarnas Lan"
+    },
+    {
+        "value": "Daman and Diu",
+        "label": "Daman and Diu"
+    },
+    {
+        "value": "Dambovita",
+        "label": "Dambovita"
+    },
+    {
+        "value": "Danao",
+        "label": "Danao"
+    },
+    {
+        "value": "Dar es Salaam",
+        "label": "Dar es Salaam"
+    },
+    {
+        "value": "Darlington",
+        "label": "Darlington"
+    },
+    {
+        "value": "Daugavpils",
+        "label": "Daugavpils"
+    },
+    {
+        "value": "Davao",
+        "label": "Davao"
+    },
+    {
+        "value": "Davao City",
+        "label": "Davao City"
+    },
+    {
+        "value": "Davao Oriental",
+        "label": "Davao Oriental"
+    },
+    {
+        "value": "Davao del Sur",
+        "label": "Davao del Sur"
+    },
+    {
+        "value": "Debrecen",
+        "label": "Debrecen"
+    },
+    {
+        "value": "Debub",
+        "label": "Debub"
+    },
+    {
+        "value": "Delaware",
+        "label": "Delaware"
+    },
+    {
+        "value": "Delhi",
+        "label": "Delhi"
+    },
+    {
+        "value": "Delta",
+        "label": "Delta"
+    },
+    {
+        "value": "Demerara-Mahaica",
+        "label": "Demerara-Mahaica"
+    },
+    {
+        "value": "Demir Hisar",
+        "label": "Demir Hisar"
+    },
+    {
+        "value": "Denbighshire",
+        "label": "Denbighshire"
+    },
+    {
+        "value": "Denizli",
+        "label": "Denizli"
+    },
+    {
+        "value": "Derby",
+        "label": "Derby"
+    },
+    {
+        "value": "Derbyshire",
+        "label": "Derbyshire"
+    },
+    {
+        "value": "Derry",
+        "label": "Derry"
+    },
+    {
+        "value": "Devon",
+        "label": "Devon"
+    },
+    {
+        "value": "Devonshire",
+        "label": "Devonshire"
+    },
+    {
+        "value": "Dhaka",
+        "label": "Dhaka"
+    },
+    {
+        "value": "Dhodhekanisos",
+        "label": "Dhodhekanisos"
+    },
+    {
+        "value": "Diekirch",
+        "label": "Diekirch"
+    },
+    {
+        "value": "Dili",
+        "label": "Dili"
+    },
+    {
+        "value": "Dimashq",
+        "label": "Dimashq"
+    },
+    {
+        "value": "Dipolog",
+        "label": "Dipolog"
+    },
+    {
+        "value": "Dire Dawa",
+        "label": "Dire Dawa"
+    },
+    {
+        "value": "District of Columbia",
+        "label": "District of Columbia"
+    },
+    {
+        "value": "Distrito Especial",
+        "label": "Distrito Especial"
+    },
+    {
+        "value": "Distrito Federal",
+        "label": "Distrito Federal"
+    },
+    {
+        "value": "Distrito Nacional",
+        "label": "Distrito Nacional"
+    },
+    {
+        "value": "Diyala",
+        "label": "Diyala"
+    },
+    {
+        "value": "Diyarbakir",
+        "label": "Diyarbakir"
+    },
+    {
+        "value": "Dnipropetrovs'ka Oblast'",
+        "label": "Dnipropetrovs'ka Oblast'"
+    },
+    {
+        "value": "Dobeles",
+        "label": "Dobeles"
+    },
+    {
+        "value": "Dobrepolje Commune",
+        "label": "Dobrepolje Commune"
+    },
+    {
+        "value": "Dobrich",
+        "label": "Dobrich"
+    },
+    {
+        "value": "Dobrova-Horjul-Polhov Gradec Commune",
+        "label": "Dobrova-Horjul-Polhov Gradec Commune"
+    },
+    {
+        "value": "Dodoma",
+        "label": "Dodoma"
+    },
+    {
+        "value": "Dolj",
+        "label": "Dolj"
+    },
+    {
+        "value": "Dolnoslaskie",
+        "label": "Dolnoslaskie"
+    },
+    {
+        "value": "Domzale Commune",
+        "label": "Domzale Commune"
+    },
+    {
+        "value": "Doncaster",
+        "label": "Doncaster"
+    },
+    {
+        "value": "Donegal",
+        "label": "Donegal"
+    },
+    {
+        "value": "Donets'ka Oblast'",
+        "label": "Donets'ka Oblast'"
+    },
+    {
+        "value": "Dorset",
+        "label": "Dorset"
+    },
+    {
+        "value": "Doukkala-Abda",
+        "label": "Doukkala-Abda"
+    },
+    {
+        "value": "Down",
+        "label": "Down"
+    },
+    {
+        "value": "Drama",
+        "label": "Drama"
+    },
+    {
+        "value": "Drenthe",
+        "label": "Drenthe"
+    },
+    {
+        "value": "Duarte",
+        "label": "Duarte"
+    },
+    {
+        "value": "Dubai",
+        "label": "Dubai"
+    },
+    {
+        "value": "Dublin",
+        "label": "Dublin"
+    },
+    {
+        "value": "Dubrovacko-Neretvanska",
+        "label": "Dubrovacko-Neretvanska"
+    },
+    {
+        "value": "Dudley",
+        "label": "Dudley"
+    },
+    {
+        "value": "Dumaguete",
+        "label": "Dumaguete"
+    },
+    {
+        "value": "Dumfries and Galloway",
+        "label": "Dumfries and Galloway"
+    },
+    {
+        "value": "Dumyat",
+        "label": "Dumyat"
+    },
+    {
+        "value": "Dundee City",
+        "label": "Dundee City"
+    },
+    {
+        "value": "Dungannon",
+        "label": "Dungannon"
+    },
+    {
+        "value": "Durango",
+        "label": "Durango"
+    },
+    {
+        "value": "Durham",
+        "label": "Durham"
+    },
+    {
+        "value": "Dushet'is Raioni",
+        "label": "Dushet'is Raioni"
+    },
+    {
+        "value": "Duzce",
+        "label": "Duzce"
+    },
+    {
+        "value": "Ealing",
+        "label": "Ealing"
+    },
+    {
+        "value": "East Ayrshire",
+        "label": "East Ayrshire"
+    },
+    {
+        "value": "East Azarbaijan",
+        "label": "East Azarbaijan"
+    },
+    {
+        "value": "East Dunbartonshire",
+        "label": "East Dunbartonshire"
+    },
+    {
+        "value": "East Kazakhstan",
+        "label": "East Kazakhstan"
+    },
+    {
+        "value": "East Lothian",
+        "label": "East Lothian"
+    },
+    {
+        "value": "East Region",
+        "label": "East Region"
+    },
+    {
+        "value": "East Renfrewshire",
+        "label": "East Renfrewshire"
+    },
+    {
+        "value": "East Riding of Yorkshire",
+        "label": "East Riding of Yorkshire"
+    },
+    {
+        "value": "East Sussex",
+        "label": "East Sussex"
+    },
+    {
+        "value": "Eastern",
+        "label": "Eastern"
+    },
+    {
+        "value": "Eastern Finland",
+        "label": "Eastern Finland"
+    },
+    {
+        "value": "Ebonyi",
+        "label": "Ebonyi"
+    },
+    {
+        "value": "Edinburgh, City of",
+        "label": "Edinburgh, City of"
+    },
+    {
+        "value": "Edirne",
+        "label": "Edirne"
+    },
+    {
+        "value": "Edo",
+        "label": "Edo"
+    },
+    {
+        "value": "Ehime",
+        "label": "Ehime"
+    },
+    {
+        "value": "Eilean Siar",
+        "label": "Eilean Siar"
+    },
+    {
+        "value": "Ekiti",
+        "label": "Ekiti"
+    },
+    {
+        "value": "El Beni",
+        "label": "El Beni"
+    },
+    {
+        "value": "El Kef",
+        "label": "El Kef"
+    },
+    {
+        "value": "El Paraiso",
+        "label": "El Paraiso"
+    },
+    {
+        "value": "El Progreso",
+        "label": "El Progreso"
+    },
+    {
+        "value": "El Seibo",
+        "label": "El Seibo"
+    },
+    {
+        "value": "Elazig",
+        "label": "Elazig"
+    },
+    {
+        "value": "Emilia-Romagna",
+        "label": "Emilia-Romagna"
+    },
+    {
+        "value": "Encamp",
+        "label": "Encamp"
+    },
+    {
+        "value": "Enfield",
+        "label": "Enfield"
+    },
+    {
+        "value": "England",
+        "label": "England"
+    },
+    {
+        "value": "Entre Rios",
+        "label": "Entre Rios"
+    },
+    {
+        "value": "Enugu",
+        "label": "Enugu"
+    },
+    {
+        "value": "Erongo",
+        "label": "Erongo"
+    },
+    {
+        "value": "Erzincan",
+        "label": "Erzincan"
+    },
+    {
+        "value": "Erzurum",
+        "label": "Erzurum"
+    },
+    {
+        "value": "Escaldes-Engordany",
+        "label": "Escaldes-Engordany"
+    },
+    {
+        "value": "Eschen",
+        "label": "Eschen"
+    },
+    {
+        "value": "Esfahan",
+        "label": "Esfahan"
+    },
+    {
+        "value": "Eskisehir",
+        "label": "Eskisehir"
+    },
+    {
+        "value": "Esmeraldas",
+        "label": "Esmeraldas"
+    },
+    {
+        "value": "Espirito Santo",
+        "label": "Espirito Santo"
+    },
+    {
+        "value": "Essequibo Islands-West Demerara",
+        "label": "Essequibo Islands-West Demerara"
+    },
+    {
+        "value": "Essex",
+        "label": "Essex"
+    },
+    {
+        "value": "Esteli",
+        "label": "Esteli"
+    },
+    {
+        "value": "Estuaire",
+        "label": "Estuaire"
+    },
+    {
+        "value": "Evora",
+        "label": "Evora"
+    },
+    {
+        "value": "Evritania",
+        "label": "Evritania"
+    },
+    {
+        "value": "Evros",
+        "label": "Evros"
+    },
+    {
+        "value": "Evvoia",
+        "label": "Evvoia"
+    },
+    {
+        "value": "Extremadura",
+        "label": "Extremadura"
+    },
+    {
+        "value": "Eyjafjardarsysla",
+        "label": "Eyjafjardarsysla"
+    },
+    {
+        "value": "Falkirk",
+        "label": "Falkirk"
+    },
+    {
+        "value": "Famagusta",
+        "label": "Famagusta"
+    },
+    {
+        "value": "Faro",
+        "label": "Faro"
+    },
+    {
+        "value": "Fars",
+        "label": "Fars"
+    },
+    {
+        "value": "Federal Capital Territory",
+        "label": "Federal Capital Territory"
+    },
+    {
+        "value": "Federally Administered Tribal Areas",
+        "label": "Federally Administered Tribal Areas"
+    },
+    {
+        "value": "Federation of Bosnia and Herzegovina",
+        "label": "Federation of Bosnia and Herzegovina"
+    },
+    {
+        "value": "Fejer",
+        "label": "Fejer"
+    },
+    {
+        "value": "Fermanagh",
+        "label": "Fermanagh"
+    },
+    {
+        "value": "Fes-Boulemane",
+        "label": "Fes-Boulemane"
+    },
+    {
+        "value": "Fife",
+        "label": "Fife"
+    },
+    {
+        "value": "Finnmark",
+        "label": "Finnmark"
+    },
+    {
+        "value": "Flacq",
+        "label": "Flacq"
+    },
+    {
+        "value": "Flevoland",
+        "label": "Flevoland"
+    },
+    {
+        "value": "Flintshire",
+        "label": "Flintshire"
+    },
+    {
+        "value": "Florida",
+        "label": "Florida"
+    },
+    {
+        "value": "Florina",
+        "label": "Florina"
+    },
+    {
+        "value": "Fokis",
+        "label": "Fokis"
+    },
+    {
+        "value": "Formosa",
+        "label": "Formosa"
+    },
+    {
+        "value": "Franche-Comte",
+        "label": "Franche-Comte"
+    },
+    {
+        "value": "Francisco Morazan",
+        "label": "Francisco Morazan"
+    },
+    {
+        "value": "Freeport",
+        "label": "Freeport"
+    },
+    {
+        "value": "Fribourg",
+        "label": "Fribourg"
+    },
+    {
+        "value": "Friesland",
+        "label": "Friesland"
+    },
+    {
+        "value": "Friuli-Venezia Giulia",
+        "label": "Friuli-Venezia Giulia"
+    },
+    {
+        "value": "Fthiotis",
+        "label": "Fthiotis"
+    },
+    {
+        "value": "Fujairah",
+        "label": "Fujairah"
+    },
+    {
+        "value": "Fujian",
+        "label": "Fujian"
+    },
+    {
+        "value": "Fukui",
+        "label": "Fukui"
+    },
+    {
+        "value": "Fukuoka",
+        "label": "Fukuoka"
+    },
+    {
+        "value": "Fukushima",
+        "label": "Fukushima"
+    },
+    {
+        "value": "Gabes",
+        "label": "Gabes"
+    },
+    {
+        "value": "Gabrovo",
+        "label": "Gabrovo"
+    },
+    {
+        "value": "Galati",
+        "label": "Galati"
+    },
+    {
+        "value": "Galicia",
+        "label": "Galicia"
+    },
+    {
+        "value": "Galway",
+        "label": "Galway"
+    },
+    {
+        "value": "Gamprin",
+        "label": "Gamprin"
+    },
+    {
+        "value": "Gansu",
+        "label": "Gansu"
+    },
+    {
+        "value": "Gateshead",
+        "label": "Gateshead"
+    },
+    {
+        "value": "Gavleborgs Lan",
+        "label": "Gavleborgs Lan"
+    },
+    {
+        "value": "Gaza",
+        "label": "Gaza"
+    },
+    {
+        "value": "Gaziantep",
+        "label": "Gaziantep"
+    },
+    {
+        "value": "Geghark'unik'",
+        "label": "Geghark'unik'"
+    },
+    {
+        "value": "Gelderland",
+        "label": "Gelderland"
+    },
+    {
+        "value": "General Santos",
+        "label": "General Santos"
+    },
+    {
+        "value": "Geneve",
+        "label": "Geneve"
+    },
+    {
+        "value": "Georgia",
+        "label": "Georgia"
+    },
+    {
+        "value": "Gharb-Chrarda-Beni Hssen",
+        "label": "Gharb-Chrarda-Beni Hssen"
+    },
+    {
+        "value": "Ghazni",
+        "label": "Ghazni"
+    },
+    {
+        "value": "Gibraltar",
+        "label": "Gibraltar"
+    },
+    {
+        "value": "Gifu",
+        "label": "Gifu"
+    },
+    {
+        "value": "Gilan",
+        "label": "Gilan"
+    },
+    {
+        "value": "Gisborne",
+        "label": "Gisborne"
+    },
+    {
+        "value": "Gitarama",
+        "label": "Gitarama"
+    },
+    {
+        "value": "Giurgiu",
+        "label": "Giurgiu"
+    },
+    {
+        "value": "Gjirokaster",
+        "label": "Gjirokaster"
+    },
+    {
+        "value": "Glarus",
+        "label": "Glarus"
+    },
+    {
+        "value": "Glasgow City",
+        "label": "Glasgow City"
+    },
+    {
+        "value": "Gloucestershire",
+        "label": "Gloucestershire"
+    },
+    {
+        "value": "Goa",
+        "label": "Goa"
+    },
+    {
+        "value": "Goias",
+        "label": "Goias"
+    },
+    {
+        "value": "Golestan",
+        "label": "Golestan"
+    },
+    {
+        "value": "Gombe",
+        "label": "Gombe"
+    },
+    {
+        "value": "Gorenja vas-Poljane Commune",
+        "label": "Gorenja vas-Poljane Commune"
+    },
+    {
+        "value": "Gorj",
+        "label": "Gorj"
+    },
+    {
+        "value": "Gornja Radgona Commune",
+        "label": "Gornja Radgona Commune"
+    },
+    {
+        "value": "Gorno-Altay",
+        "label": "Gorno-Altay"
+    },
+    {
+        "value": "Gostivar",
+        "label": "Gostivar"
+    },
+    {
+        "value": "Gotlands Lan",
+        "label": "Gotlands Lan"
+    },
+    {
+        "value": "Governor's Harbour",
+        "label": "Governor's Harbour"
+    },
+    {
+        "value": "Goycay",
+        "label": "Goycay"
+    },
+    {
+        "value": "Grad Sofiya",
+        "label": "Grad Sofiya"
+    },
+    {
+        "value": "Grad Zagreb",
+        "label": "Grad Zagreb"
+    },
+    {
+        "value": "Grand Cape Mount",
+        "label": "Grand Cape Mount"
+    },
+    {
+        "value": "Grand Casablanca",
+        "label": "Grand Casablanca"
+    },
+    {
+        "value": "Grand Port",
+        "label": "Grand Port"
+    },
+    {
+        "value": "Grande Comore",
+        "label": "Grande Comore"
+    },
+    {
+        "value": "Granma",
+        "label": "Granma"
+    },
+    {
+        "value": "Graubunden",
+        "label": "Graubunden"
+    },
+    {
+        "value": "Greater Accra",
+        "label": "Greater Accra"
+    },
+    {
+        "value": "Greenwich",
+        "label": "Greenwich"
+    },
+    {
+        "value": "Grevena",
+        "label": "Grevena"
+    },
+    {
+        "value": "Grevenmacher",
+        "label": "Grevenmacher"
+    },
+    {
+        "value": "Groningen",
+        "label": "Groningen"
+    },
+    {
+        "value": "Gros-Islet",
+        "label": "Gros-Islet"
+    },
+    {
+        "value": "Grosuplje Commune",
+        "label": "Grosuplje Commune"
+    },
+    {
+        "value": "Guanacaste",
+        "label": "Guanacaste"
+    },
+    {
+        "value": "Guanajuato",
+        "label": "Guanajuato"
+    },
+    {
+        "value": "Guangdong",
+        "label": "Guangdong"
+    },
+    {
+        "value": "Guangxi",
+        "label": "Guangxi"
+    },
+    {
+        "value": "Guarda",
+        "label": "Guarda"
+    },
+    {
+        "value": "Guatemala",
+        "label": "Guatemala"
+    },
+    {
+        "value": "Guayas",
+        "label": "Guayas"
+    },
+    {
+        "value": "Guelmim-Es Smara",
+        "label": "Guelmim-Es Smara"
+    },
+    {
+        "value": "Guerrero",
+        "label": "Guerrero"
+    },
+    {
+        "value": "Guizhou",
+        "label": "Guizhou"
+    },
+    {
+        "value": "Gujarat",
+        "label": "Gujarat"
+    },
+    {
+        "value": "Gullbringusysla",
+        "label": "Gullbringusysla"
+    },
+    {
+        "value": "Gumma",
+        "label": "Gumma"
+    },
+    {
+        "value": "Gwynedd",
+        "label": "Gwynedd"
+    },
+    {
+        "value": "Gyor",
+        "label": "Gyor"
+    },
+    {
+        "value": "Gyor-Moson-Sopron",
+        "label": "Gyor-Moson-Sopron"
+    },
+    {
+        "value": "Ha'il",
+        "label": "Ha'il"
+    },
+    {
+        "value": "HaDarom",
+        "label": "HaDarom"
+    },
+    {
+        "value": "HaMerkaz",
+        "label": "HaMerkaz"
+    },
+    {
+        "value": "HaZafon",
+        "label": "HaZafon"
+    },
+    {
+        "value": "Hackney",
+        "label": "Hackney"
+    },
+    {
+        "value": "Hainan",
+        "label": "Hainan"
+    },
+    {
+        "value": "Hainaut",
+        "label": "Hainaut"
+    },
+    {
+        "value": "Hajdu-Bihar",
+        "label": "Hajdu-Bihar"
+    },
+    {
+        "value": "Hakkari",
+        "label": "Hakkari"
+    },
+    {
+        "value": "Halab",
+        "label": "Halab"
+    },
+    {
+        "value": "Hallands Lan",
+        "label": "Hallands Lan"
+    },
+    {
+        "value": "Halton",
+        "label": "Halton"
+    },
+    {
+        "value": "Hamadan",
+        "label": "Hamadan"
+    },
+    {
+        "value": "Hamburg",
+        "label": "Hamburg"
+    },
+    {
+        "value": "Hamilton",
+        "label": "Hamilton"
+    },
+    {
+        "value": "Hammersmith and Fulham",
+        "label": "Hammersmith and Fulham"
+    },
+    {
+        "value": "Hampshire",
+        "label": "Hampshire"
+    },
+    {
+        "value": "Hanover",
+        "label": "Hanover"
+    },
+    {
+        "value": "Harbour Island",
+        "label": "Harbour Island"
+    },
+    {
+        "value": "Harghita",
+        "label": "Harghita"
+    },
+    {
+        "value": "Haringey",
+        "label": "Haringey"
+    },
+    {
+        "value": "Harjumaa",
+        "label": "Harjumaa"
+    },
+    {
+        "value": "Harrow",
+        "label": "Harrow"
+    },
+    {
+        "value": "Hartlepool",
+        "label": "Hartlepool"
+    },
+    {
+        "value": "Haryana",
+        "label": "Haryana"
+    },
+    {
+        "value": "Hatay",
+        "label": "Hatay"
+    },
+    {
+        "value": "Haute-Normandie",
+        "label": "Haute-Normandie"
+    },
+    {
+        "value": "Havering",
+        "label": "Havering"
+    },
+    {
+        "value": "Hawaii",
+        "label": "Hawaii"
+    },
+    {
+        "value": "Hawke's Bay",
+        "label": "Hawke's Bay"
+    },
+    {
+        "value": "Hebei",
+        "label": "Hebei"
+    },
+    {
+        "value": "Hedmark",
+        "label": "Hedmark"
+    },
+    {
+        "value": "Hefa",
+        "label": "Hefa"
+    },
+    {
+        "value": "Heilongjiang",
+        "label": "Heilongjiang"
+    },
+    {
+        "value": "Henan",
+        "label": "Henan"
+    },
+    {
+        "value": "Herat",
+        "label": "Herat"
+    },
+    {
+        "value": "Heredia",
+        "label": "Heredia"
+    },
+    {
+        "value": "Herefordshire",
+        "label": "Herefordshire"
+    },
+    {
+        "value": "Herrera",
+        "label": "Herrera"
+    },
+    {
+        "value": "Hertford",
+        "label": "Hertford"
+    },
+    {
+        "value": "Hessen",
+        "label": "Hessen"
+    },
+    {
+        "value": "Heves",
+        "label": "Heves"
+    },
+    {
+        "value": "Hhohho",
+        "label": "Hhohho"
+    },
+    {
+        "value": "Hidalgo",
+        "label": "Hidalgo"
+    },
+    {
+        "value": "Highland",
+        "label": "Highland"
+    },
+    {
+        "value": "Hiiumaa",
+        "label": "Hiiumaa"
+    },
+    {
+        "value": "Hillingdon",
+        "label": "Hillingdon"
+    },
+    {
+        "value": "Himachal Pradesh",
+        "label": "Himachal Pradesh"
+    },
+    {
+        "value": "Hims",
+        "label": "Hims"
+    },
+    {
+        "value": "Hiroshima",
+        "label": "Hiroshima"
+    },
+    {
+        "value": "Hlavni mesto Praha",
+        "label": "Hlavni mesto Praha"
+    },
+    {
+        "value": "Hokkaido",
+        "label": "Hokkaido"
+    },
+    {
+        "value": "Holguin",
+        "label": "Holguin"
+    },
+    {
+        "value": "Homyel'skaya Voblasts'",
+        "label": "Homyel'skaya Voblasts'"
+    },
+    {
+        "value": "Hong Kong Island",
+        "label": "Hong Kong Island"
+    },
+    {
+        "value": "Hordaland",
+        "label": "Hordaland"
+    },
+    {
+        "value": "Hormozgan",
+        "label": "Hormozgan"
+    },
+    {
+        "value": "Houet",
+        "label": "Houet"
+    },
+    {
+        "value": "Hounslow",
+        "label": "Hounslow"
+    },
+    {
+        "value": "Hovedstaden",
+        "label": "Hovedstaden"
+    },
+    {
+        "value": "Hrodzyenskaya Voblasts'",
+        "label": "Hrodzyenskaya Voblasts'"
+    },
+    {
+        "value": "Hrpelje-Kozina Commune",
+        "label": "Hrpelje-Kozina Commune"
+    },
+    {
+        "value": "Huanuco",
+        "label": "Huanuco"
+    },
+    {
+        "value": "Hubei",
+        "label": "Hubei"
+    },
+    {
+        "value": "Huehuetenango",
+        "label": "Huehuetenango"
+    },
+    {
+        "value": "Huila",
+        "label": "Huila"
+    },
+    {
+        "value": "Hunan",
+        "label": "Hunan"
+    },
+    {
+        "value": "Hunedoara",
+        "label": "Hunedoara"
+    },
+    {
+        "value": "Hyogo",
+        "label": "Hyogo"
+    },
+    {
+        "value": "Ialomita",
+        "label": "Ialomita"
+    },
+    {
+        "value": "Iasi",
+        "label": "Iasi"
+    },
+    {
+        "value": "Ibaraki",
+        "label": "Ibaraki"
+    },
+    {
+        "value": "Ica",
+        "label": "Ica"
+    },
+    {
+        "value": "Ida-Virumaa",
+        "label": "Ida-Virumaa"
+    },
+    {
+        "value": "Idaho",
+        "label": "Idaho"
+    },
+    {
+        "value": "Idrija Commune",
+        "label": "Idrija Commune"
+    },
+    {
+        "value": "Ile-de-France",
+        "label": "Ile-de-France"
+    },
+    {
+        "value": "Ilfov",
+        "label": "Ilfov"
+    },
+    {
+        "value": "Ilhas",
+        "label": "Ilhas"
+    },
+    {
+        "value": "Ilia",
+        "label": "Ilia"
+    },
+    {
+        "value": "Iligan",
+        "label": "Iligan"
+    },
+    {
+        "value": "Illinois",
+        "label": "Illinois"
+    },
+    {
+        "value": "Ilocos Norte",
+        "label": "Ilocos Norte"
+    },
+    {
+        "value": "Ilocos Sur",
+        "label": "Ilocos Sur"
+    },
+    {
+        "value": "Iloilo",
+        "label": "Iloilo"
+    },
+    {
+        "value": "Iloilo City",
+        "label": "Iloilo City"
+    },
+    {
+        "value": "Imathia",
+        "label": "Imathia"
+    },
+    {
+        "value": "Imbabura",
+        "label": "Imbabura"
+    },
+    {
+        "value": "Imo",
+        "label": "Imo"
+    },
+    {
+        "value": "Inch'on-jikhalsi",
+        "label": "Inch'on-jikhalsi"
+    },
+    {
+        "value": "Indiana",
+        "label": "Indiana"
+    },
+    {
+        "value": "Ingush",
+        "label": "Ingush"
+    },
+    {
+        "value": "Inner-Rhoden",
+        "label": "Inner-Rhoden"
+    },
+    {
+        "value": "Intibuca",
+        "label": "Intibuca"
+    },
+    {
+        "value": "Inverclyde",
+        "label": "Inverclyde"
+    },
+    {
+        "value": "Ioannina",
+        "label": "Ioannina"
+    },
+    {
+        "value": "Iowa",
+        "label": "Iowa"
+    },
+    {
+        "value": "Iraklion",
+        "label": "Iraklion"
+    },
+    {
+        "value": "Iringa",
+        "label": "Iringa"
+    },
+    {
+        "value": "Irkutsk",
+        "label": "Irkutsk"
+    },
+    {
+        "value": "Isabela",
+        "label": "Isabela"
+    },
+    {
+        "value": "Ishikawa",
+        "label": "Ishikawa"
+    },
+    {
+        "value": "Islamabad",
+        "label": "Islamabad"
+    },
+    {
+        "value": "Islas Baleares",
+        "label": "Islas Baleares"
+    },
+    {
+        "value": "Islas de la Bahia",
+        "label": "Islas de la Bahia"
+    },
+    {
+        "value": "Isle of Anglesey",
+        "label": "Isle of Anglesey"
+    },
+    {
+        "value": "Isle of Wight",
+        "label": "Isle of Wight"
+    },
+    {
+        "value": "Islington",
+        "label": "Islington"
+    },
+    {
+        "value": "Isparta",
+        "label": "Isparta"
+    },
+    {
+        "value": "Istanbul",
+        "label": "Istanbul"
+    },
+    {
+        "value": "Istarska",
+        "label": "Istarska"
+    },
+    {
+        "value": "Itapua",
+        "label": "Itapua"
+    },
+    {
+        "value": "Ivancna Gorica Commune",
+        "label": "Ivancna Gorica Commune"
+    },
+    {
+        "value": "Ivano-Frankivs'ka Oblast'",
+        "label": "Ivano-Frankivs'ka Oblast'"
+    },
+    {
+        "value": "Ivanovo",
+        "label": "Ivanovo"
+    },
+    {
+        "value": "Iwate",
+        "label": "Iwate"
+    },
+    {
+        "value": "Izabal",
+        "label": "Izabal"
+    },
+    {
+        "value": "Izmir",
+        "label": "Izmir"
+    },
+    {
+        "value": "Izola-Isola Commune",
+        "label": "Izola-Isola Commune"
+    },
+    {
+        "value": "Jakarta Raya",
+        "label": "Jakarta Raya"
+    },
+    {
+        "value": "Jalisco",
+        "label": "Jalisco"
+    },
+    {
+        "value": "Jambi",
+        "label": "Jambi"
+    },
+    {
+        "value": "Jammu and Kashmir",
+        "label": "Jammu and Kashmir"
+    },
+    {
+        "value": "Jamtlands Lan",
+        "label": "Jamtlands Lan"
+    },
+    {
+        "value": "Janub Sina'",
+        "label": "Janub Sina'"
+    },
+    {
+        "value": "Jarvamaa",
+        "label": "Jarvamaa"
+    },
+    {
+        "value": "Jasz-Nagykun-Szolnok",
+        "label": "Jasz-Nagykun-Szolnok"
+    },
+    {
+        "value": "Jawa Barat",
+        "label": "Jawa Barat"
+    },
+    {
+        "value": "Jawa Tengah",
+        "label": "Jawa Tengah"
+    },
+    {
+        "value": "Jawa Timur",
+        "label": "Jawa Timur"
+    },
+    {
+        "value": "Jelgavas",
+        "label": "Jelgavas"
+    },
+    {
+        "value": "Jesenice Commune",
+        "label": "Jesenice Commune"
+    },
+    {
+        "value": "Jharkhand",
+        "label": "Jharkhand"
+    },
+    {
+        "value": "Jiangsu",
+        "label": "Jiangsu"
+    },
+    {
+        "value": "Jiangxi",
+        "label": "Jiangxi"
+    },
+    {
+        "value": "Jidd Hafs",
+        "label": "Jidd Hafs"
+    },
+    {
+        "value": "Jigawa",
+        "label": "Jigawa"
+    },
+    {
+        "value": "Jihocesky kraj",
+        "label": "Jihocesky kraj"
+    },
+    {
+        "value": "Jihomoravsky kraj",
+        "label": "Jihomoravsky kraj"
+    },
+    {
+        "value": "Jijel",
+        "label": "Jijel"
+    },
+    {
+        "value": "Jilin",
+        "label": "Jilin"
+    },
+    {
+        "value": "Jinja",
+        "label": "Jinja"
+    },
+    {
+        "value": "Jinotega",
+        "label": "Jinotega"
+    },
+    {
+        "value": "Jizan",
+        "label": "Jizan"
+    },
+    {
+        "value": "Johor",
+        "label": "Johor"
+    },
+    {
+        "value": "Jonkopings Lan",
+        "label": "Jonkopings Lan"
+    },
+    {
+        "value": "Jujuy",
+        "label": "Jujuy"
+    },
+    {
+        "value": "Junin",
+        "label": "Junin"
+    },
+    {
+        "value": "Jura",
+        "label": "Jura"
+    },
+    {
+        "value": "K'ut'aisi",
+        "label": "K'ut'aisi"
+    },
+    {
+        "value": "Kabardin-Balkar",
+        "label": "Kabardin-Balkar"
+    },
+    {
+        "value": "Kabol",
+        "label": "Kabol"
+    },
+    {
+        "value": "Kadiogo",
+        "label": "Kadiogo"
+    },
+    {
+        "value": "Kaduna",
+        "label": "Kaduna"
+    },
+    {
+        "value": "Kagawa",
+        "label": "Kagawa"
+    },
+    {
+        "value": "Kagera",
+        "label": "Kagera"
+    },
+    {
+        "value": "Kagoshima",
+        "label": "Kagoshima"
+    },
+    {
+        "value": "Kahramanmaras",
+        "label": "Kahramanmaras"
+    },
+    {
+        "value": "Kairouan",
+        "label": "Kairouan"
+    },
+    {
+        "value": "Kalangala",
+        "label": "Kalangala"
+    },
+    {
+        "value": "Kalimantan Barat",
+        "label": "Kalimantan Barat"
+    },
+    {
+        "value": "Kalimantan Selatan",
+        "label": "Kalimantan Selatan"
+    },
+    {
+        "value": "Kalimantan Tengah",
+        "label": "Kalimantan Tengah"
+    },
+    {
+        "value": "Kalimantan Timur",
+        "label": "Kalimantan Timur"
+    },
+    {
+        "value": "Kaliningrad",
+        "label": "Kaliningrad"
+    },
+    {
+        "value": "Kalmar Lan",
+        "label": "Kalmar Lan"
+    },
+    {
+        "value": "Kaluga",
+        "label": "Kaluga"
+    },
+    {
+        "value": "Kamchatka",
+        "label": "Kamchatka"
+    },
+    {
+        "value": "Kamnik Commune",
+        "label": "Kamnik Commune"
+    },
+    {
+        "value": "Kampala",
+        "label": "Kampala"
+    },
+    {
+        "value": "Kampot",
+        "label": "Kampot"
+    },
+    {
+        "value": "Kanagawa",
+        "label": "Kanagawa"
+    },
+    {
+        "value": "Kanchanaburi",
+        "label": "Kanchanaburi"
+    },
+    {
+        "value": "Kandahar",
+        "label": "Kandahar"
+    },
+    {
+        "value": "Kandal",
+        "label": "Kandal"
+    },
+    {
+        "value": "Kangwon-do",
+        "label": "Kangwon-do"
+    },
+    {
+        "value": "Kankan",
+        "label": "Kankan"
+    },
+    {
+        "value": "Kano",
+        "label": "Kano"
+    },
+    {
+        "value": "Kansas",
+        "label": "Kansas"
+    },
+    {
+        "value": "Kao-hsiung",
+        "label": "Kao-hsiung"
+    },
+    {
+        "value": "Karachay-Cherkess",
+        "label": "Karachay-Cherkess"
+    },
+    {
+        "value": "Kardhitsa",
+        "label": "Kardhitsa"
+    },
+    {
+        "value": "Karelia",
+        "label": "Karelia"
+    },
+    {
+        "value": "Karlovacka",
+        "label": "Karlovacka"
+    },
+    {
+        "value": "Karlovarsky kraj",
+        "label": "Karlovarsky kraj"
+    },
+    {
+        "value": "Karnataka",
+        "label": "Karnataka"
+    },
+    {
+        "value": "Karnten",
+        "label": "Karnten"
+    },
+    {
+        "value": "Karpos",
+        "label": "Karpos"
+    },
+    {
+        "value": "Kasserine",
+        "label": "Kasserine"
+    },
+    {
+        "value": "Kastamonu",
+        "label": "Kastamonu"
+    },
+    {
+        "value": "Kastoria",
+        "label": "Kastoria"
+    },
+    {
+        "value": "Katanga",
+        "label": "Katanga"
+    },
+    {
+        "value": "Katsina",
+        "label": "Katsina"
+    },
+    {
+        "value": "Kauno Apskritis",
+        "label": "Kauno Apskritis"
+    },
+    {
+        "value": "Kavala",
+        "label": "Kavala"
+    },
+    {
+        "value": "Kayes",
+        "label": "Kayes"
+    },
+    {
+        "value": "Kayseri",
+        "label": "Kayseri"
+    },
+    {
+        "value": "Kebbi",
+        "label": "Kebbi"
+    },
+    {
+        "value": "Kebili",
+        "label": "Kebili"
+    },
+    {
+        "value": "Kedah",
+        "label": "Kedah"
+    },
+    {
+        "value": "Kefallinia",
+        "label": "Kefallinia"
+    },
+    {
+        "value": "Kelantan",
+        "label": "Kelantan"
+    },
+    {
+        "value": "Kemerovo",
+        "label": "Kemerovo"
+    },
+    {
+        "value": "Kensington and Chelsea",
+        "label": "Kensington and Chelsea"
+    },
+    {
+        "value": "Kent",
+        "label": "Kent"
+    },
+    {
+        "value": "Kentucky",
+        "label": "Kentucky"
+    },
+    {
+        "value": "Kepulauan Bangka Belitung",
+        "label": "Kepulauan Bangka Belitung"
+    },
+    {
+        "value": "Kepulauan Riau",
+        "label": "Kepulauan Riau"
+    },
+    {
+        "value": "Kerala",
+        "label": "Kerala"
+    },
+    {
+        "value": "Kerkira",
+        "label": "Kerkira"
+    },
+    {
+        "value": "Kerman",
+        "label": "Kerman"
+    },
+    {
+        "value": "Kerry",
+        "label": "Kerry"
+    },
+    {
+        "value": "Khabarovsk",
+        "label": "Khabarovsk"
+    },
+    {
+        "value": "Khakass",
+        "label": "Khakass"
+    },
+    {
+        "value": "Khalkidhiki",
+        "label": "Khalkidhiki"
+    },
+    {
+        "value": "Khania",
+        "label": "Khania"
+    },
+    {
+        "value": "Khanty-Mansiy",
+        "label": "Khanty-Mansiy"
+    },
+    {
+        "value": "Kharkivs'ka Oblast'",
+        "label": "Kharkivs'ka Oblast'"
+    },
+    {
+        "value": "Khaskovo",
+        "label": "Khaskovo"
+    },
+    {
+        "value": "Khatlon",
+        "label": "Khatlon"
+    },
+    {
+        "value": "Khersons'ka Oblast'",
+        "label": "Khersons'ka Oblast'"
+    },
+    {
+        "value": "Khios",
+        "label": "Khios"
+    },
+    {
+        "value": "Khmel'nyts'ka Oblast'",
+        "label": "Khmel'nyts'ka Oblast'"
+    },
+    {
+        "value": "Khobis Raioni",
+        "label": "Khobis Raioni"
+    },
+    {
+        "value": "Khon Kaen",
+        "label": "Khon Kaen"
+    },
+    {
+        "value": "Khorasan",
+        "label": "Khorasan"
+    },
+    {
+        "value": "Khorasan-e Razavi",
+        "label": "Khorasan-e Razavi"
+    },
+    {
+        "value": "Khulna",
+        "label": "Khulna"
+    },
+    {
+        "value": "Khuzestan",
+        "label": "Khuzestan"
+    },
+    {
+        "value": "Kicevo",
+        "label": "Kicevo"
+    },
+    {
+        "value": "Kidricevo Commune",
+        "label": "Kidricevo Commune"
+    },
+    {
+        "value": "Kigali",
+        "label": "Kigali"
+    },
+    {
+        "value": "Kigoma",
+        "label": "Kigoma"
+    },
+    {
+        "value": "Kikladhes",
+        "label": "Kikladhes"
+    },
+    {
+        "value": "Kildare",
+        "label": "Kildare"
+    },
+    {
+        "value": "Kilimanjaro",
+        "label": "Kilimanjaro"
+    },
+    {
+        "value": "Kilis",
+        "label": "Kilis"
+    },
+    {
+        "value": "Kilkenny",
+        "label": "Kilkenny"
+    },
+    {
+        "value": "Kilkis",
+        "label": "Kilkis"
+    },
+    {
+        "value": "Kingston",
+        "label": "Kingston"
+    },
+    {
+        "value": "Kingston upon Hull, City of",
+        "label": "Kingston upon Hull, City of"
+    },
+    {
+        "value": "Kingston upon Thames",
+        "label": "Kingston upon Thames"
+    },
+    {
+        "value": "Kinshasa",
+        "label": "Kinshasa"
+    },
+    {
+        "value": "Kirklareli",
+        "label": "Kirklareli"
+    },
+    {
+        "value": "Kirklees",
+        "label": "Kirklees"
+    },
+    {
+        "value": "Kirov",
+        "label": "Kirov"
+    },
+    {
+        "value": "Kirovohrads'ka Oblast'",
+        "label": "Kirovohrads'ka Oblast'"
+    },
+    {
+        "value": "Kirsehir",
+        "label": "Kirsehir"
+    },
+    {
+        "value": "Klaipedos Apskritis",
+        "label": "Klaipedos Apskritis"
+    },
+    {
+        "value": "Knowsley",
+        "label": "Knowsley"
+    },
+    {
+        "value": "Kocaeli",
+        "label": "Kocaeli"
+    },
+    {
+        "value": "Kochi",
+        "label": "Kochi"
+    },
+    {
+        "value": "Kogi",
+        "label": "Kogi"
+    },
+    {
+        "value": "Kohkiluyeh va Buyer Ahmadi",
+        "label": "Kohkiluyeh va Buyer Ahmadi"
+    },
+    {
+        "value": "Komarom-Esztergom",
+        "label": "Komarom-Esztergom"
+    },
+    {
+        "value": "Komen Commune",
+        "label": "Komen Commune"
+    },
+    {
+        "value": "Komi",
+        "label": "Komi"
+    },
+    {
+        "value": "Konya",
+        "label": "Konya"
+    },
+    {
+        "value": "Koper-Capodistria Urban Commune",
+        "label": "Koper-Capodistria Urban Commune"
+    },
+    {
+        "value": "Koprivnicko-Krizevacka",
+        "label": "Koprivnicko-Krizevacka"
+    },
+    {
+        "value": "Kordestan",
+        "label": "Kordestan"
+    },
+    {
+        "value": "Korinthia",
+        "label": "Korinthia"
+    },
+    {
+        "value": "Kosice",
+        "label": "Kosice"
+    },
+    {
+        "value": "Kosovo",
+        "label": "Kosovo"
+    },
+    {
+        "value": "Kostroma",
+        "label": "Kostroma"
+    },
+    {
+        "value": "Kotayk'",
+        "label": "Kotayk'"
+    },
+    {
+        "value": "Kowloon",
+        "label": "Kowloon"
+    },
+    {
+        "value": "Kozani",
+        "label": "Kozani"
+    },
+    {
+        "value": "Krabi",
+        "label": "Krabi"
+    },
+    {
+        "value": "Kralovehradecky kraj",
+        "label": "Kralovehradecky kraj"
+    },
+    {
+        "value": "Kranj Commune",
+        "label": "Kranj Commune"
+    },
+    {
+        "value": "Krapinsko-Zagorska",
+        "label": "Krapinsko-Zagorska"
+    },
+    {
+        "value": "Krasnodar",
+        "label": "Krasnodar"
+    },
+    {
+        "value": "Krasnoyarsk",
+        "label": "Krasnoyarsk"
+    },
+    {
+        "value": "Krasnoyarskiy Kray",
+        "label": "Krasnoyarskiy Kray"
+    },
+    {
+        "value": "Kronobergs Lan",
+        "label": "Kronobergs Lan"
+    },
+    {
+        "value": "Krsko Commune",
+        "label": "Krsko Commune"
+    },
+    {
+        "value": "Krung Thep",
+        "label": "Krung Thep"
+    },
+    {
+        "value": "Krusevo",
+        "label": "Krusevo"
+    },
+    {
+        "value": "Krym",
+        "label": "Krym"
+    },
+    {
+        "value": "Kuala Lumpur",
+        "label": "Kuala Lumpur"
+    },
+    {
+        "value": "Kujawsko-Pomorskie",
+        "label": "Kujawsko-Pomorskie"
+    },
+    {
+        "value": "Kuldigas",
+        "label": "Kuldigas"
+    },
+    {
+        "value": "Kumamoto",
+        "label": "Kumamoto"
+    },
+    {
+        "value": "Kumanovo",
+        "label": "Kumanovo"
+    },
+    {
+        "value": "Kurdufan",
+        "label": "Kurdufan"
+    },
+    {
+        "value": "Kurdzhali",
+        "label": "Kurdzhali"
+    },
+    {
+        "value": "Kurgan",
+        "label": "Kurgan"
+    },
+    {
+        "value": "Kursk",
+        "label": "Kursk"
+    },
+    {
+        "value": "Kutahya",
+        "label": "Kutahya"
+    },
+    {
+        "value": "Kwangju-jikhalsi",
+        "label": "Kwangju-jikhalsi"
+    },
+    {
+        "value": "Kwara",
+        "label": "Kwara"
+    },
+    {
+        "value": "Kweneng",
+        "label": "Kweneng"
+    },
+    {
+        "value": "Kyonggi-do",
+        "label": "Kyonggi-do"
+    },
+    {
+        "value": "Kyongsang-bukto",
+        "label": "Kyongsang-bukto"
+    },
+    {
+        "value": "Kyongsang-namdo",
+        "label": "Kyongsang-namdo"
+    },
+    {
+        "value": "Kyoto",
+        "label": "Kyoto"
+    },
+    {
+        "value": "Kyrenia",
+        "label": "Kyrenia"
+    },
+    {
+        "value": "Kyustendil",
+        "label": "Kyustendil"
+    },
+    {
+        "value": "Kyyiv",
+        "label": "Kyyiv"
+    },
+    {
+        "value": "Kyyivs'ka Oblast'",
+        "label": "Kyyivs'ka Oblast'"
+    },
+    {
+        "value": "L'vivs'ka Oblast'",
+        "label": "L'vivs'ka Oblast'"
+    },
+    {
+        "value": "La Altagracia",
+        "label": "La Altagracia"
+    },
+    {
+        "value": "La Guajira",
+        "label": "La Guajira"
+    },
+    {
+        "value": "La Libertad",
+        "label": "La Libertad"
+    },
+    {
+        "value": "La Massana",
+        "label": "La Massana"
+    },
+    {
+        "value": "La Pampa",
+        "label": "La Pampa"
+    },
+    {
+        "value": "La Paz",
+        "label": "La Paz"
+    },
+    {
+        "value": "La Rioja",
+        "label": "La Rioja"
+    },
+    {
+        "value": "La Romana",
+        "label": "La Romana"
+    },
+    {
+        "value": "La Union",
+        "label": "La Union"
+    },
+    {
+        "value": "La Vega",
+        "label": "La Vega"
+    },
+    {
+        "value": "Laane-Virumaa",
+        "label": "Laane-Virumaa"
+    },
+    {
+        "value": "Laanemaa",
+        "label": "Laanemaa"
+    },
+    {
+        "value": "Labuan",
+        "label": "Labuan"
+    },
+    {
+        "value": "Lacs",
+        "label": "Lacs"
+    },
+    {
+        "value": "Lagos",
+        "label": "Lagos"
+    },
+    {
+        "value": "Laguna",
+        "label": "Laguna"
+    },
+    {
+        "value": "Lagunes",
+        "label": "Lagunes"
+    },
+    {
+        "value": "Lakonia",
+        "label": "Lakonia"
+    },
+    {
+        "value": "Lambayeque",
+        "label": "Lambayeque"
+    },
+    {
+        "value": "Lambeth",
+        "label": "Lambeth"
+    },
+    {
+        "value": "Lampang",
+        "label": "Lampang"
+    },
+    {
+        "value": "Lamphun",
+        "label": "Lamphun"
+    },
+    {
+        "value": "Lampung",
+        "label": "Lampung"
+    },
+    {
+        "value": "Lancashire",
+        "label": "Lancashire"
+    },
+    {
+        "value": "Languedoc-Roussillon",
+        "label": "Languedoc-Roussillon"
+    },
+    {
+        "value": "Laoag",
+        "label": "Laoag"
+    },
+    {
+        "value": "Laois",
+        "label": "Laois"
+    },
+    {
+        "value": "Lapland",
+        "label": "Lapland"
+    },
+    {
+        "value": "Lapu-Lapu",
+        "label": "Lapu-Lapu"
+    },
+    {
+        "value": "Larisa",
+        "label": "Larisa"
+    },
+    {
+        "value": "Larnaca",
+        "label": "Larnaca"
+    },
+    {
+        "value": "Larne",
+        "label": "Larne"
+    },
+    {
+        "value": "Lasithi",
+        "label": "Lasithi"
+    },
+    {
+        "value": "Lasko Commune",
+        "label": "Lasko Commune"
+    },
+    {
+        "value": "Lazio",
+        "label": "Lazio"
+    },
+    {
+        "value": "Leeds",
+        "label": "Leeds"
+    },
+    {
+        "value": "Legaspi",
+        "label": "Legaspi"
+    },
+    {
+        "value": "Leicester",
+        "label": "Leicester"
+    },
+    {
+        "value": "Leicestershire",
+        "label": "Leicestershire"
+    },
+    {
+        "value": "Leiria",
+        "label": "Leiria"
+    },
+    {
+        "value": "Leitrim",
+        "label": "Leitrim"
+    },
+    {
+        "value": "Lenart Commune",
+        "label": "Lenart Commune"
+    },
+    {
+        "value": "Leningrad",
+        "label": "Leningrad"
+    },
+    {
+        "value": "Leon",
+        "label": "Leon"
+    },
+    {
+        "value": "Leribe",
+        "label": "Leribe"
+    },
+    {
+        "value": "Lesvos",
+        "label": "Lesvos"
+    },
+    {
+        "value": "Levkas",
+        "label": "Levkas"
+    },
+    {
+        "value": "Lewisham",
+        "label": "Lewisham"
+    },
+    {
+        "value": "Leyte",
+        "label": "Leyte"
+    },
+    {
+        "value": "Liaoning",
+        "label": "Liaoning"
+    },
+    {
+        "value": "Liban-Nord",
+        "label": "Liban-Nord"
+    },
+    {
+        "value": "Liberecky kraj",
+        "label": "Liberecky kraj"
+    },
+    {
+        "value": "Libertador General Bernardo O'Higgins",
+        "label": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "value": "Licko-Senjska",
+        "label": "Licko-Senjska"
+    },
+    {
+        "value": "Liege",
+        "label": "Liege"
+    },
+    {
+        "value": "Liepaja",
+        "label": "Liepaja"
+    },
+    {
+        "value": "Liepajas",
+        "label": "Liepajas"
+    },
+    {
+        "value": "Liguria",
+        "label": "Liguria"
+    },
+    {
+        "value": "Lilongwe",
+        "label": "Lilongwe"
+    },
+    {
+        "value": "Lima",
+        "label": "Lima"
+    },
+    {
+        "value": "Limassol",
+        "label": "Limassol"
+    },
+    {
+        "value": "Limavady",
+        "label": "Limavady"
+    },
+    {
+        "value": "Limbazu",
+        "label": "Limbazu"
+    },
+    {
+        "value": "Limburg",
+        "label": "Limburg"
+    },
+    {
+        "value": "Limerick",
+        "label": "Limerick"
+    },
+    {
+        "value": "Limon",
+        "label": "Limon"
+    },
+    {
+        "value": "Limousin",
+        "label": "Limousin"
+    },
+    {
+        "value": "Lincolnshire",
+        "label": "Lincolnshire"
+    },
+    {
+        "value": "Lipa",
+        "label": "Lipa"
+    },
+    {
+        "value": "Lipetsk",
+        "label": "Lipetsk"
+    },
+    {
+        "value": "Lira",
+        "label": "Lira"
+    },
+    {
+        "value": "Lisboa",
+        "label": "Lisboa"
+    },
+    {
+        "value": "Lisburn",
+        "label": "Lisburn"
+    },
+    {
+        "value": "Litija Commune",
+        "label": "Litija Commune"
+    },
+    {
+        "value": "Litoral",
+        "label": "Litoral"
+    },
+    {
+        "value": "Littoral",
+        "label": "Littoral"
+    },
+    {
+        "value": "Liverpool",
+        "label": "Liverpool"
+    },
+    {
+        "value": "Ljubljana Urban Commune",
+        "label": "Ljubljana Urban Commune"
+    },
+    {
+        "value": "Ljutomer Commune",
+        "label": "Ljutomer Commune"
+    },
+    {
+        "value": "Lodzkie",
+        "label": "Lodzkie"
+    },
+    {
+        "value": "Loei",
+        "label": "Loei"
+    },
+    {
+        "value": "Logatec Commune",
+        "label": "Logatec Commune"
+    },
+    {
+        "value": "Loja",
+        "label": "Loja"
+    },
+    {
+        "value": "Lombardia",
+        "label": "Lombardia"
+    },
+    {
+        "value": "Longford",
+        "label": "Longford"
+    },
+    {
+        "value": "Lorestan",
+        "label": "Lorestan"
+    },
+    {
+        "value": "Loreto",
+        "label": "Loreto"
+    },
+    {
+        "value": "Lorraine",
+        "label": "Lorraine"
+    },
+    {
+        "value": "Los Lagos",
+        "label": "Los Lagos"
+    },
+    {
+        "value": "Los Rios",
+        "label": "Los Rios"
+    },
+    {
+        "value": "Los Santos",
+        "label": "Los Santos"
+    },
+    {
+        "value": "Louisiana",
+        "label": "Louisiana"
+    },
+    {
+        "value": "Louth",
+        "label": "Louth"
+    },
+    {
+        "value": "Lovech",
+        "label": "Lovech"
+    },
+    {
+        "value": "Lozovo",
+        "label": "Lozovo"
+    },
+    {
+        "value": "Luanda",
+        "label": "Luanda"
+    },
+    {
+        "value": "Lubelskie",
+        "label": "Lubelskie"
+    },
+    {
+        "value": "Lubuskie",
+        "label": "Lubuskie"
+    },
+    {
+        "value": "Luhans'ka Oblast'",
+        "label": "Luhans'ka Oblast'"
+    },
+    {
+        "value": "Lukovica Commune",
+        "label": "Lukovica Commune"
+    },
+    {
+        "value": "Luton",
+        "label": "Luton"
+    },
+    {
+        "value": "Luwero",
+        "label": "Luwero"
+    },
+    {
+        "value": "Luxembourg",
+        "label": "Luxembourg"
+    },
+    {
+        "value": "Luzern",
+        "label": "Luzern"
+    },
+    {
+        "value": "Maale",
+        "label": "Maale"
+    },
+    {
+        "value": "Madang",
+        "label": "Madang"
+    },
+    {
+        "value": "Madanin",
+        "label": "Madanin"
+    },
+    {
+        "value": "Madeira",
+        "label": "Madeira"
+    },
+    {
+        "value": "Madhya Pradesh",
+        "label": "Madhya Pradesh"
+    },
+    {
+        "value": "Madinat",
+        "label": "Madinat"
+    },
+    {
+        "value": "Madre de Dios",
+        "label": "Madre de Dios"
+    },
+    {
+        "value": "Madrid",
+        "label": "Madrid"
+    },
+    {
+        "value": "Mae Hong Son",
+        "label": "Mae Hong Son"
+    },
+    {
+        "value": "Mafeteng",
+        "label": "Mafeteng"
+    },
+    {
+        "value": "Magadan",
+        "label": "Magadan"
+    },
+    {
+        "value": "Magallanes y de la Antartica Chilena",
+        "label": "Magallanes y de la Antartica Chilena"
+    },
+    {
+        "value": "Magdalena",
+        "label": "Magdalena"
+    },
+    {
+        "value": "Magherafelt",
+        "label": "Magherafelt"
+    },
+    {
+        "value": "Magnisia",
+        "label": "Magnisia"
+    },
+    {
+        "value": "Maguindanao",
+        "label": "Maguindanao"
+    },
+    {
+        "value": "Mahajanga",
+        "label": "Mahajanga"
+    },
+    {
+        "value": "Maharashtra",
+        "label": "Maharashtra"
+    },
+    {
+        "value": "Mahilyowskaya Voblasts'",
+        "label": "Mahilyowskaya Voblasts'"
+    },
+    {
+        "value": "Maine",
+        "label": "Maine"
+    },
+    {
+        "value": "Makira",
+        "label": "Makira"
+    },
+    {
+        "value": "Makkah",
+        "label": "Makkah"
+    },
+    {
+        "value": "Malatya",
+        "label": "Malatya"
+    },
+    {
+        "value": "Malopolskie",
+        "label": "Malopolskie"
+    },
+    {
+        "value": "Maluku Utara",
+        "label": "Maluku Utara"
+    },
+    {
+        "value": "Manabi",
+        "label": "Manabi"
+    },
+    {
+        "value": "Managua",
+        "label": "Managua"
+    },
+    {
+        "value": "Manawatu-Wanganui",
+        "label": "Manawatu-Wanganui"
+    },
+    {
+        "value": "Manchester",
+        "label": "Manchester"
+    },
+    {
+        "value": "Mandalay",
+        "label": "Mandalay"
+    },
+    {
+        "value": "Mandaue",
+        "label": "Mandaue"
+    },
+    {
+        "value": "Mangghystau",
+        "label": "Mangghystau"
+    },
+    {
+        "value": "Manica",
+        "label": "Manica"
+    },
+    {
+        "value": "Manila",
+        "label": "Manila"
+    },
+    {
+        "value": "Manipur",
+        "label": "Manipur"
+    },
+    {
+        "value": "Manisa",
+        "label": "Manisa"
+    },
+    {
+        "value": "Manitoba",
+        "label": "Manitoba"
+    },
+    {
+        "value": "Manzini",
+        "label": "Manzini"
+    },
+    {
+        "value": "Maputo",
+        "label": "Maputo"
+    },
+    {
+        "value": "Maramures",
+        "label": "Maramures"
+    },
+    {
+        "value": "Maranhao",
+        "label": "Maranhao"
+    },
+    {
+        "value": "Marche",
+        "label": "Marche"
+    },
+    {
+        "value": "Mardin",
+        "label": "Mardin"
+    },
+    {
+        "value": "Maribor Commune",
+        "label": "Maribor Commune"
+    },
+    {
+        "value": "Marijampoles Apskritis",
+        "label": "Marijampoles Apskritis"
+    },
+    {
+        "value": "Maritime",
+        "label": "Maritime"
+    },
+    {
+        "value": "Mariy-El",
+        "label": "Mariy-El"
+    },
+    {
+        "value": "Markazi",
+        "label": "Markazi"
+    },
+    {
+        "value": "Marlborough",
+        "label": "Marlborough"
+    },
+    {
+        "value": "Marrakech-Tensift-Al Haouz",
+        "label": "Marrakech-Tensift-Al Haouz"
+    },
+    {
+        "value": "Maryland",
+        "label": "Maryland"
+    },
+    {
+        "value": "Masaka",
+        "label": "Masaka"
+    },
+    {
+        "value": "Masaya",
+        "label": "Masaya"
+    },
+    {
+        "value": "Masbate",
+        "label": "Masbate"
+    },
+    {
+        "value": "Mascara",
+        "label": "Mascara"
+    },
+    {
+        "value": "Maseru",
+        "label": "Maseru"
+    },
+    {
+        "value": "Masqat",
+        "label": "Masqat"
+    },
+    {
+        "value": "Massachusetts",
+        "label": "Massachusetts"
+    },
+    {
+        "value": "Matagalpa",
+        "label": "Matagalpa"
+    },
+    {
+        "value": "Mato Grosso",
+        "label": "Mato Grosso"
+    },
+    {
+        "value": "Mato Grosso do Sul",
+        "label": "Mato Grosso do Sul"
+    },
+    {
+        "value": "Matruh",
+        "label": "Matruh"
+    },
+    {
+        "value": "Maule",
+        "label": "Maule"
+    },
+    {
+        "value": "Mauren",
+        "label": "Mauren"
+    },
+    {
+        "value": "Mayo",
+        "label": "Mayo"
+    },
+    {
+        "value": "Mazandaran",
+        "label": "Mazandaran"
+    },
+    {
+        "value": "Mazowieckie",
+        "label": "Mazowieckie"
+    },
+    {
+        "value": "Mbale",
+        "label": "Mbale"
+    },
+    {
+        "value": "Mbarara",
+        "label": "Mbarara"
+    },
+    {
+        "value": "Mbeya",
+        "label": "Mbeya"
+    },
+    {
+        "value": "Meath",
+        "label": "Meath"
+    },
+    {
+        "value": "Mecklenburg-Vorpommern",
+        "label": "Mecklenburg-Vorpommern"
+    },
+    {
+        "value": "Medimurska",
+        "label": "Medimurska"
+    },
+    {
+        "value": "Medvode Commune",
+        "label": "Medvode Commune"
+    },
+    {
+        "value": "Medway",
+        "label": "Medway"
+    },
+    {
+        "value": "Meghalaya",
+        "label": "Meghalaya"
+    },
+    {
+        "value": "Mehedinti",
+        "label": "Mehedinti"
+    },
+    {
+        "value": "Meknes-Tafilalet",
+        "label": "Meknes-Tafilalet"
+    },
+    {
+        "value": "Melaka",
+        "label": "Melaka"
+    },
+    {
+        "value": "Mendoza",
+        "label": "Mendoza"
+    },
+    {
+        "value": "Menges Commune",
+        "label": "Menges Commune"
+    },
+    {
+        "value": "Mersin",
+        "label": "Mersin"
+    },
+    {
+        "value": "Merthyr Tydfil",
+        "label": "Merthyr Tydfil"
+    },
+    {
+        "value": "Merton",
+        "label": "Merton"
+    },
+    {
+        "value": "Messinia",
+        "label": "Messinia"
+    },
+    {
+        "value": "Meta",
+        "label": "Meta"
+    },
+    {
+        "value": "Mexico",
+        "label": "Mexico"
+    },
+    {
+        "value": "Mezica Commune",
+        "label": "Mezica Commune"
+    },
+    {
+        "value": "Michigan",
+        "label": "Michigan"
+    },
+    {
+        "value": "Michoacan de Ocampo",
+        "label": "Michoacan de Ocampo"
+    },
+    {
+        "value": "Middlesbrough",
+        "label": "Middlesbrough"
+    },
+    {
+        "value": "Midi-Pyrenees",
+        "label": "Midi-Pyrenees"
+    },
+    {
+        "value": "Midland",
+        "label": "Midland"
+    },
+    {
+        "value": "Midlothian",
+        "label": "Midlothian"
+    },
+    {
+        "value": "Midtjylland",
+        "label": "Midtjylland"
+    },
+    {
+        "value": "Mie",
+        "label": "Mie"
+    },
+    {
+        "value": "Milne Bay",
+        "label": "Milne Bay"
+    },
+    {
+        "value": "Milton Keynes",
+        "label": "Milton Keynes"
+    },
+    {
+        "value": "Minas Gerais",
+        "label": "Minas Gerais"
+    },
+    {
+        "value": "Mindoro Oriental",
+        "label": "Mindoro Oriental"
+    },
+    {
+        "value": "Minnesota",
+        "label": "Minnesota"
+    },
+    {
+        "value": "Minsk",
+        "label": "Minsk"
+    },
+    {
+        "value": "Minskaya Voblasts'",
+        "label": "Minskaya Voblasts'"
+    },
+    {
+        "value": "Misamis Occidental",
+        "label": "Misamis Occidental"
+    },
+    {
+        "value": "Misamis Oriental",
+        "label": "Misamis Oriental"
+    },
+    {
+        "value": "Misiones",
+        "label": "Misiones"
+    },
+    {
+        "value": "Miskolc",
+        "label": "Miskolc"
+    },
+    {
+        "value": "Misratah",
+        "label": "Misratah"
+    },
+    {
+        "value": "Mississippi",
+        "label": "Mississippi"
+    },
+    {
+        "value": "Missouri",
+        "label": "Missouri"
+    },
+    {
+        "value": "Miyagi",
+        "label": "Miyagi"
+    },
+    {
+        "value": "Miyazaki",
+        "label": "Miyazaki"
+    },
+    {
+        "value": "Mizoram",
+        "label": "Mizoram"
+    },
+    {
+        "value": "Moka",
+        "label": "Moka"
+    },
+    {
+        "value": "Molise",
+        "label": "Molise"
+    },
+    {
+        "value": "Monaghan",
+        "label": "Monaghan"
+    },
+    {
+        "value": "Monmouthshire",
+        "label": "Monmouthshire"
+    },
+    {
+        "value": "Monsenor Nouel",
+        "label": "Monsenor Nouel"
+    },
+    {
+        "value": "Mont-Liban",
+        "label": "Mont-Liban"
+    },
+    {
+        "value": "Montana",
+        "label": "Montana"
+    },
+    {
+        "value": "Monte Plata",
+        "label": "Monte Plata"
+    },
+    {
+        "value": "Montserrado",
+        "label": "Montserrado"
+    },
+    {
+        "value": "Moquegua",
+        "label": "Moquegua"
+    },
+    {
+        "value": "Moravce Commune",
+        "label": "Moravce Commune"
+    },
+    {
+        "value": "Moravskoslezsky kraj",
+        "label": "Moravskoslezsky kraj"
+    },
+    {
+        "value": "Moray",
+        "label": "Moray"
+    },
+    {
+        "value": "Morazan",
+        "label": "Morazan"
+    },
+    {
+        "value": "Mordovia",
+        "label": "Mordovia"
+    },
+    {
+        "value": "More og Romsdal",
+        "label": "More og Romsdal"
+    },
+    {
+        "value": "Morelos",
+        "label": "Morelos"
+    },
+    {
+        "value": "Morobe",
+        "label": "Morobe"
+    },
+    {
+        "value": "Morogoro",
+        "label": "Morogoro"
+    },
+    {
+        "value": "Moscow City",
+        "label": "Moscow City"
+    },
+    {
+        "value": "Moskva",
+        "label": "Moskva"
+    },
+    {
+        "value": "Mostaganem",
+        "label": "Mostaganem"
+    },
+    {
+        "value": "Moyle",
+        "label": "Moyle"
+    },
+    {
+        "value": "Mpigi",
+        "label": "Mpigi"
+    },
+    {
+        "value": "Mugla",
+        "label": "Mugla"
+    },
+    {
+        "value": "Mukono",
+        "label": "Mukono"
+    },
+    {
+        "value": "Murcia",
+        "label": "Murcia"
+    },
+    {
+        "value": "Mures",
+        "label": "Mures"
+    },
+    {
+        "value": "Murmansk",
+        "label": "Murmansk"
+    },
+    {
+        "value": "Murska Sobota Urban Commune",
+        "label": "Murska Sobota Urban Commune"
+    },
+    {
+        "value": "Musandam",
+        "label": "Musandam"
+    },
+    {
+        "value": "Mwanza",
+        "label": "Mwanza"
+    },
+    {
+        "value": "Mykolayivs'ka Oblast'",
+        "label": "Mykolayivs'ka Oblast'"
+    },
+    {
+        "value": "NA - American Samoa",
+        "label": "NA - American Samoa"
+    },
+    {
+        "value": "NA - Anguilla",
+        "label": "NA - Anguilla"
+    },
+    {
+        "value": "NA - Aruba",
+        "label": "NA - Aruba"
+    },
+    {
+        "value": "NA - Bouvet Island",
+        "label": "NA - Bouvet Island"
+    },
+    {
+        "value": "NA - British Indian Ocean Territory",
+        "label": "NA - British Indian Ocean Territory"
+    },
+    {
+        "value": "NA - Cook Islands",
+        "label": "NA - Cook Islands"
+    },
+    {
+        "value": "NA - Falkland Islands",
+        "label": "NA - Falkland Islands"
+    },
+    {
+        "value": "NA - Faroe Islands",
+        "label": "NA - Faroe Islands"
+    },
+    {
+        "value": "NA - French Guiana",
+        "label": "NA - French Guiana"
+    },
+    {
+        "value": "NA - French Polynesia",
+        "label": "NA - French Polynesia"
+    },
+    {
+        "value": "NA - Guadeloupe",
+        "label": "NA - Guadeloupe"
+    },
+    {
+        "value": "NA - Guam",
+        "label": "NA - Guam"
+    },
+    {
+        "value": "NA - Guernsey",
+        "label": "NA - Guernsey"
+    },
+    {
+        "value": "NA - Isle of Man",
+        "label": "NA - Isle of Man"
+    },
+    {
+        "value": "NA - Jersey",
+        "label": "NA - Jersey"
+    },
+    {
+        "value": "NA - Malta",
+        "label": "NA - Malta"
+    },
+    {
+        "value": "NA - Marshall Islands",
+        "label": "NA - Marshall Islands"
+    },
+    {
+        "value": "NA - Martinique",
+        "label": "NA - Martinique"
+    },
+    {
+        "value": "NA - Mayotte",
+        "label": "NA - Mayotte"
+    },
+    {
+        "value": "NA - Montenegro",
+        "label": "NA - Montenegro"
+    },
+    {
+        "value": "NA - New Caledonia",
+        "label": "NA - New Caledonia"
+    },
+    {
+        "value": "NA - Norfolk Island",
+        "label": "NA - Norfolk Island"
+    },
+    {
+        "value": "NA - Northern Mariana Islands",
+        "label": "NA - Northern Mariana Islands"
+    },
+    {
+        "value": "NA - Puerto Rico",
+        "label": "NA - Puerto Rico"
+    },
+    {
+        "value": "NA - Reunion",
+        "label": "NA - Reunion"
+    },
+    {
+        "value": "NA - Saint Barth\u00e9lemy",
+        "label": "NA - Saint Barth\u00e9lemy"
+    },
+    {
+        "value": "NA - Saint-Martin (France)",
+        "label": "NA - Saint-Martin (France)"
+    },
+    {
+        "value": "NA - South Africa",
+        "label": "NA - South Africa"
+    },
+    {
+        "value": "NA - Svalbard and Jan Mayen Islands",
+        "label": "NA - Svalbard and Jan Mayen Islands"
+    },
+    {
+        "value": "NA - Turks and Caicos Islands",
+        "label": "NA - Turks and Caicos Islands"
+    },
+    {
+        "value": "NA - United States Minor Outlying Islands",
+        "label": "NA - United States Minor Outlying Islands"
+    },
+    {
+        "value": "NA - Uruguay",
+        "label": "NA - Uruguay"
+    },
+    {
+        "value": "NA - Uzbekistan",
+        "label": "NA - Uzbekistan"
+    },
+    {
+        "value": "NA - Venezuela",
+        "label": "NA - Venezuela"
+    },
+    {
+        "value": "NA - Vietnam",
+        "label": "NA - Vietnam"
+    },
+    {
+        "value": "NA - Yemen",
+        "label": "NA - Yemen"
+    },
+    {
+        "value": "NA - Zambia",
+        "label": "NA - Zambia"
+    },
+    {
+        "value": "NA - Zimbabwe",
+        "label": "NA - Zimbabwe"
+    },
+    {
+        "value": "NA - \u00c5land Islands",
+        "label": "NA - \u00c5land Islands"
+    },
+    {
+        "value": "Nabeul",
+        "label": "Nabeul"
+    },
+    {
+        "value": "Naga",
+        "label": "Naga"
+    },
+    {
+        "value": "Nagaland",
+        "label": "Nagaland"
+    },
+    {
+        "value": "Nagano",
+        "label": "Nagano"
+    },
+    {
+        "value": "Nagasaki",
+        "label": "Nagasaki"
+    },
+    {
+        "value": "Nairobi Area",
+        "label": "Nairobi Area"
+    },
+    {
+        "value": "Nakhon Nayok",
+        "label": "Nakhon Nayok"
+    },
+    {
+        "value": "Nakhon Pathom",
+        "label": "Nakhon Pathom"
+    },
+    {
+        "value": "Nakhon Ratchasima",
+        "label": "Nakhon Ratchasima"
+    },
+    {
+        "value": "Nakhon Si Thammarat",
+        "label": "Nakhon Si Thammarat"
+    },
+    {
+        "value": "Naklo Commune",
+        "label": "Naklo Commune"
+    },
+    {
+        "value": "Nampula",
+        "label": "Nampula"
+    },
+    {
+        "value": "Namur",
+        "label": "Namur"
+    },
+    {
+        "value": "Nara",
+        "label": "Nara"
+    },
+    {
+        "value": "Narino",
+        "label": "Narino"
+    },
+    {
+        "value": "Nassarawa",
+        "label": "Nassarawa"
+    },
+    {
+        "value": "National Capital",
+        "label": "National Capital"
+    },
+    {
+        "value": "Navarra",
+        "label": "Navarra"
+    },
+    {
+        "value": "Naxcivan",
+        "label": "Naxcivan"
+    },
+    {
+        "value": "Nayarit",
+        "label": "Nayarit"
+    },
+    {
+        "value": "Nazarje Commune",
+        "label": "Nazarje Commune"
+    },
+    {
+        "value": "Neamt",
+        "label": "Neamt"
+    },
+    {
+        "value": "Neath Port Talbot",
+        "label": "Neath Port Talbot"
+    },
+    {
+        "value": "Nebraska",
+        "label": "Nebraska"
+    },
+    {
+        "value": "Neftcala",
+        "label": "Neftcala"
+    },
+    {
+        "value": "Negeri Sembilan",
+        "label": "Negeri Sembilan"
+    },
+    {
+        "value": "Negotino",
+        "label": "Negotino"
+    },
+    {
+        "value": "Negros Occidental",
+        "label": "Negros Occidental"
+    },
+    {
+        "value": "Negros Oriental",
+        "label": "Negros Oriental"
+    },
+    {
+        "value": "Nei Mongol",
+        "label": "Nei Mongol"
+    },
+    {
+        "value": "Nelson",
+        "label": "Nelson"
+    },
+    {
+        "value": "Nenets",
+        "label": "Nenets"
+    },
+    {
+        "value": "Neuchatel",
+        "label": "Neuchatel"
+    },
+    {
+        "value": "Neuquen",
+        "label": "Neuquen"
+    },
+    {
+        "value": "Nevada",
+        "label": "Nevada"
+    },
+    {
+        "value": "Nevsehir",
+        "label": "Nevsehir"
+    },
+    {
+        "value": "New Brunswick",
+        "label": "New Brunswick"
+    },
+    {
+        "value": "New Hampshire",
+        "label": "New Hampshire"
+    },
+    {
+        "value": "New Jersey",
+        "label": "New Jersey"
+    },
+    {
+        "value": "New Mexico",
+        "label": "New Mexico"
+    },
+    {
+        "value": "New Providence",
+        "label": "New Providence"
+    },
+    {
+        "value": "New South Wales",
+        "label": "New South Wales"
+    },
+    {
+        "value": "New Territories",
+        "label": "New Territories"
+    },
+    {
+        "value": "New York",
+        "label": "New York"
+    },
+    {
+        "value": "Newcastle upon Tyne",
+        "label": "Newcastle upon Tyne"
+    },
+    {
+        "value": "Newfoundland",
+        "label": "Newfoundland"
+    },
+    {
+        "value": "Newham",
+        "label": "Newham"
+    },
+    {
+        "value": "Newport",
+        "label": "Newport"
+    },
+    {
+        "value": "Newry and Mourne",
+        "label": "Newry and Mourne"
+    },
+    {
+        "value": "Newtownabbey",
+        "label": "Newtownabbey"
+    },
+    {
+        "value": "Niamey",
+        "label": "Niamey"
+    },
+    {
+        "value": "Nicosia",
+        "label": "Nicosia"
+    },
+    {
+        "value": "Nidwalden",
+        "label": "Nidwalden"
+    },
+    {
+        "value": "Niederosterreich",
+        "label": "Niederosterreich"
+    },
+    {
+        "value": "Niedersachsen",
+        "label": "Niedersachsen"
+    },
+    {
+        "value": "Nigde",
+        "label": "Nigde"
+    },
+    {
+        "value": "Niger",
+        "label": "Niger"
+    },
+    {
+        "value": "Niigata",
+        "label": "Niigata"
+    },
+    {
+        "value": "Ninawa",
+        "label": "Ninawa"
+    },
+    {
+        "value": "Ningxia",
+        "label": "Ningxia"
+    },
+    {
+        "value": "Nitra",
+        "label": "Nitra"
+    },
+    {
+        "value": "Nizhegorod",
+        "label": "Nizhegorod"
+    },
+    {
+        "value": "Nkhata Bay",
+        "label": "Nkhata Bay"
+    },
+    {
+        "value": "Nograd",
+        "label": "Nograd"
+    },
+    {
+        "value": "Nonthaburi",
+        "label": "Nonthaburi"
+    },
+    {
+        "value": "Noord-Brabant",
+        "label": "Noord-Brabant"
+    },
+    {
+        "value": "Noord-Holland",
+        "label": "Noord-Holland"
+    },
+    {
+        "value": "Nord",
+        "label": "Nord"
+    },
+    {
+        "value": "Nord-Kivu",
+        "label": "Nord-Kivu"
+    },
+    {
+        "value": "Nord-Ouest",
+        "label": "Nord-Ouest"
+    },
+    {
+        "value": "Nord-Pas-de-Calais",
+        "label": "Nord-Pas-de-Calais"
+    },
+    {
+        "value": "Nord-Trondelag",
+        "label": "Nord-Trondelag"
+    },
+    {
+        "value": "Nordjylland",
+        "label": "Nordjylland"
+    },
+    {
+        "value": "Nordland",
+        "label": "Nordland"
+    },
+    {
+        "value": "Nordrhein-Westfalen",
+        "label": "Nordrhein-Westfalen"
+    },
+    {
+        "value": "Norfolk",
+        "label": "Norfolk"
+    },
+    {
+        "value": "Norourland Eystra",
+        "label": "Norourland Eystra"
+    },
+    {
+        "value": "Norrbottens Lan",
+        "label": "Norrbottens Lan"
+    },
+    {
+        "value": "Norte de Santander",
+        "label": "Norte de Santander"
+    },
+    {
+        "value": "North Ayrshire",
+        "label": "North Ayrshire"
+    },
+    {
+        "value": "North Carolina",
+        "label": "North Carolina"
+    },
+    {
+        "value": "North Central",
+        "label": "North Central"
+    },
+    {
+        "value": "North Cotabato",
+        "label": "North Cotabato"
+    },
+    {
+        "value": "North Dakota",
+        "label": "North Dakota"
+    },
+    {
+        "value": "North Down",
+        "label": "North Down"
+    },
+    {
+        "value": "North East Lincolnshire",
+        "label": "North East Lincolnshire"
+    },
+    {
+        "value": "North Lanarkshire",
+        "label": "North Lanarkshire"
+    },
+    {
+        "value": "North Lincolnshire",
+        "label": "North Lincolnshire"
+    },
+    {
+        "value": "North Ossetia",
+        "label": "North Ossetia"
+    },
+    {
+        "value": "North Region",
+        "label": "North Region"
+    },
+    {
+        "value": "North Somerset",
+        "label": "North Somerset"
+    },
+    {
+        "value": "North Tyneside",
+        "label": "North Tyneside"
+    },
+    {
+        "value": "North Western",
+        "label": "North Western"
+    },
+    {
+        "value": "North Yorkshire",
+        "label": "North Yorkshire"
+    },
+    {
+        "value": "North-East",
+        "label": "North-East"
+    },
+    {
+        "value": "North-East Region",
+        "label": "North-East Region"
+    },
+    {
+        "value": "North-West",
+        "label": "North-West"
+    },
+    {
+        "value": "North-West Frontier",
+        "label": "North-West Frontier"
+    },
+    {
+        "value": "Northamptonshire",
+        "label": "Northamptonshire"
+    },
+    {
+        "value": "Northern",
+        "label": "Northern"
+    },
+    {
+        "value": "Northern Areas",
+        "label": "Northern Areas"
+    },
+    {
+        "value": "Northern Territory",
+        "label": "Northern Territory"
+    },
+    {
+        "value": "Northland",
+        "label": "Northland"
+    },
+    {
+        "value": "Northumberland",
+        "label": "Northumberland"
+    },
+    {
+        "value": "Northwest Territories",
+        "label": "Northwest Territories"
+    },
+    {
+        "value": "Nottingham",
+        "label": "Nottingham"
+    },
+    {
+        "value": "Nottinghamshire",
+        "label": "Nottinghamshire"
+    },
+    {
+        "value": "Nova Gorica Urban Commune",
+        "label": "Nova Gorica Urban Commune"
+    },
+    {
+        "value": "Nova Scotia",
+        "label": "Nova Scotia"
+    },
+    {
+        "value": "Novgorod",
+        "label": "Novgorod"
+    },
+    {
+        "value": "Novo mesto Urban Commune",
+        "label": "Novo mesto Urban Commune"
+    },
+    {
+        "value": "Novosibirsk",
+        "label": "Novosibirsk"
+    },
+    {
+        "value": "Nueva Ecija",
+        "label": "Nueva Ecija"
+    },
+    {
+        "value": "Nueva Vizcaya",
+        "label": "Nueva Vizcaya"
+    },
+    {
+        "value": "Nuevo Leon",
+        "label": "Nuevo Leon"
+    },
+    {
+        "value": "Nugaal",
+        "label": "Nugaal"
+    },
+    {
+        "value": "Nunavut",
+        "label": "Nunavut"
+    },
+    {
+        "value": "Nusa Tenggara Barat",
+        "label": "Nusa Tenggara Barat"
+    },
+    {
+        "value": "Nusa Tenggara Timur",
+        "label": "Nusa Tenggara Timur"
+    },
+    {
+        "value": "Nyanza",
+        "label": "Nyanza"
+    },
+    {
+        "value": "Nzerekore",
+        "label": "Nzerekore"
+    },
+    {
+        "value": "Oaxaca",
+        "label": "Oaxaca"
+    },
+    {
+        "value": "Oberosterreich",
+        "label": "Oberosterreich"
+    },
+    {
+        "value": "Obwalden",
+        "label": "Obwalden"
+    },
+    {
+        "value": "Odes'ka Oblast'",
+        "label": "Odes'ka Oblast'"
+    },
+    {
+        "value": "Offaly",
+        "label": "Offaly"
+    },
+    {
+        "value": "Ogooue-Lolo",
+        "label": "Ogooue-Lolo"
+    },
+    {
+        "value": "Ogres",
+        "label": "Ogres"
+    },
+    {
+        "value": "Ogun",
+        "label": "Ogun"
+    },
+    {
+        "value": "Ohio",
+        "label": "Ohio"
+    },
+    {
+        "value": "Ohrid",
+        "label": "Ohrid"
+    },
+    {
+        "value": "Oita",
+        "label": "Oita"
+    },
+    {
+        "value": "Okayama",
+        "label": "Okayama"
+    },
+    {
+        "value": "Okinawa",
+        "label": "Okinawa"
+    },
+    {
+        "value": "Oklahoma",
+        "label": "Oklahoma"
+    },
+    {
+        "value": "Oldham",
+        "label": "Oldham"
+    },
+    {
+        "value": "Olomoucky kraj",
+        "label": "Olomoucky kraj"
+    },
+    {
+        "value": "Olongapo",
+        "label": "Olongapo"
+    },
+    {
+        "value": "Olt",
+        "label": "Olt"
+    },
+    {
+        "value": "Omagh",
+        "label": "Omagh"
+    },
+    {
+        "value": "Omsk",
+        "label": "Omsk"
+    },
+    {
+        "value": "Ondo",
+        "label": "Ondo"
+    },
+    {
+        "value": "Ontario",
+        "label": "Ontario"
+    },
+    {
+        "value": "Oost-Vlaanderen",
+        "label": "Oost-Vlaanderen"
+    },
+    {
+        "value": "Opolskie",
+        "label": "Opolskie"
+    },
+    {
+        "value": "Oppland",
+        "label": "Oppland"
+    },
+    {
+        "value": "Oran",
+        "label": "Oran"
+    },
+    {
+        "value": "Orange Walk",
+        "label": "Orange Walk"
+    },
+    {
+        "value": "Ordino",
+        "label": "Ordino"
+    },
+    {
+        "value": "Ordu",
+        "label": "Ordu"
+    },
+    {
+        "value": "Orebro Lan",
+        "label": "Orebro Lan"
+    },
+    {
+        "value": "Oregon",
+        "label": "Oregon"
+    },
+    {
+        "value": "Orel",
+        "label": "Orel"
+    },
+    {
+        "value": "Orellana",
+        "label": "Orellana"
+    },
+    {
+        "value": "Orenburg",
+        "label": "Orenburg"
+    },
+    {
+        "value": "Orhei",
+        "label": "Orhei"
+    },
+    {
+        "value": "Oriental",
+        "label": "Oriental"
+    },
+    {
+        "value": "Orissa",
+        "label": "Orissa"
+    },
+    {
+        "value": "Orkney",
+        "label": "Orkney"
+    },
+    {
+        "value": "Ormoc",
+        "label": "Ormoc"
+    },
+    {
+        "value": "Ormoz Commune",
+        "label": "Ormoz Commune"
+    },
+    {
+        "value": "Oromiya",
+        "label": "Oromiya"
+    },
+    {
+        "value": "Oruro",
+        "label": "Oruro"
+    },
+    {
+        "value": "Osaka",
+        "label": "Osaka"
+    },
+    {
+        "value": "Osh",
+        "label": "Osh"
+    },
+    {
+        "value": "Oshana",
+        "label": "Oshana"
+    },
+    {
+        "value": "Oshikoto",
+        "label": "Oshikoto"
+    },
+    {
+        "value": "Osjecko-Baranjska",
+        "label": "Osjecko-Baranjska"
+    },
+    {
+        "value": "Oslo",
+        "label": "Oslo"
+    },
+    {
+        "value": "Ostergotlands Lan",
+        "label": "Ostergotlands Lan"
+    },
+    {
+        "value": "Ostfold",
+        "label": "Ostfold"
+    },
+    {
+        "value": "Osun",
+        "label": "Osun"
+    },
+    {
+        "value": "Otago",
+        "label": "Otago"
+    },
+    {
+        "value": "Otjozondjupa",
+        "label": "Otjozondjupa"
+    },
+    {
+        "value": "Ouargla",
+        "label": "Ouargla"
+    },
+    {
+        "value": "Oueme",
+        "label": "Oueme"
+    },
+    {
+        "value": "Ouest",
+        "label": "Ouest"
+    },
+    {
+        "value": "Oulu",
+        "label": "Oulu"
+    },
+    {
+        "value": "Overijssel",
+        "label": "Overijssel"
+    },
+    {
+        "value": "Oxfordshire",
+        "label": "Oxfordshire"
+    },
+    {
+        "value": "Oyo",
+        "label": "Oyo"
+    },
+    {
+        "value": "Ozamis",
+        "label": "Ozamis"
+    },
+    {
+        "value": "P'yongan-namdo",
+        "label": "P'yongan-namdo"
+    },
+    {
+        "value": "P'yongyang-si",
+        "label": "P'yongyang-si"
+    },
+    {
+        "value": "Paget",
+        "label": "Paget"
+    },
+    {
+        "value": "Pahang",
+        "label": "Pahang"
+    },
+    {
+        "value": "Pais Vasco",
+        "label": "Pais Vasco"
+    },
+    {
+        "value": "Palau",
+        "label": "Palau"
+    },
+    {
+        "value": "Palawan",
+        "label": "Palawan"
+    },
+    {
+        "value": "Pampanga",
+        "label": "Pampanga"
+    },
+    {
+        "value": "Pamplemousses",
+        "label": "Pamplemousses"
+    },
+    {
+        "value": "Panama",
+        "label": "Panama"
+    },
+    {
+        "value": "Pando",
+        "label": "Pando"
+    },
+    {
+        "value": "Panevezio Apskritis",
+        "label": "Panevezio Apskritis"
+    },
+    {
+        "value": "Pangasinan",
+        "label": "Pangasinan"
+    },
+    {
+        "value": "Paphos",
+        "label": "Paphos"
+    },
+    {
+        "value": "Papua",
+        "label": "Papua"
+    },
+    {
+        "value": "Para",
+        "label": "Para"
+    },
+    {
+        "value": "Paraiba",
+        "label": "Paraiba"
+    },
+    {
+        "value": "Paramaribo",
+        "label": "Paramaribo"
+    },
+    {
+        "value": "Parana",
+        "label": "Parana"
+    },
+    {
+        "value": "Pardubicky kraj",
+        "label": "Pardubicky kraj"
+    },
+    {
+        "value": "Parnumaa",
+        "label": "Parnumaa"
+    },
+    {
+        "value": "Pasay",
+        "label": "Pasay"
+    },
+    {
+        "value": "Pastaza",
+        "label": "Pastaza"
+    },
+    {
+        "value": "Pathum Thani",
+        "label": "Pathum Thani"
+    },
+    {
+        "value": "Pavlodar",
+        "label": "Pavlodar"
+    },
+    {
+        "value": "Pays de la Loire",
+        "label": "Pays de la Loire"
+    },
+    {
+        "value": "Pazardzhik",
+        "label": "Pazardzhik"
+    },
+    {
+        "value": "Pecs",
+        "label": "Pecs"
+    },
+    {
+        "value": "Pella",
+        "label": "Pella"
+    },
+    {
+        "value": "Pemba North",
+        "label": "Pemba North"
+    },
+    {
+        "value": "Pembrokeshire",
+        "label": "Pembrokeshire"
+    },
+    {
+        "value": "Pennsylvania",
+        "label": "Pennsylvania"
+    },
+    {
+        "value": "Penza",
+        "label": "Penza"
+    },
+    {
+        "value": "Perak",
+        "label": "Perak"
+    },
+    {
+        "value": "Peravia",
+        "label": "Peravia"
+    },
+    {
+        "value": "Perlis",
+        "label": "Perlis"
+    },
+    {
+        "value": "Perm'",
+        "label": "Perm'"
+    },
+    {
+        "value": "Permskiy Kray",
+        "label": "Permskiy Kray"
+    },
+    {
+        "value": "Pernambuco",
+        "label": "Pernambuco"
+    },
+    {
+        "value": "Pernik",
+        "label": "Pernik"
+    },
+    {
+        "value": "Perth and Kinross",
+        "label": "Perth and Kinross"
+    },
+    {
+        "value": "Pesnica Commune",
+        "label": "Pesnica Commune"
+    },
+    {
+        "value": "Pest",
+        "label": "Pest"
+    },
+    {
+        "value": "Peterborough",
+        "label": "Peterborough"
+    },
+    {
+        "value": "Phangnga",
+        "label": "Phangnga"
+    },
+    {
+        "value": "Phetchaburi",
+        "label": "Phetchaburi"
+    },
+    {
+        "value": "Phitsanulok",
+        "label": "Phitsanulok"
+    },
+    {
+        "value": "Phnum Penh",
+        "label": "Phnum Penh"
+    },
+    {
+        "value": "Phra Nakhon Si Ayutthaya",
+        "label": "Phra Nakhon Si Ayutthaya"
+    },
+    {
+        "value": "Phrae",
+        "label": "Phrae"
+    },
+    {
+        "value": "Phuket",
+        "label": "Phuket"
+    },
+    {
+        "value": "Piaui",
+        "label": "Piaui"
+    },
+    {
+        "value": "Picardie",
+        "label": "Picardie"
+    },
+    {
+        "value": "Pichincha",
+        "label": "Pichincha"
+    },
+    {
+        "value": "Piemonte",
+        "label": "Piemonte"
+    },
+    {
+        "value": "Pieria",
+        "label": "Pieria"
+    },
+    {
+        "value": "Piran-Pirano Commune",
+        "label": "Piran-Pirano Commune"
+    },
+    {
+        "value": "Piura",
+        "label": "Piura"
+    },
+    {
+        "value": "Pivka Commune",
+        "label": "Pivka Commune"
+    },
+    {
+        "value": "Plaines Wilhems",
+        "label": "Plaines Wilhems"
+    },
+    {
+        "value": "Plateau",
+        "label": "Plateau"
+    },
+    {
+        "value": "Pleven",
+        "label": "Pleven"
+    },
+    {
+        "value": "Plovdiv",
+        "label": "Plovdiv"
+    },
+    {
+        "value": "Plymouth",
+        "label": "Plymouth"
+    },
+    {
+        "value": "Plzensky kraj",
+        "label": "Plzensky kraj"
+    },
+    {
+        "value": "Podcetrtek Commune",
+        "label": "Podcetrtek Commune"
+    },
+    {
+        "value": "Podkarpackie",
+        "label": "Podkarpackie"
+    },
+    {
+        "value": "Podlaskie",
+        "label": "Podlaskie"
+    },
+    {
+        "value": "Poitou-Charentes",
+        "label": "Poitou-Charentes"
+    },
+    {
+        "value": "Poltavs'ka Oblast'",
+        "label": "Poltavs'ka Oblast'"
+    },
+    {
+        "value": "Polvamaa",
+        "label": "Polvamaa"
+    },
+    {
+        "value": "Pomorskie",
+        "label": "Pomorskie"
+    },
+    {
+        "value": "Poole",
+        "label": "Poole"
+    },
+    {
+        "value": "Port Louis",
+        "label": "Port Louis"
+    },
+    {
+        "value": "Port-of-Spain",
+        "label": "Port-of-Spain"
+    },
+    {
+        "value": "Portalegre",
+        "label": "Portalegre"
+    },
+    {
+        "value": "Portland",
+        "label": "Portland"
+    },
+    {
+        "value": "Porto",
+        "label": "Porto"
+    },
+    {
+        "value": "Portsmouth",
+        "label": "Portsmouth"
+    },
+    {
+        "value": "Postojna Commune",
+        "label": "Postojna Commune"
+    },
+    {
+        "value": "Powys",
+        "label": "Powys"
+    },
+    {
+        "value": "Pozesko-Slavonska",
+        "label": "Pozesko-Slavonska"
+    },
+    {
+        "value": "Prachuap Khiri Khan",
+        "label": "Prachuap Khiri Khan"
+    },
+    {
+        "value": "Prahova",
+        "label": "Prahova"
+    },
+    {
+        "value": "Preilu",
+        "label": "Preilu"
+    },
+    {
+        "value": "Presov",
+        "label": "Presov"
+    },
+    {
+        "value": "Preveza",
+        "label": "Preveza"
+    },
+    {
+        "value": "Prilep",
+        "label": "Prilep"
+    },
+    {
+        "value": "Primor'ye",
+        "label": "Primor'ye"
+    },
+    {
+        "value": "Primorsko-Goranska",
+        "label": "Primorsko-Goranska"
+    },
+    {
+        "value": "Prince Edward Island",
+        "label": "Prince Edward Island"
+    },
+    {
+        "value": "Provence-Alpes-Cote d'Azur",
+        "label": "Provence-Alpes-Cote d'Azur"
+    },
+    {
+        "value": "Pskov",
+        "label": "Pskov"
+    },
+    {
+        "value": "Ptuj Urban Commune",
+        "label": "Ptuj Urban Commune"
+    },
+    {
+        "value": "Puducherry",
+        "label": "Puducherry"
+    },
+    {
+        "value": "Puebla",
+        "label": "Puebla"
+    },
+    {
+        "value": "Puerto Plata",
+        "label": "Puerto Plata"
+    },
+    {
+        "value": "Puerto Princesa",
+        "label": "Puerto Princesa"
+    },
+    {
+        "value": "Puglia",
+        "label": "Puglia"
+    },
+    {
+        "value": "Pulau Pinang",
+        "label": "Pulau Pinang"
+    },
+    {
+        "value": "Punjab",
+        "label": "Punjab"
+    },
+    {
+        "value": "Puntarenas",
+        "label": "Puntarenas"
+    },
+    {
+        "value": "Pusan-jikhalsi",
+        "label": "Pusan-jikhalsi"
+    },
+    {
+        "value": "Putrajaya",
+        "label": "Putrajaya"
+    },
+    {
+        "value": "Qazvin",
+        "label": "Qazvin"
+    },
+    {
+        "value": "Qina",
+        "label": "Qina"
+    },
+    {
+        "value": "Qinghai",
+        "label": "Qinghai"
+    },
+    {
+        "value": "Qom",
+        "label": "Qom"
+    },
+    {
+        "value": "Qostanay",
+        "label": "Qostanay"
+    },
+    {
+        "value": "Quebec",
+        "label": "Quebec"
+    },
+    {
+        "value": "Queensland",
+        "label": "Queensland"
+    },
+    {
+        "value": "Queretaro de Arteaga",
+        "label": "Queretaro de Arteaga"
+    },
+    {
+        "value": "Quetzaltenango",
+        "label": "Quetzaltenango"
+    },
+    {
+        "value": "Quezon",
+        "label": "Quezon"
+    },
+    {
+        "value": "Quezon City",
+        "label": "Quezon City"
+    },
+    {
+        "value": "Quindio",
+        "label": "Quindio"
+    },
+    {
+        "value": "Quintana Roo",
+        "label": "Quintana Roo"
+    },
+    {
+        "value": "Qyzylorda",
+        "label": "Qyzylorda"
+    },
+    {
+        "value": "Rabat-Sale-Zemmour-Zaer",
+        "label": "Rabat-Sale-Zemmour-Zaer"
+    },
+    {
+        "value": "Race-Fram Commune",
+        "label": "Race-Fram Commune"
+    },
+    {
+        "value": "Radece Commune",
+        "label": "Radece Commune"
+    },
+    {
+        "value": "Radlje ob Dravi Commune",
+        "label": "Radlje ob Dravi Commune"
+    },
+    {
+        "value": "Radovljica Commune",
+        "label": "Radovljica Commune"
+    },
+    {
+        "value": "Rajasthan",
+        "label": "Rajasthan"
+    },
+    {
+        "value": "Rajshahi",
+        "label": "Rajshahi"
+    },
+    {
+        "value": "Rangarvallasysla",
+        "label": "Rangarvallasysla"
+    },
+    {
+        "value": "Rangoon",
+        "label": "Rangoon"
+    },
+    {
+        "value": "Raplamaa",
+        "label": "Raplamaa"
+    },
+    {
+        "value": "Ras Al Khaimah",
+        "label": "Ras Al Khaimah"
+    },
+    {
+        "value": "Ratchaburi",
+        "label": "Ratchaburi"
+    },
+    {
+        "value": "Rayong",
+        "label": "Rayong"
+    },
+    {
+        "value": "Razgrad",
+        "label": "Razgrad"
+    },
+    {
+        "value": "Reading",
+        "label": "Reading"
+    },
+    {
+        "value": "Redbridge",
+        "label": "Redbridge"
+    },
+    {
+        "value": "Redcar and Cleveland",
+        "label": "Redcar and Cleveland"
+    },
+    {
+        "value": "Region Autonoma Atlantico Sur",
+        "label": "Region Autonoma Atlantico Sur"
+    },
+    {
+        "value": "Region Metropolitana",
+        "label": "Region Metropolitana"
+    },
+    {
+        "value": "Renfrewshire",
+        "label": "Renfrewshire"
+    },
+    {
+        "value": "Republika Srpska",
+        "label": "Republika Srpska"
+    },
+    {
+        "value": "Resen",
+        "label": "Resen"
+    },
+    {
+        "value": "Rethimni",
+        "label": "Rethimni"
+    },
+    {
+        "value": "Rezekne",
+        "label": "Rezekne"
+    },
+    {
+        "value": "Rezeknes",
+        "label": "Rezeknes"
+    },
+    {
+        "value": "Rheinland-Pfalz",
+        "label": "Rheinland-Pfalz"
+    },
+    {
+        "value": "Rhode Island",
+        "label": "Rhode Island"
+    },
+    {
+        "value": "Rhondda Cynon Taff",
+        "label": "Rhondda Cynon Taff"
+    },
+    {
+        "value": "Rhone-Alpes",
+        "label": "Rhone-Alpes"
+    },
+    {
+        "value": "Riau",
+        "label": "Riau"
+    },
+    {
+        "value": "Ribnica Commune",
+        "label": "Ribnica Commune"
+    },
+    {
+        "value": "Richmond upon Thames",
+        "label": "Richmond upon Thames"
+    },
+    {
+        "value": "Rift Valley",
+        "label": "Rift Valley"
+    },
+    {
+        "value": "Riga",
+        "label": "Riga"
+    },
+    {
+        "value": "Rigas",
+        "label": "Rigas"
+    },
+    {
+        "value": "Rio Grande do Norte",
+        "label": "Rio Grande do Norte"
+    },
+    {
+        "value": "Rio Grande do Sul",
+        "label": "Rio Grande do Sul"
+    },
+    {
+        "value": "Rio Negro",
+        "label": "Rio Negro"
+    },
+    {
+        "value": "Rio de Janeiro",
+        "label": "Rio de Janeiro"
+    },
+    {
+        "value": "Risaralda",
+        "label": "Risaralda"
+    },
+    {
+        "value": "Rivas",
+        "label": "Rivas"
+    },
+    {
+        "value": "Rivers",
+        "label": "Rivers"
+    },
+    {
+        "value": "Riviere du Rempart",
+        "label": "Riviere du Rempart"
+    },
+    {
+        "value": "Rivnens'ka Oblast'",
+        "label": "Rivnens'ka Oblast'"
+    },
+    {
+        "value": "Rizal",
+        "label": "Rizal"
+    },
+    {
+        "value": "Rize",
+        "label": "Rize"
+    },
+    {
+        "value": "Rochdale",
+        "label": "Rochdale"
+    },
+    {
+        "value": "Rock Sound",
+        "label": "Rock Sound"
+    },
+    {
+        "value": "Rodhopi",
+        "label": "Rodhopi"
+    },
+    {
+        "value": "Rodrigues",
+        "label": "Rodrigues"
+    },
+    {
+        "value": "Rogaland",
+        "label": "Rogaland"
+    },
+    {
+        "value": "Rogasovci Commune",
+        "label": "Rogasovci Commune"
+    },
+    {
+        "value": "Roi Et",
+        "label": "Roi Et"
+    },
+    {
+        "value": "Rondonia",
+        "label": "Rondonia"
+    },
+    {
+        "value": "Roraima",
+        "label": "Roraima"
+    },
+    {
+        "value": "Roscommon",
+        "label": "Roscommon"
+    },
+    {
+        "value": "Rostov",
+        "label": "Rostov"
+    },
+    {
+        "value": "Rotherham",
+        "label": "Rotherham"
+    },
+    {
+        "value": "Roxas",
+        "label": "Roxas"
+    },
+    {
+        "value": "Ruggell",
+        "label": "Ruggell"
+    },
+    {
+        "value": "Ruse",
+        "label": "Ruse"
+    },
+    {
+        "value": "Rutland",
+        "label": "Rutland"
+    },
+    {
+        "value": "Ryazan'",
+        "label": "Ryazan'"
+    },
+    {
+        "value": "Sa Kaeo",
+        "label": "Sa Kaeo"
+    },
+    {
+        "value": "Saaremaa",
+        "label": "Saaremaa"
+    },
+    {
+        "value": "Saarland",
+        "label": "Saarland"
+    },
+    {
+        "value": "Sabah",
+        "label": "Sabah"
+    },
+    {
+        "value": "Sabaragamuwa",
+        "label": "Sabaragamuwa"
+    },
+    {
+        "value": "Sacatepequez",
+        "label": "Sacatepequez"
+    },
+    {
+        "value": "Sachsen",
+        "label": "Sachsen"
+    },
+    {
+        "value": "Sachsen-Anhalt",
+        "label": "Sachsen-Anhalt"
+    },
+    {
+        "value": "Saga",
+        "label": "Saga"
+    },
+    {
+        "value": "Saint Andrew",
+        "label": "Saint Andrew"
+    },
+    {
+        "value": "Saint Ann",
+        "label": "Saint Ann"
+    },
+    {
+        "value": "Saint Catherine",
+        "label": "Saint Catherine"
+    },
+    {
+        "value": "Saint David",
+        "label": "Saint David"
+    },
+    {
+        "value": "Saint Elizabeth",
+        "label": "Saint Elizabeth"
+    },
+    {
+        "value": "Saint George",
+        "label": "Saint George"
+    },
+    {
+        "value": "Saint George Basseterre",
+        "label": "Saint George Basseterre"
+    },
+    {
+        "value": "Saint George's",
+        "label": "Saint George's"
+    },
+    {
+        "value": "Saint James",
+        "label": "Saint James"
+    },
+    {
+        "value": "Saint John",
+        "label": "Saint John"
+    },
+    {
+        "value": "Saint John Capisterre",
+        "label": "Saint John Capisterre"
+    },
+    {
+        "value": "Saint John Figtree",
+        "label": "Saint John Figtree"
+    },
+    {
+        "value": "Saint Mary",
+        "label": "Saint Mary"
+    },
+    {
+        "value": "Saint Mary Cayon",
+        "label": "Saint Mary Cayon"
+    },
+    {
+        "value": "Saint Michael",
+        "label": "Saint Michael"
+    },
+    {
+        "value": "Saint Patrick",
+        "label": "Saint Patrick"
+    },
+    {
+        "value": "Saint Paul",
+        "label": "Saint Paul"
+    },
+    {
+        "value": "Saint Peter",
+        "label": "Saint Peter"
+    },
+    {
+        "value": "Saint Petersburg City",
+        "label": "Saint Petersburg City"
+    },
+    {
+        "value": "Saint Philip",
+        "label": "Saint Philip"
+    },
+    {
+        "value": "Saint Thomas",
+        "label": "Saint Thomas"
+    },
+    {
+        "value": "Saint Thomas Middle Island",
+        "label": "Saint Thomas Middle Island"
+    },
+    {
+        "value": "Saint-Louis",
+        "label": "Saint-Louis"
+    },
+    {
+        "value": "Saitama",
+        "label": "Saitama"
+    },
+    {
+        "value": "Sakarya",
+        "label": "Sakarya"
+    },
+    {
+        "value": "Sakha",
+        "label": "Sakha"
+    },
+    {
+        "value": "Sakhalin",
+        "label": "Sakhalin"
+    },
+    {
+        "value": "Salah ad Din",
+        "label": "Salah ad Din"
+    },
+    {
+        "value": "Salaj",
+        "label": "Salaj"
+    },
+    {
+        "value": "Saldus",
+        "label": "Saldus"
+    },
+    {
+        "value": "Salford",
+        "label": "Salford"
+    },
+    {
+        "value": "Salta",
+        "label": "Salta"
+    },
+    {
+        "value": "Salzburg",
+        "label": "Salzburg"
+    },
+    {
+        "value": "Samar",
+        "label": "Samar"
+    },
+    {
+        "value": "Samara",
+        "label": "Samara"
+    },
+    {
+        "value": "Samokov",
+        "label": "Samokov"
+    },
+    {
+        "value": "Samos",
+        "label": "Samos"
+    },
+    {
+        "value": "Samsun",
+        "label": "Samsun"
+    },
+    {
+        "value": "Samut Prakan",
+        "label": "Samut Prakan"
+    },
+    {
+        "value": "Samut Sakhon",
+        "label": "Samut Sakhon"
+    },
+    {
+        "value": "San Carlos",
+        "label": "San Carlos"
+    },
+    {
+        "value": "San Cristobal",
+        "label": "San Cristobal"
+    },
+    {
+        "value": "San Fernando",
+        "label": "San Fernando"
+    },
+    {
+        "value": "San Jose",
+        "label": "San Jose"
+    },
+    {
+        "value": "San Juan",
+        "label": "San Juan"
+    },
+    {
+        "value": "San Luis",
+        "label": "San Luis"
+    },
+    {
+        "value": "San Luis Potosi",
+        "label": "San Luis Potosi"
+    },
+    {
+        "value": "San Marino",
+        "label": "San Marino"
+    },
+    {
+        "value": "San Martin",
+        "label": "San Martin"
+    },
+    {
+        "value": "San Pablo",
+        "label": "San Pablo"
+    },
+    {
+        "value": "San Pedro De Macoris",
+        "label": "San Pedro De Macoris"
+    },
+    {
+        "value": "San Salvador",
+        "label": "San Salvador"
+    },
+    {
+        "value": "San Vicente",
+        "label": "San Vicente"
+    },
+    {
+        "value": "Sancti Spiritus",
+        "label": "Sancti Spiritus"
+    },
+    {
+        "value": "Sandwell",
+        "label": "Sandwell"
+    },
+    {
+        "value": "Sangha",
+        "label": "Sangha"
+    },
+    {
+        "value": "Sankt Gallen",
+        "label": "Sankt Gallen"
+    },
+    {
+        "value": "Sanliurfa",
+        "label": "Sanliurfa"
+    },
+    {
+        "value": "Sant Julia de Loria",
+        "label": "Sant Julia de Loria"
+    },
+    {
+        "value": "Santa Ana",
+        "label": "Santa Ana"
+    },
+    {
+        "value": "Santa Barbara",
+        "label": "Santa Barbara"
+    },
+    {
+        "value": "Santa Catarina",
+        "label": "Santa Catarina"
+    },
+    {
+        "value": "Santa Cruz",
+        "label": "Santa Cruz"
+    },
+    {
+        "value": "Santa Fe",
+        "label": "Santa Fe"
+    },
+    {
+        "value": "Santander",
+        "label": "Santander"
+    },
+    {
+        "value": "Santarem",
+        "label": "Santarem"
+    },
+    {
+        "value": "Santiago",
+        "label": "Santiago"
+    },
+    {
+        "value": "Santiago Rodriguez",
+        "label": "Santiago Rodriguez"
+    },
+    {
+        "value": "Santiago del Estero",
+        "label": "Santiago del Estero"
+    },
+    {
+        "value": "Santo Domingo",
+        "label": "Santo Domingo"
+    },
+    {
+        "value": "Sao Domingos",
+        "label": "Sao Domingos"
+    },
+    {
+        "value": "Sao Paulo",
+        "label": "Sao Paulo"
+    },
+    {
+        "value": "Sao Tome",
+        "label": "Sao Tome"
+    },
+    {
+        "value": "Saraburi",
+        "label": "Saraburi"
+    },
+    {
+        "value": "Saratov",
+        "label": "Saratov"
+    },
+    {
+        "value": "Sarawak",
+        "label": "Sarawak"
+    },
+    {
+        "value": "Sardegna",
+        "label": "Sardegna"
+    },
+    {
+        "value": "Saskatchewan",
+        "label": "Saskatchewan"
+    },
+    {
+        "value": "Satu Mare",
+        "label": "Satu Mare"
+    },
+    {
+        "value": "Savanne",
+        "label": "Savanne"
+    },
+    {
+        "value": "Schaan",
+        "label": "Schaan"
+    },
+    {
+        "value": "Schaffhausen",
+        "label": "Schaffhausen"
+    },
+    {
+        "value": "Schleswig-Holstein",
+        "label": "Schleswig-Holstein"
+    },
+    {
+        "value": "Schwyz",
+        "label": "Schwyz"
+    },
+    {
+        "value": "Scottish Borders, The",
+        "label": "Scottish Borders, The"
+    },
+    {
+        "value": "Sefton",
+        "label": "Sefton"
+    },
+    {
+        "value": "Selangor",
+        "label": "Selangor"
+    },
+    {
+        "value": "Selenge",
+        "label": "Selenge"
+    },
+    {
+        "value": "Semic Commune",
+        "label": "Semic Commune"
+    },
+    {
+        "value": "Semnan",
+        "label": "Semnan"
+    },
+    {
+        "value": "Sencur Commune",
+        "label": "Sencur Commune"
+    },
+    {
+        "value": "Sentilj Commune",
+        "label": "Sentilj Commune"
+    },
+    {
+        "value": "Sentjur pri Celju Commune",
+        "label": "Sentjur pri Celju Commune"
+    },
+    {
+        "value": "Seoul-t'ukpyolsi",
+        "label": "Seoul-t'ukpyolsi"
+    },
+    {
+        "value": "Sergipe",
+        "label": "Sergipe"
+    },
+    {
+        "value": "Serrai",
+        "label": "Serrai"
+    },
+    {
+        "value": "Serravalle",
+        "label": "Serravalle"
+    },
+    {
+        "value": "Setif",
+        "label": "Setif"
+    },
+    {
+        "value": "Setubal",
+        "label": "Setubal"
+    },
+    {
+        "value": "Sevastopol'",
+        "label": "Sevastopol'"
+    },
+    {
+        "value": "Sevnica Commune",
+        "label": "Sevnica Commune"
+    },
+    {
+        "value": "Sezana Commune",
+        "label": "Sezana Commune"
+    },
+    {
+        "value": "Sfax",
+        "label": "Sfax"
+    },
+    {
+        "value": "Shaanxi",
+        "label": "Shaanxi"
+    },
+    {
+        "value": "Shandong",
+        "label": "Shandong"
+    },
+    {
+        "value": "Shanghai",
+        "label": "Shanghai"
+    },
+    {
+        "value": "Shanxi",
+        "label": "Shanxi"
+    },
+    {
+        "value": "Sharjah",
+        "label": "Sharjah"
+    },
+    {
+        "value": "Sheffield",
+        "label": "Sheffield"
+    },
+    {
+        "value": "Shetland Islands",
+        "label": "Shetland Islands"
+    },
+    {
+        "value": "Shiga",
+        "label": "Shiga"
+    },
+    {
+        "value": "Shimane",
+        "label": "Shimane"
+    },
+    {
+        "value": "Shirak",
+        "label": "Shirak"
+    },
+    {
+        "value": "Shiselweni",
+        "label": "Shiselweni"
+    },
+    {
+        "value": "Shizuoka",
+        "label": "Shizuoka"
+    },
+    {
+        "value": "Shkoder",
+        "label": "Shkoder"
+    },
+    {
+        "value": "Shropshire",
+        "label": "Shropshire"
+    },
+    {
+        "value": "Shumen",
+        "label": "Shumen"
+    },
+    {
+        "value": "Siauliu Apskritis",
+        "label": "Siauliu Apskritis"
+    },
+    {
+        "value": "Sibensko-Kninska",
+        "label": "Sibensko-Kninska"
+    },
+    {
+        "value": "Sibiu",
+        "label": "Sibiu"
+    },
+    {
+        "value": "Sichuan",
+        "label": "Sichuan"
+    },
+    {
+        "value": "Sicilia",
+        "label": "Sicilia"
+    },
+    {
+        "value": "Sidi Bel Abbes",
+        "label": "Sidi Bel Abbes"
+    },
+    {
+        "value": "Sidi Bou Zid",
+        "label": "Sidi Bou Zid"
+    },
+    {
+        "value": "Siirt",
+        "label": "Siirt"
+    },
+    {
+        "value": "Sikkim",
+        "label": "Sikkim"
+    },
+    {
+        "value": "Silistra",
+        "label": "Silistra"
+    },
+    {
+        "value": "Sinaloa",
+        "label": "Sinaloa"
+    },
+    {
+        "value": "Sindh",
+        "label": "Sindh"
+    },
+    {
+        "value": "Singerei",
+        "label": "Singerei"
+    },
+    {
+        "value": "Sinop",
+        "label": "Sinop"
+    },
+    {
+        "value": "Sirnak",
+        "label": "Sirnak"
+    },
+    {
+        "value": "Sisacko-Moslavacka",
+        "label": "Sisacko-Moslavacka"
+    },
+    {
+        "value": "Sitrah",
+        "label": "Sitrah"
+    },
+    {
+        "value": "Sivas",
+        "label": "Sivas"
+    },
+    {
+        "value": "Sjelland",
+        "label": "Sjelland"
+    },
+    {
+        "value": "Skagafjardarsysla",
+        "label": "Skagafjardarsysla"
+    },
+    {
+        "value": "Skane Lan",
+        "label": "Skane Lan"
+    },
+    {
+        "value": "Skikda",
+        "label": "Skikda"
+    },
+    {
+        "value": "Skofja Loka Commune",
+        "label": "Skofja Loka Commune"
+    },
+    {
+        "value": "Slaskie",
+        "label": "Slaskie"
+    },
+    {
+        "value": "Sligo",
+        "label": "Sligo"
+    },
+    {
+        "value": "Sliven",
+        "label": "Sliven"
+    },
+    {
+        "value": "Slough",
+        "label": "Slough"
+    },
+    {
+        "value": "Slovenska Bistrica Commune",
+        "label": "Slovenska Bistrica Commune"
+    },
+    {
+        "value": "Smartno ob Paki Commune",
+        "label": "Smartno ob Paki Commune"
+    },
+    {
+        "value": "Smiths",
+        "label": "Smiths"
+    },
+    {
+        "value": "Smolensk",
+        "label": "Smolensk"
+    },
+    {
+        "value": "Snafellsnes- og Hnappadalssysla",
+        "label": "Snafellsnes- og Hnappadalssysla"
+    },
+    {
+        "value": "Sodermanlands Lan",
+        "label": "Sodermanlands Lan"
+    },
+    {
+        "value": "Sofala",
+        "label": "Sofala"
+    },
+    {
+        "value": "Sofiya",
+        "label": "Sofiya"
+    },
+    {
+        "value": "Sogn og Fjordane",
+        "label": "Sogn og Fjordane"
+    },
+    {
+        "value": "Sokoto",
+        "label": "Sokoto"
+    },
+    {
+        "value": "Solihull",
+        "label": "Solihull"
+    },
+    {
+        "value": "Solola",
+        "label": "Solola"
+    },
+    {
+        "value": "Solothurn",
+        "label": "Solothurn"
+    },
+    {
+        "value": "Somerset",
+        "label": "Somerset"
+    },
+    {
+        "value": "Somogy",
+        "label": "Somogy"
+    },
+    {
+        "value": "Songkhla",
+        "label": "Songkhla"
+    },
+    {
+        "value": "Sonora",
+        "label": "Sonora"
+    },
+    {
+        "value": "Sonsonate",
+        "label": "Sonsonate"
+    },
+    {
+        "value": "Sor-Trondelag",
+        "label": "Sor-Trondelag"
+    },
+    {
+        "value": "Soroti",
+        "label": "Soroti"
+    },
+    {
+        "value": "Souss-Massa-Dr,a",
+        "label": "Souss-Massa-Dr,a"
+    },
+    {
+        "value": "Sousse",
+        "label": "Sousse"
+    },
+    {
+        "value": "South Australia",
+        "label": "South Australia"
+    },
+    {
+        "value": "South Ayrshire",
+        "label": "South Ayrshire"
+    },
+    {
+        "value": "South Carolina",
+        "label": "South Carolina"
+    },
+    {
+        "value": "South Cotabato",
+        "label": "South Cotabato"
+    },
+    {
+        "value": "South Dakota",
+        "label": "South Dakota"
+    },
+    {
+        "value": "South Gloucestershire",
+        "label": "South Gloucestershire"
+    },
+    {
+        "value": "South Kazakhstan",
+        "label": "South Kazakhstan"
+    },
+    {
+        "value": "South Lanarkshire",
+        "label": "South Lanarkshire"
+    },
+    {
+        "value": "South Tyneside",
+        "label": "South Tyneside"
+    },
+    {
+        "value": "South-East",
+        "label": "South-East"
+    },
+    {
+        "value": "Southampton",
+        "label": "Southampton"
+    },
+    {
+        "value": "Southend-on-Sea",
+        "label": "Southend-on-Sea"
+    },
+    {
+        "value": "Southern",
+        "label": "Southern"
+    },
+    {
+        "value": "Southern Darfur",
+        "label": "Southern Darfur"
+    },
+    {
+        "value": "Southern Finland",
+        "label": "Southern Finland"
+    },
+    {
+        "value": "Southern Kordofan",
+        "label": "Southern Kordofan"
+    },
+    {
+        "value": "Southern Leyte",
+        "label": "Southern Leyte"
+    },
+    {
+        "value": "Southland",
+        "label": "Southland"
+    },
+    {
+        "value": "Southwark",
+        "label": "Southwark"
+    },
+    {
+        "value": "Splitsko-Dalmatinska",
+        "label": "Splitsko-Dalmatinska"
+    },
+    {
+        "value": "St. Helens",
+        "label": "St. Helens"
+    },
+    {
+        "value": "Staffordshire",
+        "label": "Staffordshire"
+    },
+    {
+        "value": "Stann Creek",
+        "label": "Stann Creek"
+    },
+    {
+        "value": "Stara Zagora",
+        "label": "Stara Zagora"
+    },
+    {
+        "value": "Stavropol'",
+        "label": "Stavropol'"
+    },
+    {
+        "value": "Steiermark",
+        "label": "Steiermark"
+    },
+    {
+        "value": "Stinga Nistrului",
+        "label": "Stinga Nistrului"
+    },
+    {
+        "value": "Stip",
+        "label": "Stip"
+    },
+    {
+        "value": "Stirling",
+        "label": "Stirling"
+    },
+    {
+        "value": "Stockholms Lan",
+        "label": "Stockholms Lan"
+    },
+    {
+        "value": "Stockport",
+        "label": "Stockport"
+    },
+    {
+        "value": "Stockton-on-Tees",
+        "label": "Stockton-on-Tees"
+    },
+    {
+        "value": "Stoke-on-Trent",
+        "label": "Stoke-on-Trent"
+    },
+    {
+        "value": "Strabane",
+        "label": "Strabane"
+    },
+    {
+        "value": "Stredocesky kraj",
+        "label": "Stredocesky kraj"
+    },
+    {
+        "value": "Struga",
+        "label": "Struga"
+    },
+    {
+        "value": "Strumica",
+        "label": "Strumica"
+    },
+    {
+        "value": "Suceava",
+        "label": "Suceava"
+    },
+    {
+        "value": "Suchitepequez",
+        "label": "Suchitepequez"
+    },
+    {
+        "value": "Sucre",
+        "label": "Sucre"
+    },
+    {
+        "value": "Sucumbios",
+        "label": "Sucumbios"
+    },
+    {
+        "value": "Sud",
+        "label": "Sud"
+    },
+    {
+        "value": "Sud-Kivu",
+        "label": "Sud-Kivu"
+    },
+    {
+        "value": "Sud-Ouest",
+        "label": "Sud-Ouest"
+    },
+    {
+        "value": "Sudur-Mulasysla",
+        "label": "Sudur-Mulasysla"
+    },
+    {
+        "value": "Sudur-Tingeyjarsysla",
+        "label": "Sudur-Tingeyjarsysla"
+    },
+    {
+        "value": "Suffolk",
+        "label": "Suffolk"
+    },
+    {
+        "value": "Sughd",
+        "label": "Sughd"
+    },
+    {
+        "value": "Suhaj",
+        "label": "Suhaj"
+    },
+    {
+        "value": "Sulawesi Selatan",
+        "label": "Sulawesi Selatan"
+    },
+    {
+        "value": "Sulawesi Tengah",
+        "label": "Sulawesi Tengah"
+    },
+    {
+        "value": "Sulawesi Tenggara",
+        "label": "Sulawesi Tenggara"
+    },
+    {
+        "value": "Sulawesi Utara",
+        "label": "Sulawesi Utara"
+    },
+    {
+        "value": "Sultan Kudarat",
+        "label": "Sultan Kudarat"
+    },
+    {
+        "value": "Sulu",
+        "label": "Sulu"
+    },
+    {
+        "value": "Sumatera Barat",
+        "label": "Sumatera Barat"
+    },
+    {
+        "value": "Sumatera Selatan",
+        "label": "Sumatera Selatan"
+    },
+    {
+        "value": "Sumatera Utara",
+        "label": "Sumatera Utara"
+    },
+    {
+        "value": "Sumqayit",
+        "label": "Sumqayit"
+    },
+    {
+        "value": "Sums'ka Oblast'",
+        "label": "Sums'ka Oblast'"
+    },
+    {
+        "value": "Sunderland",
+        "label": "Sunderland"
+    },
+    {
+        "value": "Suourland",
+        "label": "Suourland"
+    },
+    {
+        "value": "Suournes",
+        "label": "Suournes"
+    },
+    {
+        "value": "Surat Thani",
+        "label": "Surat Thani"
+    },
+    {
+        "value": "Surigao del Norte",
+        "label": "Surigao del Norte"
+    },
+    {
+        "value": "Surigao del Sur",
+        "label": "Surigao del Sur"
+    },
+    {
+        "value": "Surin",
+        "label": "Surin"
+    },
+    {
+        "value": "Surrey",
+        "label": "Surrey"
+    },
+    {
+        "value": "Sutton",
+        "label": "Sutton"
+    },
+    {
+        "value": "Svay Rieng",
+        "label": "Svay Rieng"
+    },
+    {
+        "value": "Sverdlovsk",
+        "label": "Sverdlovsk"
+    },
+    {
+        "value": "Sveti Nikole",
+        "label": "Sveti Nikole"
+    },
+    {
+        "value": "Swansea",
+        "label": "Swansea"
+    },
+    {
+        "value": "Swietokrzyskie",
+        "label": "Swietokrzyskie"
+    },
+    {
+        "value": "Swindon",
+        "label": "Swindon"
+    },
+    {
+        "value": "Syddanmark",
+        "label": "Syddanmark"
+    },
+    {
+        "value": "Sylhet",
+        "label": "Sylhet"
+    },
+    {
+        "value": "Syunik'",
+        "label": "Syunik'"
+    },
+    {
+        "value": "Szabolcs-Szatmar-Bereg",
+        "label": "Szabolcs-Szatmar-Bereg"
+    },
+    {
+        "value": "Szeged",
+        "label": "Szeged"
+    },
+    {
+        "value": "T'ai-pei",
+        "label": "T'ai-pei"
+    },
+    {
+        "value": "T'ai-wan",
+        "label": "T'ai-wan"
+    },
+    {
+        "value": "T'bilisi",
+        "label": "T'bilisi"
+    },
+    {
+        "value": "T'et'ritsqaros Raioni",
+        "label": "T'et'ritsqaros Raioni"
+    },
+    {
+        "value": "Tabasco",
+        "label": "Tabasco"
+    },
+    {
+        "value": "Tabuk",
+        "label": "Tabuk"
+    },
+    {
+        "value": "Tacloban",
+        "label": "Tacloban"
+    },
+    {
+        "value": "Tacna",
+        "label": "Tacna"
+    },
+    {
+        "value": "Tadla-Azilal",
+        "label": "Tadla-Azilal"
+    },
+    {
+        "value": "Taegu-jikhalsi",
+        "label": "Taegu-jikhalsi"
+    },
+    {
+        "value": "Taejon-jikhalsi",
+        "label": "Taejon-jikhalsi"
+    },
+    {
+        "value": "Tagaytay",
+        "label": "Tagaytay"
+    },
+    {
+        "value": "Tagbilaran",
+        "label": "Tagbilaran"
+    },
+    {
+        "value": "Tak",
+        "label": "Tak"
+    },
+    {
+        "value": "Takeo",
+        "label": "Takeo"
+    },
+    {
+        "value": "Talsu",
+        "label": "Talsu"
+    },
+    {
+        "value": "Tamaulipas",
+        "label": "Tamaulipas"
+    },
+    {
+        "value": "Tambovskaya oblast",
+        "label": "Tambovskaya oblast"
+    },
+    {
+        "value": "Tameside",
+        "label": "Tameside"
+    },
+    {
+        "value": "Tamil Nadu",
+        "label": "Tamil Nadu"
+    },
+    {
+        "value": "Tanga",
+        "label": "Tanga"
+    },
+    {
+        "value": "Tanger-Tetouan",
+        "label": "Tanger-Tetouan"
+    },
+    {
+        "value": "Taraba",
+        "label": "Taraba"
+    },
+    {
+        "value": "Tarabulus",
+        "label": "Tarabulus"
+    },
+    {
+        "value": "Taranaki",
+        "label": "Taranaki"
+    },
+    {
+        "value": "Tarapaca",
+        "label": "Tarapaca"
+    },
+    {
+        "value": "Tarija",
+        "label": "Tarija"
+    },
+    {
+        "value": "Tarlac",
+        "label": "Tarlac"
+    },
+    {
+        "value": "Tartumaa",
+        "label": "Tartumaa"
+    },
+    {
+        "value": "Tasmania",
+        "label": "Tasmania"
+    },
+    {
+        "value": "Tatarstan",
+        "label": "Tatarstan"
+    },
+    {
+        "value": "Taurages Apskritis",
+        "label": "Taurages Apskritis"
+    },
+    {
+        "value": "Tavush",
+        "label": "Tavush"
+    },
+    {
+        "value": "Taza-Al Hoceima-Taounate",
+        "label": "Taza-Al Hoceima-Taounate"
+    },
+    {
+        "value": "Tehran",
+        "label": "Tehran"
+    },
+    {
+        "value": "Tekirdag",
+        "label": "Tekirdag"
+    },
+    {
+        "value": "Tel Aviv",
+        "label": "Tel Aviv"
+    },
+    {
+        "value": "Telemark",
+        "label": "Telemark"
+    },
+    {
+        "value": "Teleorman",
+        "label": "Teleorman"
+    },
+    {
+        "value": "Telford and Wrekin",
+        "label": "Telford and Wrekin"
+    },
+    {
+        "value": "Telsiu Apskritis",
+        "label": "Telsiu Apskritis"
+    },
+    {
+        "value": "Tennessee",
+        "label": "Tennessee"
+    },
+    {
+        "value": "Terengganu",
+        "label": "Terengganu"
+    },
+    {
+        "value": "Ternopil's'ka Oblast'",
+        "label": "Ternopil's'ka Oblast'"
+    },
+    {
+        "value": "Tete",
+        "label": "Tete"
+    },
+    {
+        "value": "Tetovo",
+        "label": "Tetovo"
+    },
+    {
+        "value": "Texas",
+        "label": "Texas"
+    },
+    {
+        "value": "Thessaloniki",
+        "label": "Thessaloniki"
+    },
+    {
+        "value": "Thies",
+        "label": "Thies"
+    },
+    {
+        "value": "Thimphu",
+        "label": "Thimphu"
+    },
+    {
+        "value": "Thurgau",
+        "label": "Thurgau"
+    },
+    {
+        "value": "Thuringen",
+        "label": "Thuringen"
+    },
+    {
+        "value": "Thurrock",
+        "label": "Thurrock"
+    },
+    {
+        "value": "Tianjin",
+        "label": "Tianjin"
+    },
+    {
+        "value": "Tiaret",
+        "label": "Tiaret"
+    },
+    {
+        "value": "Ticino",
+        "label": "Ticino"
+    },
+    {
+        "value": "Tierra del Fuego",
+        "label": "Tierra del Fuego"
+    },
+    {
+        "value": "Timis",
+        "label": "Timis"
+    },
+    {
+        "value": "Tipaza",
+        "label": "Tipaza"
+    },
+    {
+        "value": "Tipperary",
+        "label": "Tipperary"
+    },
+    {
+        "value": "Tirane",
+        "label": "Tirane"
+    },
+    {
+        "value": "Tirol",
+        "label": "Tirol"
+    },
+    {
+        "value": "Tizi Ouzou",
+        "label": "Tizi Ouzou"
+    },
+    {
+        "value": "Tlaxcala",
+        "label": "Tlaxcala"
+    },
+    {
+        "value": "Toamasina",
+        "label": "Toamasina"
+    },
+    {
+        "value": "Tobago",
+        "label": "Tobago"
+    },
+    {
+        "value": "Tocantins",
+        "label": "Tocantins"
+    },
+    {
+        "value": "Tochigi",
+        "label": "Tochigi"
+    },
+    {
+        "value": "Tokat",
+        "label": "Tokat"
+    },
+    {
+        "value": "Tokushima",
+        "label": "Tokushima"
+    },
+    {
+        "value": "Tokyo",
+        "label": "Tokyo"
+    },
+    {
+        "value": "Toledo",
+        "label": "Toledo"
+    },
+    {
+        "value": "Toliara",
+        "label": "Toliara"
+    },
+    {
+        "value": "Tolima",
+        "label": "Tolima"
+    },
+    {
+        "value": "Tolmin Commune",
+        "label": "Tolmin Commune"
+    },
+    {
+        "value": "Tolna",
+        "label": "Tolna"
+    },
+    {
+        "value": "Tomsk",
+        "label": "Tomsk"
+    },
+    {
+        "value": "Tongatapu",
+        "label": "Tongatapu"
+    },
+    {
+        "value": "Torbay",
+        "label": "Torbay"
+    },
+    {
+        "value": "Torfaen",
+        "label": "Torfaen"
+    },
+    {
+        "value": "Tororo",
+        "label": "Tororo"
+    },
+    {
+        "value": "Toscana",
+        "label": "Toscana"
+    },
+    {
+        "value": "Totonicapan",
+        "label": "Totonicapan"
+    },
+    {
+        "value": "Tottori",
+        "label": "Tottori"
+    },
+    {
+        "value": "Tower Hamlets",
+        "label": "Tower Hamlets"
+    },
+    {
+        "value": "Toyama",
+        "label": "Toyama"
+    },
+    {
+        "value": "Trabzon",
+        "label": "Trabzon"
+    },
+    {
+        "value": "Trafford",
+        "label": "Trafford"
+    },
+    {
+        "value": "Trang",
+        "label": "Trang"
+    },
+    {
+        "value": "Trarza",
+        "label": "Trarza"
+    },
+    {
+        "value": "Trat",
+        "label": "Trat"
+    },
+    {
+        "value": "Trbovlje Commune",
+        "label": "Trbovlje Commune"
+    },
+    {
+        "value": "Trebnje Commune",
+        "label": "Trebnje Commune"
+    },
+    {
+        "value": "Trelawny",
+        "label": "Trelawny"
+    },
+    {
+        "value": "Trencin",
+        "label": "Trencin"
+    },
+    {
+        "value": "Trentino-Alto Adige",
+        "label": "Trentino-Alto Adige"
+    },
+    {
+        "value": "Triesen",
+        "label": "Triesen"
+    },
+    {
+        "value": "Trikala",
+        "label": "Trikala"
+    },
+    {
+        "value": "Tripura",
+        "label": "Tripura"
+    },
+    {
+        "value": "Trnava",
+        "label": "Trnava"
+    },
+    {
+        "value": "Troms",
+        "label": "Troms"
+    },
+    {
+        "value": "Trzic Commune",
+        "label": "Trzic Commune"
+    },
+    {
+        "value": "Tsalkis Raioni",
+        "label": "Tsalkis Raioni"
+    },
+    {
+        "value": "Tucuman",
+        "label": "Tucuman"
+    },
+    {
+        "value": "Tukuma",
+        "label": "Tukuma"
+    },
+    {
+        "value": "Tula",
+        "label": "Tula"
+    },
+    {
+        "value": "Tulcea",
+        "label": "Tulcea"
+    },
+    {
+        "value": "Tumbes",
+        "label": "Tumbes"
+    },
+    {
+        "value": "Tunceli",
+        "label": "Tunceli"
+    },
+    {
+        "value": "Tungurahua",
+        "label": "Tungurahua"
+    },
+    {
+        "value": "Tunis",
+        "label": "Tunis"
+    },
+    {
+        "value": "Turgovishte",
+        "label": "Turgovishte"
+    },
+    {
+        "value": "Tver'",
+        "label": "Tver'"
+    },
+    {
+        "value": "Tyumen'",
+        "label": "Tyumen'"
+    },
+    {
+        "value": "Ucayali",
+        "label": "Ucayali"
+    },
+    {
+        "value": "Udmurt",
+        "label": "Udmurt"
+    },
+    {
+        "value": "Udon Thani",
+        "label": "Udon Thani"
+    },
+    {
+        "value": "Ul'yanovsk",
+        "label": "Ul'yanovsk"
+    },
+    {
+        "value": "Ulaanbaatar",
+        "label": "Ulaanbaatar"
+    },
+    {
+        "value": "Ulsan-gwangyoksi",
+        "label": "Ulsan-gwangyoksi"
+    },
+    {
+        "value": "Umbria",
+        "label": "Umbria"
+    },
+    {
+        "value": "Umm Al Quwain",
+        "label": "Umm Al Quwain"
+    },
+    {
+        "value": "Upper Demerara-Berbice",
+        "label": "Upper Demerara-Berbice"
+    },
+    {
+        "value": "Upper East",
+        "label": "Upper East"
+    },
+    {
+        "value": "Upper West",
+        "label": "Upper West"
+    },
+    {
+        "value": "Uppsala Lan",
+        "label": "Uppsala Lan"
+    },
+    {
+        "value": "Uri",
+        "label": "Uri"
+    },
+    {
+        "value": "Usak",
+        "label": "Usak"
+    },
+    {
+        "value": "Ustecky kraj",
+        "label": "Ustecky kraj"
+    },
+    {
+        "value": "Usulutan",
+        "label": "Usulutan"
+    },
+    {
+        "value": "Utah",
+        "label": "Utah"
+    },
+    {
+        "value": "Utenos Apskritis",
+        "label": "Utenos Apskritis"
+    },
+    {
+        "value": "Utrecht",
+        "label": "Utrecht"
+    },
+    {
+        "value": "Uttar Pradesh",
+        "label": "Uttar Pradesh"
+    },
+    {
+        "value": "Uttaradit",
+        "label": "Uttaradit"
+    },
+    {
+        "value": "Uttarakhand",
+        "label": "Uttarakhand"
+    },
+    {
+        "value": "Uva",
+        "label": "Uva"
+    },
+    {
+        "value": "Vaduz",
+        "label": "Vaduz"
+    },
+    {
+        "value": "Valais",
+        "label": "Valais"
+    },
+    {
+        "value": "Valcea",
+        "label": "Valcea"
+    },
+    {
+        "value": "Vale of Glamorgan, The",
+        "label": "Vale of Glamorgan, The"
+    },
+    {
+        "value": "Valgamaa",
+        "label": "Valgamaa"
+    },
+    {
+        "value": "Valle d'Aosta",
+        "label": "Valle d'Aosta"
+    },
+    {
+        "value": "Valle del Cauca",
+        "label": "Valle del Cauca"
+    },
+    {
+        "value": "Valmieras",
+        "label": "Valmieras"
+    },
+    {
+        "value": "Valparaiso",
+        "label": "Valparaiso"
+    },
+    {
+        "value": "Van",
+        "label": "Van"
+    },
+    {
+        "value": "Varazdinska",
+        "label": "Varazdinska"
+    },
+    {
+        "value": "Varmlands Lan",
+        "label": "Varmlands Lan"
+    },
+    {
+        "value": "Varna",
+        "label": "Varna"
+    },
+    {
+        "value": "Vas",
+        "label": "Vas"
+    },
+    {
+        "value": "Vaslui",
+        "label": "Vaslui"
+    },
+    {
+        "value": "Vasterbottens Lan",
+        "label": "Vasterbottens Lan"
+    },
+    {
+        "value": "Vasternorrlands Lan",
+        "label": "Vasternorrlands Lan"
+    },
+    {
+        "value": "Vastmanlands Lan",
+        "label": "Vastmanlands Lan"
+    },
+    {
+        "value": "Vastra Gotaland",
+        "label": "Vastra Gotaland"
+    },
+    {
+        "value": "Vaud",
+        "label": "Vaud"
+    },
+    {
+        "value": "Velenje Urban Commune",
+        "label": "Velenje Urban Commune"
+    },
+    {
+        "value": "Veles",
+        "label": "Veles"
+    },
+    {
+        "value": "Veliko Turnovo",
+        "label": "Veliko Turnovo"
+    },
+    {
+        "value": "Veneto",
+        "label": "Veneto"
+    },
+    {
+        "value": "Ventspils",
+        "label": "Ventspils"
+    },
+    {
+        "value": "Veracruz-Llave",
+        "label": "Veracruz-Llave"
+    },
+    {
+        "value": "Veraguas",
+        "label": "Veraguas"
+    },
+    {
+        "value": "Vermont",
+        "label": "Vermont"
+    },
+    {
+        "value": "Vest-Agder",
+        "label": "Vest-Agder"
+    },
+    {
+        "value": "Vestfiroir",
+        "label": "Vestfiroir"
+    },
+    {
+        "value": "Vestfold",
+        "label": "Vestfold"
+    },
+    {
+        "value": "Vestgronland",
+        "label": "Vestgronland"
+    },
+    {
+        "value": "Vestur-Bardastrandarsysla",
+        "label": "Vestur-Bardastrandarsysla"
+    },
+    {
+        "value": "Vestur-Isafjardarsysla",
+        "label": "Vestur-Isafjardarsysla"
+    },
+    {
+        "value": "Vestur-Skaftafellssysla",
+        "label": "Vestur-Skaftafellssysla"
+    },
+    {
+        "value": "Vesturland",
+        "label": "Vesturland"
+    },
+    {
+        "value": "Veszprem",
+        "label": "Veszprem"
+    },
+    {
+        "value": "Viana do Castelo",
+        "label": "Viana do Castelo"
+    },
+    {
+        "value": "Victoria",
+        "label": "Victoria"
+    },
+    {
+        "value": "Vidin",
+        "label": "Vidin"
+    },
+    {
+        "value": "Vientiane",
+        "label": "Vientiane"
+    },
+    {
+        "value": "Vieux-Fort",
+        "label": "Vieux-Fort"
+    },
+    {
+        "value": "Vila Real",
+        "label": "Vila Real"
+    },
+    {
+        "value": "Viljandimaa",
+        "label": "Viljandimaa"
+    },
+    {
+        "value": "Vilniaus Apskritis",
+        "label": "Vilniaus Apskritis"
+    },
+    {
+        "value": "Vinnyts'ka Oblast'",
+        "label": "Vinnyts'ka Oblast'"
+    },
+    {
+        "value": "Vipava Commune",
+        "label": "Vipava Commune"
+    },
+    {
+        "value": "Virginia",
+        "label": "Virginia"
+    },
+    {
+        "value": "Viroviticko-Podravska",
+        "label": "Viroviticko-Podravska"
+    },
+    {
+        "value": "Viseu",
+        "label": "Viseu"
+    },
+    {
+        "value": "Vitsyebskaya Voblasts'",
+        "label": "Vitsyebskaya Voblasts'"
+    },
+    {
+        "value": "Vlaams-Brabant",
+        "label": "Vlaams-Brabant"
+    },
+    {
+        "value": "Vladimir",
+        "label": "Vladimir"
+    },
+    {
+        "value": "Vodice Commune",
+        "label": "Vodice Commune"
+    },
+    {
+        "value": "Voiotia",
+        "label": "Voiotia"
+    },
+    {
+        "value": "Vojvodina",
+        "label": "Vojvodina"
+    },
+    {
+        "value": "Volgograd",
+        "label": "Volgograd"
+    },
+    {
+        "value": "Vologda",
+        "label": "Vologda"
+    },
+    {
+        "value": "Volta",
+        "label": "Volta"
+    },
+    {
+        "value": "Volyns'ka Oblast'",
+        "label": "Volyns'ka Oblast'"
+    },
+    {
+        "value": "Vorarlberg",
+        "label": "Vorarlberg"
+    },
+    {
+        "value": "Voronezh",
+        "label": "Voronezh"
+    },
+    {
+        "value": "Vorumaa",
+        "label": "Vorumaa"
+    },
+    {
+        "value": "Vrancea",
+        "label": "Vrancea"
+    },
+    {
+        "value": "Vratsa",
+        "label": "Vratsa"
+    },
+    {
+        "value": "Vrhnika Commune",
+        "label": "Vrhnika Commune"
+    },
+    {
+        "value": "Vukovarsko-Srijemska",
+        "label": "Vukovarsko-Srijemska"
+    },
+    {
+        "value": "Vysocina",
+        "label": "Vysocina"
+    },
+    {
+        "value": "Waikato",
+        "label": "Waikato"
+    },
+    {
+        "value": "Wakayama",
+        "label": "Wakayama"
+    },
+    {
+        "value": "Wakefield",
+        "label": "Wakefield"
+    },
+    {
+        "value": "Wakiso",
+        "label": "Wakiso"
+    },
+    {
+        "value": "Walsall",
+        "label": "Walsall"
+    },
+    {
+        "value": "Waltham Forest",
+        "label": "Waltham Forest"
+    },
+    {
+        "value": "Wandsworth",
+        "label": "Wandsworth"
+    },
+    {
+        "value": "Wanica",
+        "label": "Wanica"
+    },
+    {
+        "value": "Warminsko-Mazurskie",
+        "label": "Warminsko-Mazurskie"
+    },
+    {
+        "value": "Warrington",
+        "label": "Warrington"
+    },
+    {
+        "value": "Warwick",
+        "label": "Warwick"
+    },
+    {
+        "value": "Warwickshire",
+        "label": "Warwickshire"
+    },
+    {
+        "value": "Washington",
+        "label": "Washington"
+    },
+    {
+        "value": "Waterford",
+        "label": "Waterford"
+    },
+    {
+        "value": "Wellington",
+        "label": "Wellington"
+    },
+    {
+        "value": "West Bank",
+        "label": "West Bank"
+    },
+    {
+        "value": "West Bengal",
+        "label": "West Bengal"
+    },
+    {
+        "value": "West Berkshire",
+        "label": "West Berkshire"
+    },
+    {
+        "value": "West Coast",
+        "label": "West Coast"
+    },
+    {
+        "value": "West Dunbartonshire",
+        "label": "West Dunbartonshire"
+    },
+    {
+        "value": "West Kazakhstan",
+        "label": "West Kazakhstan"
+    },
+    {
+        "value": "West Lothian",
+        "label": "West Lothian"
+    },
+    {
+        "value": "West Region",
+        "label": "West Region"
+    },
+    {
+        "value": "West Sussex",
+        "label": "West Sussex"
+    },
+    {
+        "value": "West Virginia",
+        "label": "West Virginia"
+    },
+    {
+        "value": "West-Vlaanderen",
+        "label": "West-Vlaanderen"
+    },
+    {
+        "value": "Western",
+        "label": "Western"
+    },
+    {
+        "value": "Western Area",
+        "label": "Western Area"
+    },
+    {
+        "value": "Western Australia",
+        "label": "Western Australia"
+    },
+    {
+        "value": "Western Finland",
+        "label": "Western Finland"
+    },
+    {
+        "value": "Westmeath",
+        "label": "Westmeath"
+    },
+    {
+        "value": "Westminster",
+        "label": "Westminster"
+    },
+    {
+        "value": "Westmoreland",
+        "label": "Westmoreland"
+    },
+    {
+        "value": "Wexford",
+        "label": "Wexford"
+    },
+    {
+        "value": "Wicklow",
+        "label": "Wicklow"
+    },
+    {
+        "value": "Wielkopolskie",
+        "label": "Wielkopolskie"
+    },
+    {
+        "value": "Wien",
+        "label": "Wien"
+    },
+    {
+        "value": "Wigan",
+        "label": "Wigan"
+    },
+    {
+        "value": "Wiltshire",
+        "label": "Wiltshire"
+    },
+    {
+        "value": "Windhoek",
+        "label": "Windhoek"
+    },
+    {
+        "value": "Windsor and Maidenhead",
+        "label": "Windsor and Maidenhead"
+    },
+    {
+        "value": "Wirral",
+        "label": "Wirral"
+    },
+    {
+        "value": "Wisconsin",
+        "label": "Wisconsin"
+    },
+    {
+        "value": "Wokingham",
+        "label": "Wokingham"
+    },
+    {
+        "value": "Wolverhampton",
+        "label": "Wolverhampton"
+    },
+    {
+        "value": "Woqooyi Galbeed",
+        "label": "Woqooyi Galbeed"
+    },
+    {
+        "value": "Worcestershire",
+        "label": "Worcestershire"
+    },
+    {
+        "value": "Wrexham",
+        "label": "Wrexham"
+    },
+    {
+        "value": "Wyoming",
+        "label": "Wyoming"
+    },
+    {
+        "value": "Xankandi",
+        "label": "Xankandi"
+    },
+    {
+        "value": "Xanthi",
+        "label": "Xanthi"
+    },
+    {
+        "value": "Xinjiang",
+        "label": "Xinjiang"
+    },
+    {
+        "value": "Xizang",
+        "label": "Xizang"
+    },
+    {
+        "value": "Yalova",
+        "label": "Yalova"
+    },
+    {
+        "value": "Yamagata",
+        "label": "Yamagata"
+    },
+    {
+        "value": "Yamaguchi",
+        "label": "Yamaguchi"
+    },
+    {
+        "value": "Yamal-Nenets",
+        "label": "Yamal-Nenets"
+    },
+    {
+        "value": "Yamanashi",
+        "label": "Yamanashi"
+    },
+    {
+        "value": "Yambol",
+        "label": "Yambol"
+    },
+    {
+        "value": "Yangon",
+        "label": "Yangon"
+    },
+    {
+        "value": "Yaroslavl'",
+        "label": "Yaroslavl'"
+    },
+    {
+        "value": "Yasothon",
+        "label": "Yasothon"
+    },
+    {
+        "value": "Yazd",
+        "label": "Yazd"
+    },
+    {
+        "value": "YeDebub Biheroch Bihereseboch na Hizboch",
+        "label": "YeDebub Biheroch Bihereseboch na Hizboch"
+    },
+    {
+        "value": "Yerevan",
+        "label": "Yerevan"
+    },
+    {
+        "value": "Yerushalayim",
+        "label": "Yerushalayim"
+    },
+    {
+        "value": "Yevrey",
+        "label": "Yevrey"
+    },
+    {
+        "value": "Yobe",
+        "label": "Yobe"
+    },
+    {
+        "value": "Yogyakarta",
+        "label": "Yogyakarta"
+    },
+    {
+        "value": "York",
+        "label": "York"
+    },
+    {
+        "value": "Yozgat",
+        "label": "Yozgat"
+    },
+    {
+        "value": "Yucatan",
+        "label": "Yucatan"
+    },
+    {
+        "value": "Yukon Territory",
+        "label": "Yukon Territory"
+    },
+    {
+        "value": "Yunnan",
+        "label": "Yunnan"
+    },
+    {
+        "value": "Zabaykal'skiy Kray",
+        "label": "Zabaykal'skiy Kray"
+    },
+    {
+        "value": "Zacatecas",
+        "label": "Zacatecas"
+    },
+    {
+        "value": "Zachodniopomorskie",
+        "label": "Zachodniopomorskie"
+    },
+    {
+        "value": "Zadarska",
+        "label": "Zadarska"
+    },
+    {
+        "value": "Zaghouan",
+        "label": "Zaghouan"
+    },
+    {
+        "value": "Zagorje ob Savi Commune",
+        "label": "Zagorje ob Savi Commune"
+    },
+    {
+        "value": "Zagrebacka",
+        "label": "Zagrebacka"
+    },
+    {
+        "value": "Zakarpats'ka Oblast'",
+        "label": "Zakarpats'ka Oblast'"
+    },
+    {
+        "value": "Zakinthos",
+        "label": "Zakinthos"
+    },
+    {
+        "value": "Zala",
+        "label": "Zala"
+    },
+    {
+        "value": "Zalec Commune",
+        "label": "Zalec Commune"
+    },
+    {
+        "value": "Zambales",
+        "label": "Zambales"
+    },
+    {
+        "value": "Zamboanga",
+        "label": "Zamboanga"
+    },
+    {
+        "value": "Zamboanga del Norte",
+        "label": "Zamboanga del Norte"
+    },
+    {
+        "value": "Zamboanga del Sur",
+        "label": "Zamboanga del Sur"
+    },
+    {
+        "value": "Zamfara",
+        "label": "Zamfara"
+    },
+    {
+        "value": "Zanjan",
+        "label": "Zanjan"
+    },
+    {
+        "value": "Zanzibar Urban",
+        "label": "Zanzibar Urban"
+    },
+    {
+        "value": "Zaporiz'ka Oblast'",
+        "label": "Zaporiz'ka Oblast'"
+    },
+    {
+        "value": "Zeeland",
+        "label": "Zeeland"
+    },
+    {
+        "value": "Zelezniki Commune",
+        "label": "Zelezniki Commune"
+    },
+    {
+        "value": "Zhejiang",
+        "label": "Zhejiang"
+    },
+    {
+        "value": "Zhytomyrs'ka Oblast'",
+        "label": "Zhytomyrs'ka Oblast'"
+    },
+    {
+        "value": "Ziguinchor",
+        "label": "Ziguinchor"
+    },
+    {
+        "value": "Zilina",
+        "label": "Zilina"
+    },
+    {
+        "value": "Ziri Commune",
+        "label": "Ziri Commune"
+    },
+    {
+        "value": "Zlinsky kraj",
+        "label": "Zlinsky kraj"
+    },
+    {
+        "value": "Zou",
+        "label": "Zou"
+    },
+    {
+        "value": "Zrece Commune",
+        "label": "Zrece Commune"
+    },
+    {
+        "value": "Zufar",
+        "label": "Zufar"
+    },
+    {
+        "value": "Zug",
+        "label": "Zug"
+    },
+    {
+        "value": "Zuid-Holland",
+        "label": "Zuid-Holland"
+    },
+    {
+        "value": "Zurich",
+        "label": "Zurich"
+    }
+]

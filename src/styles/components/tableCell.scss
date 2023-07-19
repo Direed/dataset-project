@@ -1,0 +1,18 @@
+.tableCellWebsiteWrapper {
+    text-decoration: none;
+    color: blue;
+    cursor: pointer;
+    overflow: hidden;
+    max-width: 200px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+
+.tableCellWebsiteWrapper:hover {
+    font-size: 15px;
+}
+
+.description {
+    cursor: pointer;
+}

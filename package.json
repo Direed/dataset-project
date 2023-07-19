@@ -1,0 +1,106 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@material-ui/core": "^5.0.0-beta.5",
+    "@material-ui/icons": "^4.11.2",
+    "@mui/icons-material": "^5.0.5",
+    "@mui/lab": "^5.0.0-alpha.54",
+    "@mui/material": "^5.0.6",
+    "@mui/styled-engine-sc": "^5.0.4",
+    "@mui/styles": "^5.0.2",
+    "@netojose/react-select-datepicker": "^1.0.2",
+    "@react-oauth/google": "^0.2.2",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@types/jest": "^26.0.15",
+    "@types/node": "^12.0.0",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@types/react-redux": "^7.1.20",
+    "@types/react-router": "^5.1.17",
+    "@types/react-router-dom": "^5.3.2",
+    "@types/react-select": "^5.0.1",
+    "@types/yup": "^0.29.13",
+    "axios": "^0.24.0",
+    "chart.js": "^3.6.2",
+    "connected-react-router": "^6.9.1",
+    "date-fns": "^2.25.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "faker": "^5.5.3",
+    "formik": "^2.2.9",
+    "graphql": "^16.5.0",
+    "jwt-decode": "^3.1.2",
+    "material-table": "^1.69.3",
+    "moment": "^2.29.1",
+    "node-sass": "^6.0.1",
+    "notistack": "^2.0.3",
+    "prettier": "^2.4.1",
+    "react": "^17.0.2",
+    "react-beautiful-dnd": "^13.1.0",
+    "react-chartjs-2": "^4.0.0",
+    "react-csv": "^2.2.2",
+    "react-data-export": "^0.6.0",
+    "react-datepicker": "^4.8.0",
+    "react-device-detect": "^2.1.2",
+    "react-dnd": "^14.0.5",
+    "react-dnd-html5-backend": "^14.1.0",
+    "react-dom": "^17.0.2",
+    "react-google-oauth": "^1.0.0",
+    "react-idle-timer": "^4.6.4",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-redux": "^7.2.6",
+    "react-router": "^5.2.1",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "4.0.3",
+    "react-select": "^5.2.1",
+    "react-sortable": "^2.0.0",
+    "react-sortable-hoc": "^2.0.0",
+    "redux": "^4.1.2",
+    "redux-logger": "^3.0.6",
+    "redux-saga": "^1.1.3",
+    "styled-components": "^5.3.3",
+    "typesafe-actions": "^5.1.0",
+    "typescript": "^4.4.4",
+    "web-vitals": "^1.0.1",
+    "xlsx": "^0.18.5",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "prettier": "prettier --write 'src/**/*.{js,ts,tsx}'",
+    "lint": "tsc --noEmit && eslint --quiet --color 'src/**/*.{js,ts,tsx}'",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "app/node_modules/.bin/react-scripts test",
+    "eject": "app/node_modules/.bin/react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "lint-staged": {
+    "*.{js,ts,tsx}": [
+      "eslint --quiet --color --fix",
+      "prettier --write"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

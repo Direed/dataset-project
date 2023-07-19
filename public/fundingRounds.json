@@ -1,0 +1,114 @@
+[
+  {
+    "label": "Seed",
+    "value": "seed"
+  },
+  {
+    "label": "Private equity",
+    "value": "private_equity"
+  },
+  {
+    "label": "Series G",
+    "value": "series_g"
+  },
+  {
+    "label": "Series C",
+    "value": "series_c"
+  },
+  {
+    "label": "Series B",
+    "value": "series_b"
+  },
+  {
+    "label": "Series E",
+    "value": "series_e"
+  },
+  {
+    "label": "Angel round",
+    "value": "angel"
+  },
+  {
+    "label": "Series A",
+    "value": "series_a"
+  },
+  {
+    "label": "Unknown",
+    "value": "series_unknown"
+  },
+  {
+    "label": "Pre-seed",
+    "value": "pre_seed"
+  },
+  {
+    "label": "Post IPO secondary",
+    "value": "post_ipo_secondary"
+  },
+  {
+    "label": "Non-equity assistance",
+    "value": "non_equity_assistance"
+  },
+  {
+    "label": "Series I",
+    "value": "series_i"
+  },
+  {
+    "label": "Debt financing",
+    "value": "debt_financing"
+  },
+  {
+    "label": "Corporate round",
+    "value": "corporate_round"
+  },
+  {
+    "label": "Undisclosed",
+    "value": "undisclosed"
+  },
+  {
+    "label": "Equity Crowdfunding",
+    "value": "equity_crowdfunding"
+  },
+  {
+    "label": "Series D",
+    "value": "series_d"
+  },
+  {
+    "label": "Grant",
+    "value": "grant"
+  },
+  {
+    "label": "Series F",
+    "value": "series_f"
+  },
+  {
+    "label": "Secondary Market",
+    "value": "secondary_market"
+  },
+  {
+    "label": "Product crowdfunding",
+    "value": "product_crowdfunding"
+  },
+  {
+    "label": "Post IPO debt",
+    "value": "post_ipo_debt"
+  },
+  {
+    "label": "Post IPO equity",
+    "value": "post_ipo_equity"
+  },
+  {
+    "label": "Convertible note",
+    "value": "convertible_note"
+  },
+  {
+    "label": "Initial coin offering",
+    "value": "initial_coin_offering"
+  },
+  {
+    "label": "Series H",
+    "value": "series_h"
+  },
+  {
+    "label": "Series J",
+    "value": "series_j"
+  }
+]

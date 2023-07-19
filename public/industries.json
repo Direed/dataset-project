@@ -1,0 +1,122 @@
+[
+  {
+    "label": "Communication",
+    "value": "Communication"
+  },
+  {
+    "label": "Computation",
+    "value": "Computation"
+  },
+  {
+    "label": "Content, (Social-)Media & Publishing",
+    "value": "Content, (Social-)Media & Publishing"
+  },
+  {
+    "label": "CyberSecurity",
+    "value": "CyberSecurity"
+  },
+  {
+    "label": "Data Tools",
+    "value": "Data Tools"
+  },
+  {
+    "label": "Developer Tools",
+    "value": "Developer Tools"
+  },
+  {
+    "label": "Digital Health & Sports",
+    "value": "Digital Health & Sports"
+  },
+  {
+    "label": "EdTech",
+    "value": "EdTech"
+  },
+  {
+    "label": "Energy & Utilities",
+    "value": "Energy & Utilities"
+  },
+  {
+    "label": "Fashion & Lifestyle",
+    "value": "Fashion & Lifestyle"
+  },
+  {
+    "label": "FinTech",
+    "value": "FinTech"
+  },
+  {
+    "label": "Food & Agriculture",
+    "value": "Food & Agriculture"
+  },
+  {
+    "label": "Gaming & Entertainment",
+    "value": "Gaming & Entertainment"
+  },
+  {
+    "label": "GreenTech",
+    "value": "GreenTech"
+  },
+  {
+    "label": "HRTech",
+    "value": "HRTech"
+  },
+  {
+    "label": "Hardware",
+    "value": "Hardware"
+  },
+  {
+    "label": "IndustrialTech",
+    "value": "IndustrialTech"
+  },
+  {
+    "label": "InsureTech",
+    "value": "InsureTech"
+  },
+  {
+    "label": "LegalTech & RegTech",
+    "value": "LegalTech & RegTech"
+  },
+  {
+    "label": "Logistics & Supply Chain",
+    "value": "Logistics & Supply Chain"
+  },
+  {
+    "label": "MarTech & AdTech",
+    "value": "MarTech & AdTech"
+  },
+  {
+    "label": "Missing",
+    "value": "Missing"
+  },
+  {
+    "label": "Mobility & Automotive",
+    "value": "Mobility & Automotive"
+  },
+  {
+    "label": "OtherCbIndustry",
+    "value": "OtherCbIndustry"
+  },
+  {
+    "label": "Others",
+    "value": "Others"
+  },
+  {
+    "label": "Productivity",
+    "value": "Productivity"
+  },
+  {
+    "label": "PropTech",
+    "value": "PropTech"
+  },
+  {
+    "label": "Retail & eCommerce",
+    "value": "Retail & eCommerce"
+  },
+  {
+    "label": "SpaceTech",
+    "value": "SpaceTech"
+  },
+  {
+    "label": "Travel",
+    "value": "Travel"
+  }
+]
